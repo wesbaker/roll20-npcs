@@ -1,0 +1,807 @@
+{
+    "schema_version": 2,
+    "oldId": "-M0K23Z9sVrTC05dYgY0",
+    "name": "Strangling Vine",
+    "avatar": "",
+    "bio": "",
+    "gmnotes": "",
+    "defaulttoken": "",
+    "tags": "[\"Monster\"]",
+    "controlledby": "-LbPNRTARk1yWfI-PoVU",
+    "inplayerjournals": "-LbPNRTARk1yWfI-PoVU",
+    "attribs": [
+        {
+            "name": "attribute",
+            "current": 0,
+            "max": "",
+            "id": "-M0K26vt_3MdQXcGupk5"
+        },
+        {
+            "name": "skill",
+            "current": 0,
+            "max": "",
+            "id": "-M0K26vyG6qlGaakU8OX"
+        },
+        {
+            "name": "gear",
+            "current": 0,
+            "max": "",
+            "id": "-M0K26w1u1mJSRFSd4HS"
+        },
+        {
+            "name": "attribute_die_twelve",
+            "current": 0,
+            "max": "",
+            "id": "-M0K26w3hQXpEAAJznr9"
+        },
+        {
+            "name": "attribute_die_eleven",
+            "current": 0,
+            "max": "",
+            "id": "-M0K26w6ijEurnpKzUBD"
+        },
+        {
+            "name": "attribute_die_ten",
+            "current": 0,
+            "max": "",
+            "id": "-M0K26w9Ciap4oKCp0Jv"
+        },
+        {
+            "name": "attribute_die_nine",
+            "current": 0,
+            "max": "",
+            "id": "-M0K26wBbO43lKyvp_KF"
+        },
+        {
+            "name": "attribute_die_eight",
+            "current": 0,
+            "max": "",
+            "id": "-M0K26wCFFEH2cKgryv3"
+        },
+        {
+            "name": "attribute_die_seven",
+            "current": 0,
+            "max": "",
+            "id": "-M0K26wDip_zjSdCbC6q"
+        },
+        {
+            "name": "attribute_die_six",
+            "current": 0,
+            "max": "",
+            "id": "-M0K26wFy_0VM5bqALEC"
+        },
+        {
+            "name": "attribute_die_five",
+            "current": 0,
+            "max": "",
+            "id": "-M0K26wHm0S6vEfekxtH"
+        },
+        {
+            "name": "attribute_die_four",
+            "current": 0,
+            "max": "",
+            "id": "-M0K26wIN9epIyzLj5RB"
+        },
+        {
+            "name": "attribute_die_three",
+            "current": 0,
+            "max": "",
+            "id": "-M0K26wKXhWY0PzlJJna"
+        },
+        {
+            "name": "attribute_die_two",
+            "current": 0,
+            "max": "",
+            "id": "-M0K26wLpVJK83A5Znde"
+        },
+        {
+            "name": "attribute_die_one",
+            "current": 0,
+            "max": "",
+            "id": "-M0K26wM6j1ZgGrndV8F"
+        },
+        {
+            "name": "negative_die_one",
+            "current": 0,
+            "max": "",
+            "id": "-M0K26wM6j1ZgGrndV8G"
+        },
+        {
+            "name": "negative_die_two",
+            "current": 0,
+            "max": "",
+            "id": "-M0K26wOBxhQubWrKTLE"
+        },
+        {
+            "name": "negative_die_three",
+            "current": 0,
+            "max": "",
+            "id": "-M0K26wQU92_iHcGqBpp"
+        },
+        {
+            "name": "skill_die_ten",
+            "current": 0,
+            "max": "",
+            "id": "-M0K26wSEJUxICPvytz6"
+        },
+        {
+            "name": "skill_die_nine",
+            "current": 0,
+            "max": "",
+            "id": "-M0K26wTz2fzuaM8QdKK"
+        },
+        {
+            "name": "skill_die_eight",
+            "current": 0,
+            "max": "",
+            "id": "-M0K26wU4ldH2rOYFzdi"
+        },
+        {
+            "name": "skill_die_seven",
+            "current": 0,
+            "max": "",
+            "id": "-M0K26wVI43hv0z8_xVk"
+        },
+        {
+            "name": "skill_die_six",
+            "current": 0,
+            "max": "",
+            "id": "-M0K26wWFfwlLciUNyBw"
+        },
+        {
+            "name": "skill_die_five",
+            "current": 0,
+            "max": "",
+            "id": "-M0K26wYGnfzFkShKlQF"
+        },
+        {
+            "name": "skill_die_four",
+            "current": 0,
+            "max": "",
+            "id": "-M0K26w_cGkTEzEmzo5y"
+        },
+        {
+            "name": "skill_die_three",
+            "current": 0,
+            "max": "",
+            "id": "-M0K26wageAKz62LNar-"
+        },
+        {
+            "name": "skill_die_two",
+            "current": 0,
+            "max": "",
+            "id": "-M0K26wbV1TcmKalprWR"
+        },
+        {
+            "name": "skill_die_one",
+            "current": 0,
+            "max": "",
+            "id": "-M0K26wcNJgr2jsI0PG2"
+        },
+        {
+            "name": "gear_die_twelve",
+            "current": 0,
+            "max": "",
+            "id": "-M0K26wd9GV0mlPctYTi"
+        },
+        {
+            "name": "gear_die_eleven",
+            "current": 0,
+            "max": "",
+            "id": "-M0K26wf4PJbeGxCVBy7"
+        },
+        {
+            "name": "gear_die_ten",
+            "current": 0,
+            "max": "",
+            "id": "-M0K26wgBre5fOzOahsE"
+        },
+        {
+            "name": "gear_die_nine",
+            "current": 0,
+            "max": "",
+            "id": "-M0K26whoAT7puqwd1TW"
+        },
+        {
+            "name": "gear_die_eight",
+            "current": 0,
+            "max": "",
+            "id": "-M0K26wjnwiWvtF57dUF"
+        },
+        {
+            "name": "gear_die_seven",
+            "current": 0,
+            "max": "",
+            "id": "-M0K26wkZajExRC4m5pH"
+        },
+        {
+            "name": "gear_die_six",
+            "current": 0,
+            "max": "",
+            "id": "-M0K26wl3oP1TB6KczZm"
+        },
+        {
+            "name": "gear_die_five",
+            "current": 0,
+            "max": "",
+            "id": "-M0K26wm4g-iQ7AHXvMC"
+        },
+        {
+            "name": "gear_die_four",
+            "current": 0,
+            "max": "",
+            "id": "-M0K26wo4NUr8eoHBWid"
+        },
+        {
+            "name": "gear_die_three",
+            "current": 0,
+            "max": "",
+            "id": "-M0K26wpsD1ZEb_ZkPT3"
+        },
+        {
+            "name": "gear_die_two",
+            "current": 0,
+            "max": "",
+            "id": "-M0K26wqGpRLCZEeXADs"
+        },
+        {
+            "name": "gear_die_one",
+            "current": 0,
+            "max": "",
+            "id": "-M0K26wr-XGRK0HrNIpm"
+        },
+        {
+            "name": "artifact_die_eight",
+            "current": 0,
+            "max": "",
+            "id": "-M0K26wsj_biZOFGTmzm"
+        },
+        {
+            "name": "artifact_die_ocho",
+            "current": 0,
+            "max": "",
+            "id": "-M0K26wu-5wtkaBc7AC6"
+        },
+        {
+            "name": "artifact_die_ten",
+            "current": 0,
+            "max": "",
+            "id": "-M0K26wvpKMbrlvGCgJ-"
+        },
+        {
+            "name": "artifact_die_twelve",
+            "current": 0,
+            "max": "",
+            "id": "-M0K26wx-gnb_5vz7YZN"
+        },
+        {
+            "name": "current_preset",
+            "current": "Custom Roll",
+            "max": "",
+            "id": "-M0K26wzjH6vR1O8qdc1"
+        },
+        {
+            "name": "include_with_roll",
+            "current": "",
+            "max": "",
+            "id": "-M0K26x0vqC7tnZPu46E"
+        },
+        {
+            "name": "version",
+            "current": 1.67,
+            "max": "",
+            "id": "-M0K26xCDeWXHUrL61_i"
+        },
+        {
+            "name": "armor_encumbrance",
+            "current": "0.0",
+            "max": "",
+            "id": "-M0K26xE4BpJHjVS420o"
+        },
+        {
+            "name": "shield_encumbrance",
+            "current": "0.0",
+            "max": "",
+            "id": "-M0K26xGJvpB7Xo6sRDO"
+        },
+        {
+            "name": "coins_carried",
+            "current": "0.0",
+            "max": "",
+            "id": "-M0K26xIZj6g9b-72kaH"
+        },
+        {
+            "name": "coins_carried_mount",
+            "current": "0.0",
+            "max": "",
+            "id": "-M0K26xKm4YAHcUJlOPD"
+        },
+        {
+            "name": "armor_shield_encumbrance",
+            "current": 0,
+            "max": "",
+            "id": "-M0K26xLkrwZwT3LDEFL"
+        },
+        {
+            "name": "character_encumbrance",
+            "current": 0,
+            "max": "",
+            "id": "-M0K26xNEEXu4cb3cj_J"
+        },
+        {
+            "name": "mount_encumbrance",
+            "current": 0,
+            "max": "",
+            "id": "-M0K26xOEyOonLegcqFf"
+        },
+        {
+            "name": "gold_total",
+            "current": 0,
+            "max": "",
+            "id": "-M0K26xPCqzKsuyey1ad"
+        },
+        {
+            "name": "silver_total",
+            "current": 0,
+            "max": "",
+            "id": "-M0K26xQD5lUIX2JBKop"
+        },
+        {
+            "name": "copper_total",
+            "current": 0,
+            "max": "",
+            "id": "-M0K26xSZeRqwudfzPs4"
+        },
+        {
+            "name": "strength",
+            "current": 6,
+            "max": "",
+            "id": "-M0K26xTU0OKRGWfZGIP"
+        },
+        {
+            "name": "reputation_total",
+            "current": 0,
+            "max": "",
+            "id": "-M0K26xUBW9Fix9b3-qk"
+        },
+        {
+            "name": "armor_artifact_die_ocho",
+            "current": 0,
+            "max": "",
+            "id": "-M0K26xW4MaS7MVX6_q1"
+        },
+        {
+            "name": "armor_artifact_die_eight",
+            "current": 0,
+            "max": "",
+            "id": "-M0K26xW4MaS7MVX6_q2"
+        },
+        {
+            "name": "armor_artifact_die_ten",
+            "current": 0,
+            "max": "",
+            "id": "-M0K26xXM718pIB9TRgX"
+        },
+        {
+            "name": "armor_artifact_die_twelve",
+            "current": 0,
+            "max": "",
+            "id": "-M0K26xZWqY6dc6s2j2P"
+        },
+        {
+            "name": "translation_push_query",
+            "current": "Is the Dice Pool correct...? (hint:remove successes and bane) |Yes - Submit to Roll.,Dice Pool is correct.|No - Cancel.,Dice Pool needs to be corrected.",
+            "max": "",
+            "id": "-M0K26xav25ONP19oINd"
+        },
+        {
+            "name": "strength_total",
+            "current": 6,
+            "max": 6,
+            "id": "-M0K26xbC9_B4-SWnAP3"
+        },
+        {
+            "name": "agility_total",
+            "current": 1,
+            "max": 1,
+            "id": "-M0K26xdkp9AP-TkWRRr"
+        },
+        {
+            "name": "wits_total",
+            "current": 0,
+            "max": 0,
+            "id": "-M0K26xec7b6w8O09pS_"
+        },
+        {
+            "name": "empathy_total",
+            "current": 0,
+            "max": 0,
+            "id": "-M0K26xgN_n1YcFKE8e5"
+        },
+        {
+            "name": "show_announcements",
+            "current": 1,
+            "max": "",
+            "id": "-M0K26xjLVMIpORqWYg-"
+        },
+        {
+            "name": "hirelings_cost",
+            "current": 0,
+            "max": "",
+            "id": "-M0K26xlW3lBUupD3o-v"
+        },
+        {
+            "name": "character_gear_encumbrance",
+            "current": 0,
+            "max": "",
+            "id": "-M0K26xmT8z9THiYjvqW"
+        },
+        {
+            "name": "mount_gear_encumbrance",
+            "current": 0,
+            "max": "",
+            "id": "-M0K26xnhYVcik1R4ZUR"
+        },
+        {
+            "name": "weapons_encumbrance",
+            "current": 0,
+            "max": "",
+            "id": "-M0K26xqb419xAeqcElb"
+        },
+        {
+            "name": "tab",
+            "current": "3",
+            "max": "",
+            "id": "-M0K27VkbJeqJYCjka4q"
+        },
+        {
+            "name": "armor1_bonus",
+            "current": 0,
+            "max": "0",
+            "id": "-M0K2868JODYclUQSkoa"
+        },
+        {
+            "name": "armor1_ar",
+            "current": 0,
+            "max": "",
+            "id": "-M0K287r9LohGT0NVx5K"
+        },
+        {
+            "name": "armor2_ar",
+            "current": 0,
+            "max": "",
+            "id": "-M0K287vJQuIrGa2-PGk"
+        },
+        {
+            "name": "ar",
+            "current": 0,
+            "max": "",
+            "id": "-M0K287zb862YEA4ZNoT"
+        },
+        {
+            "name": "armor2_bonus",
+            "current": 0,
+            "max": "",
+            "id": "-M0K2881LT_CjYE2INjp"
+        },
+        {
+            "name": "shield1_bonus",
+            "current": 0,
+            "max": "",
+            "id": "-M0K2882v0sZZm0UJRqc"
+        },
+        {
+            "name": "shield1_bonus_total",
+            "current": 6,
+            "max": "",
+            "id": "-M0K2884qK1NcwwZRQRA"
+        },
+        {
+            "name": "strength_monster",
+            "current": "6",
+            "max": "",
+            "id": "-M0K298n06I9rXW04QUR"
+        },
+        {
+            "name": "crafting_total",
+            "current": 6,
+            "max": "",
+            "id": "-M0K29DjwIcX8Zs8f9uV"
+        },
+        {
+            "name": "endurance_total",
+            "current": 6,
+            "max": "",
+            "id": "-M0K29DmqcYx9KT8gUqQ"
+        },
+        {
+            "name": "melee_total",
+            "current": 6,
+            "max": "",
+            "id": "-M0K29DozOcHrJGz8Ct0"
+        },
+        {
+            "name": "might_total",
+            "current": 6,
+            "max": "",
+            "id": "-M0K29DqP9yQjbPm2Zky"
+        },
+        {
+            "name": "agility",
+            "current": 1,
+            "max": "",
+            "id": "-M0K29pm9bAsMMuZnGg0"
+        },
+        {
+            "name": "marksmanship_total",
+            "current": 1,
+            "max": "",
+            "id": "-M0K29vm1Ay97qW_TMGw"
+        },
+        {
+            "name": "move_total",
+            "current": 1,
+            "max": "",
+            "id": "-M0K29vpyf9eNTK4oZkv"
+        },
+        {
+            "name": "sleight_of_hand_total",
+            "current": 1,
+            "max": "",
+            "id": "-M0K29vrk5Omr2xsG34d"
+        },
+        {
+            "name": "stealth_total",
+            "current": 1,
+            "max": "",
+            "id": "-M0K29vtsJ8TFjsKytpg"
+        },
+        {
+            "name": "strength_pc",
+            "current": 6,
+            "max": "",
+            "id": "-M0K8qJhWiYDMv20D-Ur"
+        },
+        {
+            "name": "repeating_monster_-M0K8uATyw3i77VlnMc4_attack_name",
+            "current": "Spore Attack!",
+            "max": "",
+            "id": "-M0K8zMnaf9Mto8r4Fcg"
+        },
+        {
+            "name": "repeating_monster_-M0K8uATyw3i77VlnMc4_attack_dice",
+            "current": "8",
+            "max": "",
+            "id": "-M0K90L7tbxzWt6rRaLJ"
+        },
+        {
+            "name": "repeating_monster_-M0K8uATyw3i77VlnMc4_attack_damage",
+            "current": "1",
+            "max": "",
+            "id": "-M0K90dolheLDb79daUO"
+        },
+        {
+            "name": "repeating_monster_-M0K8uATyw3i77VlnMc4_attack_features",
+            "current": "Paralyzing Poison",
+            "max": "",
+            "id": "-M0K920Ur_Il83MUJ4Dd"
+        },
+        {
+            "name": "repeating_monster_-M0K8uATyw3i77VlnMc4_attack_range",
+            "current": "Near",
+            "max": "",
+            "id": "-M0K92RkLR1nBkHC0aPP"
+        },
+        {
+            "name": "repeating_monster_-M0K8uATyw3i77VlnMc4_attack_description",
+            "current": "The creature emits a cloud of spores in the direction of an adventurer.",
+            "max": "",
+            "id": "-M0K95w_UH4LJUf5hL1m"
+        },
+        {
+            "name": "repeating_monster_-M0K96HpV341HWhyjlVP_attack_name",
+            "current": "Strangle Attack!",
+            "max": "",
+            "id": "-M0K98Gn_v4Q3WaJICfw"
+        },
+        {
+            "name": "repeating_monster_-M0K96HpV341HWhyjlVP_attack_dice",
+            "current": "6",
+            "max": "",
+            "id": "-M0K994rkDt-odWqBOAV"
+        },
+        {
+            "name": "repeating_monster_-M0K96HpV341HWhyjlVP_attack_damage",
+            "current": "1",
+            "max": "",
+            "id": "-M0K99EEG6ZNYrx3fR4T"
+        },
+        {
+            "name": "repeating_monster_-M0K96HpV341HWhyjlVP_attack_features",
+            "current": "Blunt",
+            "max": "",
+            "id": "-M0K99sRj2IgUucfp1tB"
+        },
+        {
+            "name": "repeating_monster_-M0K96HpV341HWhyjlVP_attack_range",
+            "current": "Near",
+            "max": "",
+            "id": "-M0K9AXwk6hGyDRtnhS9"
+        },
+        {
+            "name": "repeating_monster_-M0K96HpV341HWhyjlVP_attack_description",
+            "current": "Vines ensnare all adventurers within Near range. All victims hit are thrown to the ground.",
+            "max": "",
+            "id": "-M0K9F6IEH2GPBzd2NMC"
+        },
+        {
+            "name": "repeating_monster_-M0K9FXEZOvNgrXxTgjw_attack_name",
+            "current": "Whipping Vine!",
+            "max": "",
+            "id": "-M0K9GPJis5k07ZHyL_n"
+        },
+        {
+            "name": "repeating_monster_-M0K9FXEZOvNgrXxTgjw_attack_dice",
+            "current": "8",
+            "max": "",
+            "id": "-M0K9HCpVFrfzzVTiGYt"
+        },
+        {
+            "name": "repeating_monster_-M0K9FXEZOvNgrXxTgjw_attack_damage",
+            "current": "2",
+            "max": "",
+            "id": "-M0K9HM3fPV7Y65sY22Y"
+        },
+        {
+            "name": "repeating_monster_-M0K9FXEZOvNgrXxTgjw_attack_features",
+            "current": "Blunt",
+            "max": "",
+            "id": "-M0K9IWLWcrHDffs5mtY"
+        },
+        {
+            "name": "repeating_monster_-M0K9FXEZOvNgrXxTgjw_attack_range",
+            "current": "Near",
+            "max": "",
+            "id": "-M0K9IaEB4o2oP0FhoJR"
+        },
+        {
+            "name": "repeating_monster_-M0K9FXEZOvNgrXxTgjw_attack_description",
+            "current": "A thick vine whips an adventurer. If the attack hits, the adventurer is thrown to the ground.",
+            "max": "",
+            "id": "-M0K9P6ZYATB0Ng-Ggg2"
+        },
+        {
+            "name": "repeating_monster_-M0K9PL4MvLZxDHqiCGt_attack_name",
+            "current": "Deadly Embrace!",
+            "max": "",
+            "id": "-M0K9QeJe0gFTxYLrpNE"
+        },
+        {
+            "name": "repeating_monster_-M0K9PL4MvLZxDHqiCGt_attack_dice",
+            "current": "8",
+            "max": "",
+            "id": "-M0K9RNEnIjOk4MGObMv"
+        },
+        {
+            "name": "repeating_monster_-M0K9PL4MvLZxDHqiCGt_attack_damage",
+            "current": "1",
+            "max": "",
+            "id": "-M0K9RVunKy9oiA1xJOG"
+        },
+        {
+            "name": "repeating_monster_-M0K9PL4MvLZxDHqiCGt_attack_features",
+            "current": "Blunt",
+            "max": "",
+            "id": "-M0K9Rt3KFe3j6yMbw65"
+        },
+        {
+            "name": "repeating_monster_-M0K9PL4MvLZxDHqiCGt_attack_range",
+            "current": "Near",
+            "max": "",
+            "id": "-M0K9S2qeZSBjZ5sgM3K"
+        },
+        {
+            "name": "repeating_monster_-M0K9PL4MvLZxDHqiCGt_attack_description",
+            "current": "A tangle of vines ensnares an adventurer. If the attack hits, the adventurer is Grappled.",
+            "max": "",
+            "id": "-M0K9XM__fLB_Ae1_X1p"
+        },
+        {
+            "name": "repeating_monster_-M0K9XfZzn2TZhh8aCTw_attack_name",
+            "current": "Penetrating Attack!",
+            "max": "",
+            "id": "-M0K9Yu_d8oaG9yjOPQg"
+        },
+        {
+            "name": "repeating_monster_-M0K9XfZzn2TZhh8aCTw_attack_dice",
+            "current": "10",
+            "max": "",
+            "id": "-M0K9ZoFHWHk3yju1J3V"
+        },
+        {
+            "name": "repeating_monster_-M0K9XfZzn2TZhh8aCTw_attack_damage",
+            "current": "2",
+            "max": "",
+            "id": "-M0K9_0oSjLqBwggn4iZ"
+        },
+        {
+            "name": "repeating_monster_-M0K9XfZzn2TZhh8aCTw_attack_features",
+            "current": "Slash",
+            "max": "",
+            "id": "-M0K9_zYp0C5p5-H-GKI"
+        },
+        {
+            "name": "repeating_monster_-M0K9XfZzn2TZhh8aCTw_attack_range",
+            "current": "Near",
+            "max": "",
+            "id": "-M0K9a1VhTGj7ob2yTEY"
+        },
+        {
+            "name": "repeating_monster_-M0K9XfZzn2TZhh8aCTw_attack_description",
+            "current": "A vine tries to force its way into a body cavity of an adventurer. The attack damages both Strength and Empathy due to the horrifying experience.",
+            "max": "",
+            "id": "-M0K9gxaWAsFURYqB47p"
+        },
+        {
+            "name": "repeating_monster_-M0K9hORTK054AWRqPNQ_attack_dice",
+            "current": "8",
+            "max": "",
+            "id": "-M0K9hjfuN9BjXVkCvm6"
+        },
+        {
+            "name": "repeating_monster_-M0K9hORTK054AWRqPNQ_attack_name",
+            "current": "Poisonous Cloud!",
+            "max": "",
+            "id": "-M0K9ijar3xuIC0xlBsI"
+        },
+        {
+            "name": "repeating_monster_-M0K9hORTK054AWRqPNQ_attack_damage",
+            "current": "1",
+            "max": "",
+            "id": "-M0K9k4aGSWp1zqbpfmT"
+        },
+        {
+            "name": "repeating_monster_-M0K9hORTK054AWRqPNQ_attack_features",
+            "current": "Paralyzing Poison",
+            "max": "",
+            "id": "-M0K9km7k7PbiY506ig1"
+        },
+        {
+            "name": "repeating_monster_-M0K9hORTK054AWRqPNQ_attack_range",
+            "current": "Near",
+            "max": "",
+            "id": "-M0K9lD-eBrfbZvL_Ymc"
+        },
+        {
+            "name": "repeating_monster_-M0K9hORTK054AWRqPNQ_attack_description",
+            "current": "The creature’s purple flowers open up and emit a cloud of spores that affects all adventurers within Near range.",
+            "max": "",
+            "id": "-M0K9qqNKCmZuPsMzMFK"
+        },
+        {
+            "name": "translation_whisper_macro_query",
+            "current": "?{Whisper roll?|No,|Yes,/w gm |}",
+            "max": "",
+            "id": "-M5giIlNyDs9bjMcXeoq"
+        },
+        {
+            "name": "translation_whisper_api_macro_query",
+            "current": "?{Whisper roll?|No,!forl |Yes,!wforl |}",
+            "max": "",
+            "id": "-M5giIlOq_G2RNbuxHKP"
+        },
+        {
+            "name": "wits",
+            "current": 0,
+            "max": "",
+            "id": "-M5giIlZhAG1XJ-I9h8L"
+        },
+        {
+            "name": "empathy",
+            "current": 0,
+            "max": "",
+            "id": "-M5giIlbbDgRb3vQfE9M"
+        }
+    ],
+    "abilities": []
+}

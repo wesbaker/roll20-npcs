@@ -1,0 +1,1023 @@
+{
+    "schema_version": 2,
+    "oldId": "-LiOmGGWidkLf1CZkX3v",
+    "name": "Melder",
+    "avatar": "",
+    "bio": "",
+    "gmnotes": "",
+    "defaulttoken": "",
+    "tags": "[]",
+    "controlledby": "-LbPNRTARk1yWfI-PoVU",
+    "inplayerjournals": "-LbPNRTARk1yWfI-PoVU",
+    "attribs": [
+        {
+            "name": "animal_handling_total",
+            "current": 3,
+            "max": "",
+            "id": "-LiOmGI6gccFrZ7RQShU"
+        },
+        {
+            "name": "crafting_total",
+            "current": 7,
+            "max": "",
+            "id": "-LiOmGI7qMZlWResmcMs"
+        },
+        {
+            "name": "endurance_total",
+            "current": 3,
+            "max": "",
+            "id": "-LiOmGI7qMZlWResmcMt"
+        },
+        {
+            "name": "healing_total",
+            "current": 3,
+            "max": "",
+            "id": "-LiOmGI8KaGbKl9GVepi"
+        },
+        {
+            "name": "insight_total",
+            "current": 4,
+            "max": "",
+            "id": "-LiOmGI8KaGbKl9GVepj"
+        },
+        {
+            "name": "lore_total",
+            "current": 8,
+            "max": "",
+            "id": "-LiOmGI9WpsarI6HxuH5"
+        },
+        {
+            "name": "manipulation_total",
+            "current": 3,
+            "max": "",
+            "id": "-LiOmGI9WpsarI6HxuH6"
+        },
+        {
+            "name": "marksmanship_total",
+            "current": 4,
+            "max": "",
+            "id": "-LiOmGIAle7dkwwV2L0e"
+        },
+        {
+            "name": "melee_total",
+            "current": 5,
+            "max": "",
+            "id": "-LiOmGIAle7dkwwV2L0f"
+        },
+        {
+            "name": "might_total",
+            "current": 3,
+            "max": "",
+            "id": "-LiOmGIBMWUG35Cg4Pjz"
+        },
+        {
+            "name": "move_total",
+            "current": 4,
+            "max": "",
+            "id": "-LiOmGIBMWUG35Cg4Pk-"
+        },
+        {
+            "name": "performance_total",
+            "current": 3,
+            "max": "",
+            "id": "-LiOmGICNw0RW8756gFk"
+        },
+        {
+            "name": "scouting_total",
+            "current": 4,
+            "max": "",
+            "id": "-LiOmGICNw0RW8756gFl"
+        },
+        {
+            "name": "sleight_of_hand_total",
+            "current": 4,
+            "max": "",
+            "id": "-LiOmGIDBQ8A14TwG8gJ"
+        },
+        {
+            "name": "stealth_total",
+            "current": 9,
+            "max": "",
+            "id": "-LiOmGIDBQ8A14TwG8gK"
+        },
+        {
+            "name": "survival_total",
+            "current": 7,
+            "max": "",
+            "id": "-LiOmGIEmFVOjBuu5hVX"
+        },
+        {
+            "name": "armor1_ar",
+            "current": 0,
+            "max": "",
+            "id": "-LiOmGIEmFVOjBuu5hVY"
+        },
+        {
+            "name": "armor2_ar",
+            "current": 0,
+            "max": "",
+            "id": "-LiOmGIF1S6fiYG357e7"
+        },
+        {
+            "name": "ar",
+            "current": 0,
+            "max": "",
+            "id": "-LiOmGIF1S6fiYG357e8"
+        },
+        {
+            "name": "strength",
+            "current": 3,
+            "max": "",
+            "id": "-LiOmGIF1S6fiYG357e9"
+        },
+        {
+            "name": "strength_total",
+            "current": 3,
+            "max": 3,
+            "id": "-LiOmGIGzM0J_BIUKSdJ"
+        },
+        {
+            "name": "agility",
+            "current": 4,
+            "max": "",
+            "id": "-LiOmGIGzM0J_BIUKSdK"
+        },
+        {
+            "name": "agility_total",
+            "current": 4,
+            "max": 4,
+            "id": "-LiOmGIGzM0J_BIUKSdL"
+        },
+        {
+            "name": "wits",
+            "current": 4,
+            "max": "",
+            "id": "-LiOmGIH1vqgNfLqibgn"
+        },
+        {
+            "name": "wits_total",
+            "current": 4,
+            "max": 4,
+            "id": "-LiOmGIH1vqgNfLqibgo"
+        },
+        {
+            "name": "empathy",
+            "current": 3,
+            "max": "",
+            "id": "-LiOmGIIDdK4O1OopBqW"
+        },
+        {
+            "name": "empathy_total",
+            "current": 3,
+            "max": 3,
+            "id": "-LiOmGIIDdK4O1OopBqX"
+        },
+        {
+            "name": "lore",
+            "current": "4",
+            "max": "",
+            "id": "-LiOmGIIDdK4O1OopBqY"
+        },
+        {
+            "name": "insight",
+            "current": "0",
+            "max": "",
+            "id": "-LiOmGIJExQBy5ofNsJs"
+        },
+        {
+            "name": "manipulation",
+            "current": "0",
+            "max": "",
+            "id": "-LiOmGIJExQBy5ofNsJt"
+        },
+        {
+            "name": "character_gear_encumbrance",
+            "current": 0,
+            "max": "",
+            "id": "-LiOmGIKn4aRUpJ9KTQ3"
+        },
+        {
+            "name": "character_encumbrance",
+            "current": 0,
+            "max": "",
+            "id": "-LiOmGIKn4aRUpJ9KTQ4"
+        },
+        {
+            "name": "mount_encumbrance",
+            "current": 1.5,
+            "max": "",
+            "id": "-LiOmGIKn4aRUpJ9KTQ5"
+        },
+        {
+            "name": "damage",
+            "current": "0",
+            "max": "",
+            "id": "-LiOmGILUTnMpVovD2fG"
+        },
+        {
+            "name": "healing",
+            "current": "0",
+            "max": "",
+            "id": "-LiOmGILUTnMpVovD2fH"
+        },
+        {
+            "name": "repeating_talents_-LiE5geI6e9X2qauTWOb_talent_name",
+            "current": "Path of Sight",
+            "max": "",
+            "id": "-LiOmGINtHrzBqsL4m3p"
+        },
+        {
+            "name": "repeating_talents_-LiE5geI6e9X2qauTWOb_talent_type",
+            "current": "Prof",
+            "max": "",
+            "id": "-LiOmGINtHrzBqsL4m3q"
+        },
+        {
+            "name": "repeating_talents_-LiE5geI6e9X2qauTWOb_talent_rank",
+            "current": "2",
+            "max": "",
+            "id": "-LiOmGINtHrzBqsL4m3r"
+        },
+        {
+            "name": "repeating_talents_-LiE5geI6e9X2qauTWOb_expand",
+            "current": "on",
+            "max": "",
+            "id": "-LiOmGIO085Wo_mqFeH2"
+        },
+        {
+            "name": "repeating_talents_-LiE5geI6e9X2qauTWOb_talent_description",
+            "current": "You can cast rank 1 and rank 2 spells from\nthe Awareness discipline.",
+            "max": "",
+            "id": "-LiOmGIP4u1rdWXA7Fci"
+        },
+        {
+            "name": "repeating_spells_-LiE6iYCQ7A4TbdU9XjG_spell_name",
+            "current": "Lightbringer",
+            "max": "",
+            "id": "-LiOmGIc293SEJ_c09u6"
+        },
+        {
+            "name": "repeating_spells_-LiE6iYCQ7A4TbdU9XjG_spell_willpower",
+            "current": "1",
+            "max": "",
+            "id": "-LiOmGIdKu2dsP8buAs7"
+        },
+        {
+            "name": "repeating_spells_-LiE6iYCQ7A4TbdU9XjG_spell_range",
+            "current": "Near",
+            "max": "",
+            "id": "-LiOmGIdKu2dsP8buAs8"
+        },
+        {
+            "name": "repeating_spells_-LiE6iYCQ7A4TbdU9XjG_spell_duration",
+            "current": "PL Turns",
+            "max": "",
+            "id": "-LiOmGIdKu2dsP8buAs9"
+        },
+        {
+            "name": "repeating_spells_-LiE6iYCQ7A4TbdU9XjG_spell_ingredients",
+            "current": "Wand",
+            "max": "",
+            "id": "-LiOmGIeRet-OiSloeg9"
+        },
+        {
+            "name": "repeating_spells_-LiE6iYCQ7A4TbdU9XjG_expand",
+            "current": "on",
+            "max": "",
+            "id": "-LiOmGIeRet-OiSloegA"
+        },
+        {
+            "name": "repeating_spells_-LiE6iYCQ7A4TbdU9XjG_spell_description",
+            "current": "You summon a bright light that dispels all shadows within NEAR range, i.e., in the same Zone as you.",
+            "max": "",
+            "id": "-LiOmGIeRet-OiSloegB"
+        },
+        {
+            "name": "repeating_spells_-LiE6qzdKi0LZEbZBD2e_spell_name",
+            "current": "True Sight",
+            "max": "",
+            "id": "-LiOmGIfKGuxIHgyBny1"
+        },
+        {
+            "name": "repeating_spells_-LiE6qzdKi0LZEbZBD2e_spell_willpower",
+            "current": "1",
+            "max": "",
+            "id": "-LiOmGIfKGuxIHgyBny2"
+        },
+        {
+            "name": "repeating_spells_-LiE6qzdKi0LZEbZBD2e_spell_range",
+            "current": "Distant",
+            "max": "",
+            "id": "-LiOmGIg0hGjwIC9-8OF"
+        },
+        {
+            "name": "repeating_spells_-LiE6qzdKi0LZEbZBD2e_spell_duration",
+            "current": "One round",
+            "max": "",
+            "id": "-LiOmGIg0hGjwIC9-8OG"
+        },
+        {
+            "name": "repeating_spells_-LiE6qzdKi0LZEbZBD2e_spell_ingredients",
+            "current": "Magnifying glass",
+            "max": "",
+            "id": "-LiOmGIg0hGjwIC9-8OH"
+        },
+        {
+            "name": "repeating_spells_-LiE6qzdKi0LZEbZBD2e_expand",
+            "current": "on",
+            "max": "",
+            "id": "-LiOmGIhA6d6-Y6n1jwx"
+        },
+        {
+            "name": "repeating_spells_-LiE6qzdKi0LZEbZBD2e_spell_description",
+            "current": "You can enhance your vision to be unnaturally sharp, and see details at DISTANT range as if you stood right next to the object in question. TRUE SIGHT also lets you see in darkness, through smoke and fog, and automatically see through any kind of disguise or shapeshift.",
+            "max": "",
+            "id": "-LiOmGIhA6d6-Y6n1jwy"
+        },
+        {
+            "name": "repeating_weapons_-LiO6qUje0DTBY7MqZxg_weapon_name",
+            "current": "Knife",
+            "max": "",
+            "id": "-LiOmGIhA6d6-Y6n1jwz"
+        },
+        {
+            "name": "melee",
+            "current": "2",
+            "max": "",
+            "id": "-LiOmGIjGAMSK1sAbmD3"
+        },
+        {
+            "name": "move",
+            "current": "0",
+            "max": "",
+            "id": "-LiOmGIknwPsKchXmSUQ"
+        },
+        {
+            "name": "marksmanship",
+            "current": "0",
+            "max": "",
+            "id": "-LiOmGIknwPsKchXmSUR"
+        },
+        {
+            "name": "survival",
+            "current": "3",
+            "max": "",
+            "id": "-LiOmGIlurl9UH6Q8S_v"
+        },
+        {
+            "name": "copper",
+            "current": "D6",
+            "max": "",
+            "id": "-LiOmGIlurl9UH6Q8S_w"
+        },
+        {
+            "name": "coins_carried",
+            "current": "0.0",
+            "max": "",
+            "id": "-LiOmGIlurl9UH6Q8S_x"
+        },
+        {
+            "name": "coins_carried_mount",
+            "current": "0.0",
+            "max": "",
+            "id": "-LiOmGImQeq_PNUmN6Gj"
+        },
+        {
+            "name": "gold_total",
+            "current": 0,
+            "max": "",
+            "id": "-LiOmGImQeq_PNUmN6Gk"
+        },
+        {
+            "name": "silver_total",
+            "current": 0,
+            "max": "",
+            "id": "-LiOmGIn6HzFC-a9hDK4"
+        },
+        {
+            "name": "copper_total",
+            "current": 0,
+            "max": "",
+            "id": "-LiOmGIn6HzFC-a9hDK5"
+        },
+        {
+            "name": "gold_mount",
+            "current": "0",
+            "max": "",
+            "id": "-LiOmGIn6HzFC-a9hDK6"
+        },
+        {
+            "name": "silver_mount",
+            "current": "0",
+            "max": "",
+            "id": "-LiOmGIoc4SdLp84drK2"
+        },
+        {
+            "name": "repeating_weapons_-LiO6qUje0DTBY7MqZxg_weapon_grip",
+            "current": "1H",
+            "max": "",
+            "id": "-LiOmGIoc4SdLp84drK3"
+        },
+        {
+            "name": "repeating_weapons_-LiO6qUje0DTBY7MqZxg_weapon_bonus",
+            "current": "",
+            "max": "1",
+            "id": "-LiOmGIoc4SdLp84drK4"
+        },
+        {
+            "name": "repeating_weapons_-LiO6qUje0DTBY7MqZxg_weapon_damage",
+            "current": "1",
+            "max": "",
+            "id": "-LiOmGIpMzYkob7gieUg"
+        },
+        {
+            "name": "repeating_weapons_-LiO6qUje0DTBY7MqZxg_weapon_range",
+            "current": "Near",
+            "max": "",
+            "id": "-LiOmGIpMzYkob7gieUh"
+        },
+        {
+            "name": "repeating_weapons_-LiO6qUje0DTBY7MqZxg_weapon_features",
+            "current": "Light, Pointed",
+            "max": "",
+            "id": "-LiOmGIpMzYkob7gieUi"
+        },
+        {
+            "name": "_reporder_repeating_spells",
+            "current": "-LiE5vvXPcw0Z5qycSiP,-LiE6B1djtXG7YZd2QDh,-LiE6H1mxRuKQIJh5Nig,-LiE6OGxQd8MgSCyw64O,-LiE6WOnut3LJVUrI78C,-LiO9l3oiT695RWDtDKg,-LiO8DlMdsi35rpIevvc,-LiO8KnP0Tbq82HyITMS,-LiO8Rt2e8UXiyFZp1Re,-LiO8WGErSZwTB38eWXS,-LiO8ZrsAYeViNaI8Qam,-LiO8o8Dn7XJg7oDagLr,-LiE6iYCQ7A4TbdU9XjG,-LiE6qzdKi0LZEbZBD2e,-LiO95vCj13fzLhipz9z,-LiO9JwhWrxN08OrrE8V,-LiO9R8YjyiqGXeuzFsl,-LiO9Wabe7Yqj8pkiIbb",
+            "max": "",
+            "id": "-LiOmGJ5qrYaybeVawqZ"
+        },
+        {
+            "name": "repeating_spells_-LiO95vCj13fzLhipz9z_spell_name",
+            "current": "Words on the Wind",
+            "max": "",
+            "id": "-LiOmGJ5qrYaybeVawq_"
+        },
+        {
+            "name": "repeating_spells_-LiO95vCj13fzLhipz9z_spell_range",
+            "current": "Distant",
+            "max": "",
+            "id": "-LiOmGJ6keRaPNKMAwjn"
+        },
+        {
+            "name": "repeating_spells_-LiO95vCj13fzLhipz9z_spell_duration",
+            "current": "PL turns",
+            "max": "",
+            "id": "-LiOmGJ6keRaPNKMAwjo"
+        },
+        {
+            "name": "repeating_spells_-LiO95vCj13fzLhipz9z_spell_ingredients",
+            "current": "Funnel or sea shell",
+            "max": "",
+            "id": "-LiOmGJ6keRaPNKMAwjp"
+        },
+        {
+            "name": "repeating_spells_-LiO95vCj13fzLhipz9z_expand",
+            "current": "on",
+            "max": "",
+            "id": "-LiOmGJ7t_muBExc9FK4"
+        },
+        {
+            "name": "repeating_spells_-LiO95vCj13fzLhipz9z_spell_description",
+            "current": "You can enhance your hearing magically and hear specific sounds up to DISTANT range as clearly as if you stood right where they emanate from. You must see the place to which you direct your hearing.",
+            "max": "",
+            "id": "-LiOmGJ7t_muBExc9FK5"
+        },
+        {
+            "name": "repeating_spells_-LiO9JwhWrxN08OrrE8V_spell_name",
+            "current": "Farsight",
+            "max": "",
+            "id": "-LiOmGJ7t_muBExc9FK6"
+        },
+        {
+            "name": "repeating_spells_-LiO9JwhWrxN08OrrE8V_spell_rank",
+            "current": "2",
+            "max": "",
+            "id": "-LiOmGJ8SVu37npx4CLQ"
+        },
+        {
+            "name": "repeating_spells_-LiO9JwhWrxN08OrrE8V_spell_willpower",
+            "current": "1",
+            "max": "",
+            "id": "-LiOmGJ8SVu37npx4CLR"
+        },
+        {
+            "name": "repeating_spells_-LiO9JwhWrxN08OrrE8V_spell_range",
+            "current": "Arm's L.",
+            "max": "",
+            "id": "-LiOmGJ9bGrmLjnQvBYN"
+        },
+        {
+            "name": "repeating_spells_-LiO9JwhWrxN08OrrE8V_spell_duration",
+            "current": "One turn",
+            "max": "",
+            "id": "-LiOmGJ9bGrmLjnQvBYO"
+        },
+        {
+            "name": "repeating_spells_-LiO9JwhWrxN08OrrE8V_spell_ingredients",
+            "current": "Map",
+            "max": "",
+            "id": "-LiOmGJ9bGrmLjnQvBYP"
+        },
+        {
+            "name": "repeating_spells_-LiO9JwhWrxN08OrrE8V_expand",
+            "current": "on",
+            "max": "",
+            "id": "-LiOmGJASnBIN1AEQGvJ"
+        },
+        {
+            "name": "repeating_spells_-LiO9JwhWrxN08OrrE8V_spell_description",
+            "current": "You can let your inner eye wander across vast distances, over oceans and land, mountains, and valleys, and see what is happening there right now. FARSIGHT does not help you find a place – you must know where it is located to be able to see it. Power Level 1 lets you view a place at LONG range. Power Level 2 reaches across the same map hex where you are. Further away requires Power Level 3. Viewing a location that you haven’t been to before increases the required Power Level by 2. Your visions are often fragmented and cryptic – the GM decides exactly what you can see.",
+            "max": "",
+            "id": "-LiOmGJASnBIN1AEQGvK"
+        },
+        {
+            "name": "repeating_spells_-LiO9R8YjyiqGXeuzFsl_spell_name",
+            "current": "True Path",
+            "max": "",
+            "id": "-LiOmGJASnBIN1AEQGvL"
+        },
+        {
+            "name": "repeating_spells_-LiO9R8YjyiqGXeuzFsl_spell_rank",
+            "current": "2",
+            "max": "",
+            "id": "-LiOmGJBfF0Q-TvJPv2r"
+        },
+        {
+            "name": "repeating_spells_-LiO9R8YjyiqGXeuzFsl_spell_willpower",
+            "current": "1",
+            "max": "",
+            "id": "-LiOmGJBfF0Q-TvJPv2s"
+        },
+        {
+            "name": "repeating_spells_-LiO9R8YjyiqGXeuzFsl_spell_duration",
+            "current": "Immediate",
+            "max": "",
+            "id": "-LiOmGJCjJneip2dlQFC"
+        },
+        {
+            "name": "repeating_spells_-LiO9R8YjyiqGXeuzFsl_spell_ingredients",
+            "current": "Scales (can be reused)",
+            "max": "",
+            "id": "-LiOmGJCjJneip2dlQFD"
+        },
+        {
+            "name": "repeating_spells_-LiO9R8YjyiqGXeuzFsl_expand",
+            "current": "on",
+            "max": "",
+            "id": "-LiOmGJCjJneip2dlQFE"
+        },
+        {
+            "name": "repeating_spells_-LiO9R8YjyiqGXeuzFsl_spell_description",
+            "current": "This spell can guide you to the right path when you face a difficult decision. Once you have cast the spell, the GM must tell you which decision or choice she believes is the wisest.",
+            "max": "",
+            "id": "-LiOmGJD3Qo4oMFBvY6x"
+        },
+        {
+            "name": "repeating_spells_-LiO9Wabe7Yqj8pkiIbb_spell_name",
+            "current": "Visions of the Past",
+            "max": "",
+            "id": "-LiOmGJD3Qo4oMFBvY6y"
+        },
+        {
+            "name": "repeating_spells_-LiO9Wabe7Yqj8pkiIbb_spell_rank",
+            "current": "2",
+            "max": "",
+            "id": "-LiOmGJD3Qo4oMFBvY6z"
+        },
+        {
+            "name": "repeating_spells_-LiO9Wabe7Yqj8pkiIbb_spell_willpower",
+            "current": "1",
+            "max": "",
+            "id": "-LiOmGJEWRLA24r5mmo3"
+        },
+        {
+            "name": "repeating_spells_-LiO9Wabe7Yqj8pkiIbb_spell_range",
+            "current": "Short",
+            "max": "",
+            "id": "-LiOmGJEWRLA24r5mmo4"
+        },
+        {
+            "name": "repeating_spells_-LiO9Wabe7Yqj8pkiIbb_spell_duration",
+            "current": "One turn",
+            "max": "",
+            "id": "-LiOmGJEWRLA24r5mmo5"
+        },
+        {
+            "name": "repeating_spells_-LiO9Wabe7Yqj8pkiIbb_spell_ingredients",
+            "current": "Item from the time",
+            "max": "",
+            "id": "-LiOmGJFAOn_RFwMgSIe"
+        },
+        {
+            "name": "repeating_spells_-LiO9Wabe7Yqj8pkiIbb_expand",
+            "current": "on",
+            "max": "",
+            "id": "-LiOmGJFAOn_RFwMgSIf"
+        },
+        {
+            "name": "repeating_spells_-LiO9Wabe7Yqj8pkiIbb_spell_description",
+            "current": "You can see events that have transpired in the past at the location where you are, even if those events are no longer remembered by any living being. Power Level 1 lets you see one day back in time, Power Level 2 one year into the past, and Power Level 3 lets you see hundreds of years back. Your visions are often fragmented and cryptic – the GM decides exactly what you can see.",
+            "max": "",
+            "id": "-LiOmGJFAOn_RFwMgSIg"
+        },
+        {
+            "name": "crafting",
+            "current": "4",
+            "max": "",
+            "id": "-LiOmP4pnb8groXcuvVh"
+        },
+        {
+            "name": "stealth",
+            "current": "5",
+            "max": "",
+            "id": "-LiOmPnBtM26bhYkPrd3"
+        },
+        {
+            "name": "attribute",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi7JpA6vamiBO8ZH9"
+        },
+        {
+            "name": "skill",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi7JrWXWulVpZoG34"
+        },
+        {
+            "name": "gear",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi7Jsbm9XW7Z6aDs0"
+        },
+        {
+            "name": "attribute_die_twelve",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi7Jtk5F2jjq8HiXu"
+        },
+        {
+            "name": "attribute_die_eleven",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi7Juxf86zldauM4r"
+        },
+        {
+            "name": "attribute_die_ten",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi7JvjI-CsjkAMPvB"
+        },
+        {
+            "name": "attribute_die_nine",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi7JwopvnxJa5gDRf"
+        },
+        {
+            "name": "attribute_die_eight",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi7JxIVQA4m0x3_Ea"
+        },
+        {
+            "name": "attribute_die_seven",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi7JxIVQA4m0x3_Eb"
+        },
+        {
+            "name": "attribute_die_six",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi7JyoWvcJODq45sb"
+        },
+        {
+            "name": "attribute_die_five",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi7Jzq7xb5lgI4eIy"
+        },
+        {
+            "name": "attribute_die_four",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi7K-Cz_gGeGwAsg1"
+        },
+        {
+            "name": "attribute_die_three",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi7K0fJ_BKz6PfwPX"
+        },
+        {
+            "name": "attribute_die_two",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi7K1azbcbjQdSfg5"
+        },
+        {
+            "name": "attribute_die_one",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi7K2YTYe4WzmmRt1"
+        },
+        {
+            "name": "negative_die_one",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi7K3LjOpT9or-RBL"
+        },
+        {
+            "name": "negative_die_two",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi7K4GSmwsiX18DO7"
+        },
+        {
+            "name": "negative_die_three",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi7K5x6Ad_uyBG50I"
+        },
+        {
+            "name": "skill_die_ten",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi7K6ypPI1Hw23KgA"
+        },
+        {
+            "name": "skill_die_nine",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi7K736BoBofw1sli"
+        },
+        {
+            "name": "skill_die_eight",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi7K8I1Ox07143ikM"
+        },
+        {
+            "name": "skill_die_seven",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi7K9ub7i112CbXWP"
+        },
+        {
+            "name": "skill_die_six",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi7K9ub7i112CbXWQ"
+        },
+        {
+            "name": "skill_die_five",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi7KAT-0dTnJYxF1O"
+        },
+        {
+            "name": "skill_die_four",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi7KB8osVKi59t_6h"
+        },
+        {
+            "name": "skill_die_three",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi7KDzjkmmsjedd-r"
+        },
+        {
+            "name": "skill_die_two",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi7KDzjkmmsjedd-s"
+        },
+        {
+            "name": "skill_die_one",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi7KEokPE8hgR8r4B"
+        },
+        {
+            "name": "gear_die_twelve",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi7KFh4coG0fPLXby"
+        },
+        {
+            "name": "gear_die_eleven",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi7KGLb2dD4Qdqg6b"
+        },
+        {
+            "name": "gear_die_ten",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi7KHMwBF4LN7AZtZ"
+        },
+        {
+            "name": "gear_die_nine",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi7KIa98ytNKp8XkN"
+        },
+        {
+            "name": "gear_die_eight",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi7KJ5lnQmx8tcj27"
+        },
+        {
+            "name": "gear_die_seven",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi7KLVMvq5cMKNcNb"
+        },
+        {
+            "name": "gear_die_six",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi7KMQS1McHYNIUgh"
+        },
+        {
+            "name": "gear_die_five",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi7KNc2OCP8ADDtLZ"
+        },
+        {
+            "name": "gear_die_four",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi7KOYHwa11mRavp8"
+        },
+        {
+            "name": "gear_die_three",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi7KOYHwa11mRavp9"
+        },
+        {
+            "name": "gear_die_two",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi7KTKNCyIN5eYyXP"
+        },
+        {
+            "name": "gear_die_one",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi7KUnIsHWgi9HQqb"
+        },
+        {
+            "name": "artifact_die_eight",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi7KVIy7AZqPXjBBC"
+        },
+        {
+            "name": "artifact_die_ocho",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi7KW7KtIwQYjM6LB"
+        },
+        {
+            "name": "artifact_die_ten",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi7KXP0gdQpnGe9Hl"
+        },
+        {
+            "name": "artifact_die_twelve",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi7KYdaYseI5pb2am"
+        },
+        {
+            "name": "current_preset",
+            "current": "Custom Roll",
+            "max": "",
+            "id": "-M5gi7KZU80iS_pcJwdS"
+        },
+        {
+            "name": "include_with_roll",
+            "current": "",
+            "max": "",
+            "id": "-M5gi7K_QjOP1dqPKCAd"
+        },
+        {
+            "name": "translation_push_query",
+            "current": "Is the Dice Pool correct...? (hint:remove successes and bane) |Yes - Submit to Roll.,Dice Pool is correct.|No - Cancel.,Dice Pool needs to be corrected.",
+            "max": "",
+            "id": "-M5gi7KakDKs-_kmv15s"
+        },
+        {
+            "name": "translation_whisper_macro_query",
+            "current": "?{Whisper roll?|No,|Yes,/w gm |}",
+            "max": "",
+            "id": "-M5gi7KcAar64Ew19s3S"
+        },
+        {
+            "name": "translation_whisper_api_macro_query",
+            "current": "?{Whisper roll?|No,!forl |Yes,!wforl |}",
+            "max": "",
+            "id": "-M5gi7KdZI16mZIhOsOy"
+        },
+        {
+            "name": "version",
+            "current": 1.67,
+            "max": "",
+            "id": "-M5gi7KfmgXVq-BKZKTS"
+        },
+        {
+            "name": "armor_encumbrance",
+            "current": "0.0",
+            "max": "",
+            "id": "-M5gi7KhkfyLYSc0HuNF"
+        },
+        {
+            "name": "shield_encumbrance",
+            "current": "0.0",
+            "max": "",
+            "id": "-M5gi7Ki9l-vQXm_Lj8T"
+        },
+        {
+            "name": "armor_shield_encumbrance",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi7Kjb_bKSnB-mQeY"
+        },
+        {
+            "name": "strength_pc",
+            "current": 3,
+            "max": "",
+            "id": "-M5gi7KnPEADcwxfftMs"
+        },
+        {
+            "name": "strength_monster",
+            "current": 3,
+            "max": "",
+            "id": "-M5gi7KoymnyuVUXcuR_"
+        },
+        {
+            "name": "reputation_total",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi7Kw8_mqYCzSsOJR"
+        },
+        {
+            "name": "armor1_bonus",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi7KyBZQYTxluge8m"
+        },
+        {
+            "name": "armor2_bonus",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi7Kz17uZTNg4h4wO"
+        },
+        {
+            "name": "shield1_bonus",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi7L-pknFTIBLIZSG"
+        },
+        {
+            "name": "shield1_bonus_total",
+            "current": 5,
+            "max": "",
+            "id": "-M5gi7L0Le7NMYZ4aLR-"
+        },
+        {
+            "name": "show_announcements",
+            "current": 1,
+            "max": "",
+            "id": "-M5gi7LEr6_nNyhbGX2N"
+        },
+        {
+            "name": "hirelings_cost",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi7LFAIk3_ok_cbG-"
+        },
+        {
+            "name": "mount_gear_encumbrance",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi7LGjcNdT2rOLHMV"
+        },
+        {
+            "name": "weapons_encumbrance",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi7LHb41QNDyGQDRK"
+        }
+    ],
+    "abilities": []
+}

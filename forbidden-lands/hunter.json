@@ -1,0 +1,777 @@
+{
+    "schema_version": 2,
+    "oldId": "-LjI7tUabbOOfYcHbaWu",
+    "name": "Hunter",
+    "avatar": "",
+    "bio": "",
+    "gmnotes": "",
+    "defaulttoken": "",
+    "tags": "[\"Typical\"]",
+    "controlledby": "-LbPNRTARk1yWfI-PoVU",
+    "inplayerjournals": "-LbPNRTARk1yWfI-PoVU",
+    "attribs": [
+        {
+            "name": "animal_handling_total",
+            "current": 5,
+            "max": "",
+            "id": "-LjI7tWdzSdWkV050ZNN"
+        },
+        {
+            "name": "crafting_total",
+            "current": 3,
+            "max": "",
+            "id": "-LjI7tWdzSdWkV050ZNO"
+        },
+        {
+            "name": "endurance_total",
+            "current": 3,
+            "max": "",
+            "id": "-LjI7tWeplgokeIEwfER"
+        },
+        {
+            "name": "healing_total",
+            "current": 3,
+            "max": "",
+            "id": "-LjI7tWeplgokeIEwfES"
+        },
+        {
+            "name": "insight_total",
+            "current": 2,
+            "max": "",
+            "id": "-LjI7tWf6zw0M-rdzsMZ"
+        },
+        {
+            "name": "lore_total",
+            "current": 2,
+            "max": "",
+            "id": "-LjI7tWgg8HiiEyAGJ5Z"
+        },
+        {
+            "name": "manipulation_total",
+            "current": 3,
+            "max": "",
+            "id": "-LjI7tWgg8HiiEyAGJ5_"
+        },
+        {
+            "name": "marksmanship_total",
+            "current": 6,
+            "max": "",
+            "id": "-LjI7tWhWlZa_wHM47B9"
+        },
+        {
+            "name": "melee_total",
+            "current": 4,
+            "max": "",
+            "id": "-LjI7tWi1HRPYMO7DxNx"
+        },
+        {
+            "name": "might_total",
+            "current": 3,
+            "max": "",
+            "id": "-LjI7tWi1HRPYMO7DxNy"
+        },
+        {
+            "name": "move_total",
+            "current": 3,
+            "max": "",
+            "id": "-LjI7tWj7ktTN-wGAl5L"
+        },
+        {
+            "name": "performance_total",
+            "current": 3,
+            "max": "",
+            "id": "-LjI7tWj7ktTN-wGAl5M"
+        },
+        {
+            "name": "scouting_total",
+            "current": 4,
+            "max": "",
+            "id": "-LjI7tWkBeQcEF6TknWu"
+        },
+        {
+            "name": "sleight_of_hand_total",
+            "current": 3,
+            "max": "",
+            "id": "-LjI7tWlqk2a_Yenczp0"
+        },
+        {
+            "name": "stealth_total",
+            "current": 3,
+            "max": "",
+            "id": "-LjI7tWlqk2a_Yenczp1"
+        },
+        {
+            "name": "survival_total",
+            "current": 4,
+            "max": "",
+            "id": "-LjI7tWmewoqvJJj_1Jl"
+        },
+        {
+            "name": "armor1_ar",
+            "current": 0,
+            "max": "",
+            "id": "-LjI7tWmewoqvJJj_1Jm"
+        },
+        {
+            "name": "armor2_ar",
+            "current": 0,
+            "max": "",
+            "id": "-LjI7tWnyv5duoN3iaZ-"
+        },
+        {
+            "name": "ar",
+            "current": 0,
+            "max": "",
+            "id": "-LjI7tWoGua0k9NbLjU7"
+        },
+        {
+            "name": "strength",
+            "current": 3,
+            "max": "",
+            "id": "-LjI7tWpqRKTOPC012Dx"
+        },
+        {
+            "name": "strength_total",
+            "current": 3,
+            "max": 3,
+            "id": "-LjI7tWpqRKTOPC012Dy"
+        },
+        {
+            "name": "agility",
+            "current": 3,
+            "max": "",
+            "id": "-LjI7tWqhpWh2sfRJWqq"
+        },
+        {
+            "name": "agility_total",
+            "current": 3,
+            "max": 3,
+            "id": "-LjI7tWqhpWh2sfRJWqr"
+        },
+        {
+            "name": "wits",
+            "current": 3,
+            "max": "",
+            "id": "-LjI7tWrbtTzRQG9YM-a"
+        },
+        {
+            "name": "wits_total",
+            "current": 2,
+            "max": 3,
+            "id": "-LjI7tWrbtTzRQG9YM-b"
+        },
+        {
+            "name": "empathy",
+            "current": 3,
+            "max": "",
+            "id": "-LjI7tWs3YyfK7usBhTG"
+        },
+        {
+            "name": "empathy_total",
+            "current": 3,
+            "max": 3,
+            "id": "-LjI7tWs3YyfK7usBhTH"
+        },
+        {
+            "name": "melee",
+            "current": "1",
+            "max": "",
+            "id": "-LjI7tWtMtgH8e9rPgpK"
+        },
+        {
+            "name": "move",
+            "current": "",
+            "max": "",
+            "id": "-LjI7tWuXE-3pcqFgP8B"
+        },
+        {
+            "name": "marksmanship",
+            "current": "3",
+            "max": "",
+            "id": "-LjI7tWuXE-3pcqFgP8C"
+        },
+        {
+            "name": "healing",
+            "current": "",
+            "max": "",
+            "id": "-LjI7tWvQ8k-MEKztaxF"
+        },
+        {
+            "name": "repeating_weapons_-LiOh0VPawbbAFaOiKqk_weapon_name",
+            "current": "Dagger",
+            "max": "",
+            "id": "-LjI7tWvQ8k-MEKztaxG"
+        },
+        {
+            "name": "repeating_weapons_-LiOh0VPawbbAFaOiKqk_weapon_bonus",
+            "current": "1",
+            "max": "1",
+            "id": "-LjI7tWwaFACN6f_WcOb"
+        },
+        {
+            "name": "repeating_weapons_-LiOh0VPawbbAFaOiKqk_weapon_damage",
+            "current": "1",
+            "max": "",
+            "id": "-LjI7tWwaFACN6f_WcOc"
+        },
+        {
+            "name": "repeating_weapons_-LiOh0VPawbbAFaOiKqk_weapon_features",
+            "current": "Light, Edged, Pointed",
+            "max": "",
+            "id": "-LjI7tWx6MMt1Fce-Pum"
+        },
+        {
+            "name": "repeating_weapons_-LjI616v5iAe13AH1dZ0_weapon_name",
+            "current": "Long Bow",
+            "max": "",
+            "id": "-LjI7tX2I82DeDVQDQK2"
+        },
+        {
+            "name": "repeating_weapons_-LjI616v5iAe13AH1dZ0_weapon_skill",
+            "current": "1",
+            "max": "",
+            "id": "-LjI7tX3i0JKNql74yeq"
+        },
+        {
+            "name": "repeating_weapons_-LjI616v5iAe13AH1dZ0_weapon_bonus",
+            "current": "2",
+            "max": "1",
+            "id": "-LjI7tX4Ris3FtGF-qBm"
+        },
+        {
+            "name": "repeating_weapons_-LjI616v5iAe13AH1dZ0_weapon_damage",
+            "current": "1",
+            "max": "",
+            "id": "-LjI7tX4Ris3FtGF-qBn"
+        },
+        {
+            "name": "repeating_weapons_-LjI616v5iAe13AH1dZ0_weapon_features",
+            "current": "",
+            "max": "",
+            "id": "-LjI7tX51kLr95sW25Et"
+        },
+        {
+            "name": "repeating_weapons_-LjI616v5iAe13AH1dZ0_weapon_range",
+            "current": "Long",
+            "max": "",
+            "id": "-LjI7tX51kLr95sW25Eu"
+        },
+        {
+            "name": "_reporder_repeating_weapons",
+            "current": "-LiOh0VPawbbAFaOiKqk,-LjI5x9zcPLhCH-WW-Ra,-LiOh49j57oNvt3kQivw,-LjI616v5iAe13AH1dZ0",
+            "max": "",
+            "id": "-LjI7tX6fknnqVrJZsHn"
+        },
+        {
+            "name": "copper",
+            "current": "2D6",
+            "max": "",
+            "id": "-LjI7tX6fknnqVrJZsHo"
+        },
+        {
+            "name": "coins_carried",
+            "current": "0.0",
+            "max": "",
+            "id": "-LjI7tX7Dilt0Wcmtkqd"
+        },
+        {
+            "name": "coins_carried_mount",
+            "current": "0.0",
+            "max": "",
+            "id": "-LjI7tX7Dilt0Wcmtkqe"
+        },
+        {
+            "name": "gold_total",
+            "current": 0,
+            "max": "",
+            "id": "-LjI7tX8w8vpIEmKG3Te"
+        },
+        {
+            "name": "silver_total",
+            "current": 0,
+            "max": "",
+            "id": "-LjI7tX8w8vpIEmKG3Tf"
+        },
+        {
+            "name": "copper_total",
+            "current": 2,
+            "max": "",
+            "id": "-LjI7tX9qyj0rxxzhQST"
+        },
+        {
+            "name": "character_gear_encumbrance",
+            "current": 0,
+            "max": "",
+            "id": "-LjI7tX9qyj0rxxzhQSU"
+        },
+        {
+            "name": "character_encumbrance",
+            "current": 0,
+            "max": "",
+            "id": "-LjI7tXAsEi1iQY26UY2"
+        },
+        {
+            "name": "mount_encumbrance",
+            "current": 1.5,
+            "max": "",
+            "id": "-LjI7tXAsEi1iQY26UY3"
+        },
+        {
+            "name": "repeating_gear_-LjI67fyMCDES1IfZT7l_gear_name",
+            "current": "SIMPLE find",
+            "max": "",
+            "id": "-LjI7tXBsFgAyBxgc7fZ"
+        },
+        {
+            "name": "repeating_gear_-LjI67fyMCDES1IfZT7l_gear_qty",
+            "current": "1",
+            "max": "",
+            "id": "-LjI7tXBsFgAyBxgc7f_"
+        },
+        {
+            "name": "armor1_name",
+            "current": "Leather",
+            "max": "",
+            "id": "-LjI7tXClR6DLQg5e-2N"
+        },
+        {
+            "name": "armor1_damage",
+            "current": "0",
+            "max": "",
+            "id": "-LjI7tXClR6DLQg5e-2O"
+        },
+        {
+            "name": "armor1_bonus",
+            "current": 0,
+            "max": "",
+            "id": "-LjI7tXDqz-sdV29HCks"
+        },
+        {
+            "name": "survival",
+            "current": "2",
+            "max": "",
+            "id": "-LjI7tXDqz-sdV29HCkt"
+        },
+        {
+            "name": "damage",
+            "current": "0",
+            "max": "",
+            "id": "-LjI7tXEqVG29MFa1Vwp"
+        },
+        {
+            "name": "repeating_weapons_-LjI616v5iAe13AH1dZ0_weapon_grip",
+            "current": "2H",
+            "max": "",
+            "id": "-LjI7tXEqVG29MFa1Vwq"
+        },
+        {
+            "name": "armor2_name",
+            "current": "",
+            "max": "",
+            "id": "-LjI7tXJdbrC9rJNwwFK"
+        },
+        {
+            "name": "armor2_damage",
+            "current": "0",
+            "max": "",
+            "id": "-LjI7tXJdbrC9rJNwwFL"
+        },
+        {
+            "name": "armor2_bonus",
+            "current": 0,
+            "max": "",
+            "id": "-LjI7tXKbqfy8XUVKPBq"
+        },
+        {
+            "name": "shield1_name",
+            "current": "Large Shield",
+            "max": "",
+            "id": "-LjI7tXLyUC57o8-y1Fh"
+        },
+        {
+            "name": "shield1_bonus",
+            "current": 2,
+            "max": "2",
+            "id": "-LjI7tXLyUC57o8-y1Fi"
+        },
+        {
+            "name": "scouting",
+            "current": "2",
+            "max": "",
+            "id": "-LjI85qFpNIEpAqPOnSS"
+        },
+        {
+            "name": "animal_handling",
+            "current": "2",
+            "max": "",
+            "id": "-LjI86vNplMwcXKfEFGH"
+        },
+        {
+            "name": "attribute",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghUGwtXP1nAS-P2Hi"
+        },
+        {
+            "name": "skill",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghUGydx1wTNHHYXhm"
+        },
+        {
+            "name": "gear",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghUH-7wlXGC6k8H5o"
+        },
+        {
+            "name": "attribute_die_twelve",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghUH0aOwg6bUHIEgc"
+        },
+        {
+            "name": "attribute_die_eleven",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghUH1PY-dt8nKEB01"
+        },
+        {
+            "name": "attribute_die_ten",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghUH35ngCBoZgA3dD"
+        },
+        {
+            "name": "attribute_die_nine",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghUH4BhLR0N22hn0-"
+        },
+        {
+            "name": "attribute_die_eight",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghUH68T23YUAJgxYP"
+        },
+        {
+            "name": "attribute_die_seven",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghUH8OttysX_xE-9V"
+        },
+        {
+            "name": "attribute_die_six",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghUH95umFef6hS0BH"
+        },
+        {
+            "name": "attribute_die_five",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghUHAVLxlLopaUGim"
+        },
+        {
+            "name": "attribute_die_four",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghUHC5ZR4eA81gkcd"
+        },
+        {
+            "name": "attribute_die_three",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghUHDu8Aj-daW78cK"
+        },
+        {
+            "name": "attribute_die_two",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghUHEfWDZl1f5RCjH"
+        },
+        {
+            "name": "attribute_die_one",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghUHGt0sIlJcA1Iw2"
+        },
+        {
+            "name": "negative_die_one",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghUHHQuDTgbc2KRHi"
+        },
+        {
+            "name": "negative_die_two",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghUHI3TYKMCKoA0s6"
+        },
+        {
+            "name": "negative_die_three",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghUHKFAAdEyFH1Vsf"
+        },
+        {
+            "name": "skill_die_ten",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghUHLAJzySZqmnJDO"
+        },
+        {
+            "name": "skill_die_nine",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghUHNCufHXB3gtO3N"
+        },
+        {
+            "name": "skill_die_eight",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghUHObvyJSCF1cNuJ"
+        },
+        {
+            "name": "skill_die_seven",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghUHPJcXyLzQoOb2n"
+        },
+        {
+            "name": "skill_die_six",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghUHQtCkiS7ay4Rep"
+        },
+        {
+            "name": "skill_die_five",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghUHSXT9YrYmmQPR_"
+        },
+        {
+            "name": "skill_die_four",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghUHTrnl10Nxqirmz"
+        },
+        {
+            "name": "skill_die_three",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghUHUouBZSFMLUIhg"
+        },
+        {
+            "name": "skill_die_two",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghUHVr5077H5RWnY7"
+        },
+        {
+            "name": "skill_die_one",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghUHXI7wGFRkEiaKg"
+        },
+        {
+            "name": "gear_die_twelve",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghUHYrfVqaGOi4qBx"
+        },
+        {
+            "name": "gear_die_eleven",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghUHZd5IPeOUQmu-T"
+        },
+        {
+            "name": "gear_die_ten",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghUH_PR26uKYKLeeO"
+        },
+        {
+            "name": "gear_die_nine",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghUHbjv5AVhWF4Icu"
+        },
+        {
+            "name": "gear_die_eight",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghUHcr1uMGCWGYAL8"
+        },
+        {
+            "name": "gear_die_seven",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghUHdDII1hCz_wO7d"
+        },
+        {
+            "name": "gear_die_six",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghUHfBd3xkgcX_9IA"
+        },
+        {
+            "name": "gear_die_five",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghUHgqbbJyzfbw9cu"
+        },
+        {
+            "name": "gear_die_four",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghUHiuQTdWWFPs-3-"
+        },
+        {
+            "name": "gear_die_three",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghUHj8CQ7oZ3SFWHm"
+        },
+        {
+            "name": "gear_die_two",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghUHkX0ddr3dNG4RM"
+        },
+        {
+            "name": "gear_die_one",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghUHmbGRb5lpnQYVl"
+        },
+        {
+            "name": "artifact_die_eight",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghUHnR31gBjLR9tAs"
+        },
+        {
+            "name": "artifact_die_ocho",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghUHoo5McXTTp48aM"
+        },
+        {
+            "name": "artifact_die_ten",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghUHqesxdBB89AkAx"
+        },
+        {
+            "name": "artifact_die_twelve",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghUHrEKcq8kSyHx-y"
+        },
+        {
+            "name": "current_preset",
+            "current": "Custom Roll",
+            "max": "",
+            "id": "-M5ghUHsqe5BCKqXcYKk"
+        },
+        {
+            "name": "include_with_roll",
+            "current": "",
+            "max": "",
+            "id": "-M5ghUHuFvy5sI9YLo3Y"
+        },
+        {
+            "name": "translation_push_query",
+            "current": "Is the Dice Pool correct...? (hint:remove successes and bane) |Yes - Submit to Roll.,Dice Pool is correct.|No - Cancel.,Dice Pool needs to be corrected.",
+            "max": "",
+            "id": "-M5ghUHwCBeR2vDP3Ihx"
+        },
+        {
+            "name": "translation_whisper_macro_query",
+            "current": "?{Whisper roll?|No,|Yes,/w gm |}",
+            "max": "",
+            "id": "-M5ghUHxNIuBdosKHpZP"
+        },
+        {
+            "name": "translation_whisper_api_macro_query",
+            "current": "?{Whisper roll?|No,!forl |Yes,!wforl |}",
+            "max": "",
+            "id": "-M5ghUHyXC_-G1pn8dRy"
+        },
+        {
+            "name": "version",
+            "current": 1.67,
+            "max": "",
+            "id": "-M5ghUI-nR-YAl-qIun-"
+        },
+        {
+            "name": "armor_encumbrance",
+            "current": "0.0",
+            "max": "",
+            "id": "-M5ghUI03XXWRzRNzq5P"
+        },
+        {
+            "name": "shield_encumbrance",
+            "current": "0.0",
+            "max": "",
+            "id": "-M5ghUI1PWxRTbWdoct2"
+        },
+        {
+            "name": "armor_shield_encumbrance",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghUI3LlqVxodnR-Cv"
+        },
+        {
+            "name": "strength_pc",
+            "current": 3,
+            "max": "",
+            "id": "-M5ghUI9NvMR3zrTB2vK"
+        },
+        {
+            "name": "strength_monster",
+            "current": 3,
+            "max": "",
+            "id": "-M5ghUIA4uPUAOWAvQi8"
+        },
+        {
+            "name": "reputation_total",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghUIM9k8ylEn2DLlU"
+        },
+        {
+            "name": "shield1_bonus_total",
+            "current": 6,
+            "max": "",
+            "id": "-M5ghUISIzirPipXwLjV"
+        },
+        {
+            "name": "show_announcements",
+            "current": 1,
+            "max": "",
+            "id": "-M5ghUIkSYUWDwbVKSkY"
+        },
+        {
+            "name": "hirelings_cost",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghUImb97CItHY8Oxg"
+        },
+        {
+            "name": "mount_gear_encumbrance",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghUIn8DLQKqAzyN6-"
+        },
+        {
+            "name": "weapons_encumbrance",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghUIpaTDZgjgD7jPi"
+        }
+    ],
+    "abilities": []
+}

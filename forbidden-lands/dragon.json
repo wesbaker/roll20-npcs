@@ -1,0 +1,945 @@
+{
+    "schema_version": 2,
+    "oldId": "-M0K0BX1CLExTK9pWtPN",
+    "name": "Dragon",
+    "avatar": "",
+    "bio": "",
+    "gmnotes": "",
+    "defaulttoken": "",
+    "tags": "[\"Monster\"]",
+    "controlledby": "-LbPNRTARk1yWfI-PoVU",
+    "inplayerjournals": "-LbPNRTARk1yWfI-PoVU",
+    "attribs": [
+        {
+            "name": "attribute",
+            "current": 0,
+            "max": "",
+            "id": "-M0K0EUEg0cy8ZghVrJ8"
+        },
+        {
+            "name": "skill",
+            "current": 0,
+            "max": "",
+            "id": "-M0K0EUJtUN-SCvFvQVo"
+        },
+        {
+            "name": "gear",
+            "current": 0,
+            "max": "",
+            "id": "-M0K0EUNmg5nDpj1gYGS"
+        },
+        {
+            "name": "attribute_die_twelve",
+            "current": 0,
+            "max": "",
+            "id": "-M0K0EUULmvMlerPMyBa"
+        },
+        {
+            "name": "attribute_die_eleven",
+            "current": 0,
+            "max": "",
+            "id": "-M0K0EUZgD9mXLQFEx42"
+        },
+        {
+            "name": "attribute_die_ten",
+            "current": 0,
+            "max": "",
+            "id": "-M0K0EUaqZ6GDPyPE7UK"
+        },
+        {
+            "name": "attribute_die_nine",
+            "current": 0,
+            "max": "",
+            "id": "-M0K0EUdUxnOFlNDrt-S"
+        },
+        {
+            "name": "attribute_die_eight",
+            "current": 0,
+            "max": "",
+            "id": "-M0K0EUfsN7CqgT51NvB"
+        },
+        {
+            "name": "attribute_die_seven",
+            "current": 0,
+            "max": "",
+            "id": "-M0K0EUhG7B0tMxCfsVf"
+        },
+        {
+            "name": "attribute_die_six",
+            "current": 0,
+            "max": "",
+            "id": "-M0K0EUmCEbIeI4aMIUk"
+        },
+        {
+            "name": "attribute_die_five",
+            "current": 0,
+            "max": "",
+            "id": "-M0K0EUqsoPht8ON8vxg"
+        },
+        {
+            "name": "attribute_die_four",
+            "current": 0,
+            "max": "",
+            "id": "-M0K0EUv3K8EnZxkRMn6"
+        },
+        {
+            "name": "attribute_die_three",
+            "current": 0,
+            "max": "",
+            "id": "-M0K0EUzTamUZifbFwau"
+        },
+        {
+            "name": "attribute_die_two",
+            "current": 0,
+            "max": "",
+            "id": "-M0K0EV6ic3osOupr3BZ"
+        },
+        {
+            "name": "attribute_die_one",
+            "current": 0,
+            "max": "",
+            "id": "-M0K0EV8uD6XXrSZTvw5"
+        },
+        {
+            "name": "negative_die_one",
+            "current": 0,
+            "max": "",
+            "id": "-M0K0EV9C8shT-oXzlKs"
+        },
+        {
+            "name": "negative_die_two",
+            "current": 0,
+            "max": "",
+            "id": "-M0K0EVBkAcFnwkIxYsO"
+        },
+        {
+            "name": "negative_die_three",
+            "current": 0,
+            "max": "",
+            "id": "-M0K0EVDybJbKuy_zPic"
+        },
+        {
+            "name": "skill_die_ten",
+            "current": 0,
+            "max": "",
+            "id": "-M0K0EVFcqYl_0VtbGU1"
+        },
+        {
+            "name": "skill_die_nine",
+            "current": 0,
+            "max": "",
+            "id": "-M0K0EVGVQHLZO4OZqfc"
+        },
+        {
+            "name": "skill_die_eight",
+            "current": 0,
+            "max": "",
+            "id": "-M0K0EVHLoUUFIU-80kh"
+        },
+        {
+            "name": "skill_die_seven",
+            "current": 0,
+            "max": "",
+            "id": "-M0K0EVI2qjJddNs2Bm2"
+        },
+        {
+            "name": "skill_die_six",
+            "current": 0,
+            "max": "",
+            "id": "-M0K0EVJt7t33I2Vknho"
+        },
+        {
+            "name": "skill_die_five",
+            "current": 0,
+            "max": "",
+            "id": "-M0K0EVLW4OlJRfF-fKE"
+        },
+        {
+            "name": "skill_die_four",
+            "current": 0,
+            "max": "",
+            "id": "-M0K0EVNNW8zZoomajJq"
+        },
+        {
+            "name": "skill_die_three",
+            "current": 0,
+            "max": "",
+            "id": "-M0K0EVOr4FD5Twe300j"
+        },
+        {
+            "name": "skill_die_two",
+            "current": 0,
+            "max": "",
+            "id": "-M0K0EVPpejB2Tl7EQgE"
+        },
+        {
+            "name": "skill_die_one",
+            "current": 0,
+            "max": "",
+            "id": "-M0K0EVQJYD3ahLWho19"
+        },
+        {
+            "name": "gear_die_twelve",
+            "current": 0,
+            "max": "",
+            "id": "-M0K0EVRXPm6mB1IODwW"
+        },
+        {
+            "name": "gear_die_eleven",
+            "current": 0,
+            "max": "",
+            "id": "-M0K0EVTCgkAE2LL9zWa"
+        },
+        {
+            "name": "gear_die_ten",
+            "current": 0,
+            "max": "",
+            "id": "-M0K0EVWSQCuQFRZXlBE"
+        },
+        {
+            "name": "gear_die_nine",
+            "current": 0,
+            "max": "",
+            "id": "-M0K0EVYsgv_B1N04LYx"
+        },
+        {
+            "name": "gear_die_eight",
+            "current": 0,
+            "max": "",
+            "id": "-M0K0EV_XbQ4jNiMscks"
+        },
+        {
+            "name": "gear_die_seven",
+            "current": 0,
+            "max": "",
+            "id": "-M0K0EVaiSo55aiUDQy1"
+        },
+        {
+            "name": "gear_die_six",
+            "current": 0,
+            "max": "",
+            "id": "-M0K0EVcMRu1y_BPyQKU"
+        },
+        {
+            "name": "gear_die_five",
+            "current": 0,
+            "max": "",
+            "id": "-M0K0EVe4aXKTmr2i_v5"
+        },
+        {
+            "name": "gear_die_four",
+            "current": 0,
+            "max": "",
+            "id": "-M0K0EVf5-EnSjlznklV"
+        },
+        {
+            "name": "gear_die_three",
+            "current": 0,
+            "max": "",
+            "id": "-M0K0EVgt76p9ggYZoyj"
+        },
+        {
+            "name": "gear_die_two",
+            "current": 0,
+            "max": "",
+            "id": "-M0K0EVinvqXzNYD0MV7"
+        },
+        {
+            "name": "gear_die_one",
+            "current": 0,
+            "max": "",
+            "id": "-M0K0EVkXIy6N69jYj3X"
+        },
+        {
+            "name": "artifact_die_eight",
+            "current": 0,
+            "max": "",
+            "id": "-M0K0EVl3-Oj3Z6goNhR"
+        },
+        {
+            "name": "artifact_die_ocho",
+            "current": 0,
+            "max": "",
+            "id": "-M0K0EVm5XYG_F06nCt6"
+        },
+        {
+            "name": "artifact_die_ten",
+            "current": 0,
+            "max": "",
+            "id": "-M0K0EVnk-Pb7CgCows0"
+        },
+        {
+            "name": "artifact_die_twelve",
+            "current": 0,
+            "max": "",
+            "id": "-M0K0EVo888MUcYi3M9b"
+        },
+        {
+            "name": "current_preset",
+            "current": "Custom Roll",
+            "max": "",
+            "id": "-M0K0EVp3GW70XhJfWSs"
+        },
+        {
+            "name": "include_with_roll",
+            "current": "",
+            "max": "",
+            "id": "-M0K0EVqZ7gfxEfJ3rni"
+        },
+        {
+            "name": "version",
+            "current": 1.67,
+            "max": "",
+            "id": "-M0K0EX1OISTtrauiCvH"
+        },
+        {
+            "name": "armor_encumbrance",
+            "current": "0.0",
+            "max": "",
+            "id": "-M0K0EX5zZn1oxInvz7h"
+        },
+        {
+            "name": "shield_encumbrance",
+            "current": "0.0",
+            "max": "",
+            "id": "-M0K0EX9h4VLsjlscTjv"
+        },
+        {
+            "name": "coins_carried",
+            "current": "0.0",
+            "max": "",
+            "id": "-M0K0EXBLssGNII8mnhf"
+        },
+        {
+            "name": "coins_carried_mount",
+            "current": "0.0",
+            "max": "",
+            "id": "-M0K0EXDd0urZLG5MlMM"
+        },
+        {
+            "name": "armor_shield_encumbrance",
+            "current": 0,
+            "max": "",
+            "id": "-M0K0EXFBKu6IS0KOJWE"
+        },
+        {
+            "name": "character_encumbrance",
+            "current": 0,
+            "max": "",
+            "id": "-M0K0EXH3Pny-6EcV3vS"
+        },
+        {
+            "name": "mount_encumbrance",
+            "current": 0,
+            "max": "",
+            "id": "-M0K0EXJLmtUbzCTC5Kw"
+        },
+        {
+            "name": "gold_total",
+            "current": 0,
+            "max": "",
+            "id": "-M0K0EXLXZ84ecVYT_gr"
+        },
+        {
+            "name": "silver_total",
+            "current": 0,
+            "max": "",
+            "id": "-M0K0EXNzMbEANIHbmIz"
+        },
+        {
+            "name": "copper_total",
+            "current": 0,
+            "max": "",
+            "id": "-M0K0EXPR7-KpB7UndZu"
+        },
+        {
+            "name": "strength",
+            "current": 20,
+            "max": "",
+            "id": "-M0K0EXTbyQLM8oX_Vvb"
+        },
+        {
+            "name": "reputation_total",
+            "current": 0,
+            "max": "",
+            "id": "-M0K0EXVjJtXxybMdQj4"
+        },
+        {
+            "name": "armor_artifact_die_ocho",
+            "current": 0,
+            "max": "",
+            "id": "-M0K0EXYdoQUFU5nOhFd"
+        },
+        {
+            "name": "armor_artifact_die_eight",
+            "current": 0,
+            "max": "",
+            "id": "-M0K0EX_2e04irrUY4xD"
+        },
+        {
+            "name": "armor_artifact_die_ten",
+            "current": 0,
+            "max": "",
+            "id": "-M0K0EXbILlyvmOcX7fA"
+        },
+        {
+            "name": "armor_artifact_die_twelve",
+            "current": 0,
+            "max": "",
+            "id": "-M0K0EXcD8v06Feu_Vxj"
+        },
+        {
+            "name": "translation_push_query",
+            "current": "Is the Dice Pool correct...? (hint:remove successes and bane) |Yes - Submit to Roll.,Dice Pool is correct.|No - Cancel.,Dice Pool needs to be corrected.",
+            "max": "",
+            "id": "-M0K0EXdW5mtwvzSOKVD"
+        },
+        {
+            "name": "strength_total",
+            "current": 20,
+            "max": 20,
+            "id": "-M0K0EXfZAfd7z-OxDUL"
+        },
+        {
+            "name": "agility_total",
+            "current": 4,
+            "max": 4,
+            "id": "-M0K0EXhPuoAb16sNU-e"
+        },
+        {
+            "name": "wits_total",
+            "current": 4,
+            "max": 4,
+            "id": "-M0K0EXi6GGBOU22Ehx6"
+        },
+        {
+            "name": "empathy_total",
+            "current": 2,
+            "max": 2,
+            "id": "-M0K0E_aAYm4L51W5Tne"
+        },
+        {
+            "name": "show_announcements",
+            "current": 1,
+            "max": "",
+            "id": "-M0K0E_ebqv15gaCJ6hG"
+        },
+        {
+            "name": "hirelings_cost",
+            "current": 0,
+            "max": "",
+            "id": "-M0K0E_ggrsVTICqfd-l"
+        },
+        {
+            "name": "character_gear_encumbrance",
+            "current": 0,
+            "max": "",
+            "id": "-M0K0E_kvf1vIdvv9xSv"
+        },
+        {
+            "name": "mount_gear_encumbrance",
+            "current": 0,
+            "max": "",
+            "id": "-M0K0E_l5YNt63SfCcS7"
+        },
+        {
+            "name": "weapons_encumbrance",
+            "current": 0,
+            "max": "",
+            "id": "-M0K0E_nS2bXsUa41xRq"
+        },
+        {
+            "name": "tab",
+            "current": "3",
+            "max": "",
+            "id": "-M0K0FDyCi2hGKabUkPZ"
+        },
+        {
+            "name": "armor1_bonus",
+            "current": 10,
+            "max": "10",
+            "id": "-M0K0GSU5pTCFoGN0dag"
+        },
+        {
+            "name": "armor1_ar",
+            "current": 10,
+            "max": "",
+            "id": "-M0K0GUGLIu4o3Kn6Xhi"
+        },
+        {
+            "name": "armor2_ar",
+            "current": 0,
+            "max": "",
+            "id": "-M0K0GUJKC-urhYR2SAV"
+        },
+        {
+            "name": "ar",
+            "current": 10,
+            "max": "",
+            "id": "-M0K0GUK2RmReSFkuZd5"
+        },
+        {
+            "name": "armor2_bonus",
+            "current": 0,
+            "max": "",
+            "id": "-M0K0GUMowPpnwtrmboH"
+        },
+        {
+            "name": "shield1_bonus",
+            "current": 0,
+            "max": "",
+            "id": "-M0K0GUOGtQuKzGu0WG5"
+        },
+        {
+            "name": "shield1_bonus_total",
+            "current": 20,
+            "max": "",
+            "id": "-M0K0GUPXBcbSVX6EAyy"
+        },
+        {
+            "name": "armor1_name",
+            "current": "Scales",
+            "max": "",
+            "id": "-M0K0HPARFq9MWOCIEko"
+        },
+        {
+            "name": "strength_monster",
+            "current": "20",
+            "max": "",
+            "id": "-M0K0Hjr78blxpFT_Vaq"
+        },
+        {
+            "name": "agility",
+            "current": 4,
+            "max": "",
+            "id": "-M0K0Hu_OT31E_HhHO6Q"
+        },
+        {
+            "name": "marksmanship_total",
+            "current": 4,
+            "max": "",
+            "id": "-M0K0Hxsuq65AFbBt28G"
+        },
+        {
+            "name": "move_total",
+            "current": 4,
+            "max": "",
+            "id": "-M0K0HxuvRHusBVSR8mH"
+        },
+        {
+            "name": "sleight_of_hand_total",
+            "current": 4,
+            "max": "",
+            "id": "-M0K0HxwN8GnLmEarBV3"
+        },
+        {
+            "name": "stealth_total",
+            "current": 4,
+            "max": "",
+            "id": "-M0K0HxxjjD1Imm5Pzqv"
+        },
+        {
+            "name": "crafting_total",
+            "current": 20,
+            "max": "",
+            "id": "-M0K0Ik5JixHVyX7-wFD"
+        },
+        {
+            "name": "endurance_total",
+            "current": 20,
+            "max": "",
+            "id": "-M0K0Ik7j0Cz2cQxmTHv"
+        },
+        {
+            "name": "melee_total",
+            "current": 20,
+            "max": "",
+            "id": "-M0K0Ik8nbL6BfD39wpJ"
+        },
+        {
+            "name": "might_total",
+            "current": 20,
+            "max": "",
+            "id": "-M0K0Ik938IUdo7Vw5ac"
+        },
+        {
+            "name": "wits",
+            "current": 4,
+            "max": "",
+            "id": "-M0K0IrcLur1u6uIiVUx"
+        },
+        {
+            "name": "insight_total",
+            "current": 6,
+            "max": "",
+            "id": "-M0K0Iv-8dfMO0qnnFsZ"
+        },
+        {
+            "name": "lore_total",
+            "current": 6,
+            "max": "",
+            "id": "-M0K0Iv1F6g-29oAtnWJ"
+        },
+        {
+            "name": "scouting_total",
+            "current": 7,
+            "max": "",
+            "id": "-M0K0Iv5qoPyVWNW-Fjo"
+        },
+        {
+            "name": "survival_total",
+            "current": 4,
+            "max": "",
+            "id": "-M0K0Iv7L2VlmkNIMGgm"
+        },
+        {
+            "name": "empathy",
+            "current": 2,
+            "max": "",
+            "id": "-M0K0JDx2W03jzkBUHvo"
+        },
+        {
+            "name": "animal_handling_total",
+            "current": 2,
+            "max": "",
+            "id": "-M0K0JHYfAnuVW_305Mk"
+        },
+        {
+            "name": "healing_total",
+            "current": 2,
+            "max": "",
+            "id": "-M0K0JHaG5N8hpac5Ahf"
+        },
+        {
+            "name": "manipulation_total",
+            "current": 4,
+            "max": "",
+            "id": "-M0K0JHblF7isKpcMJpo"
+        },
+        {
+            "name": "performance_total",
+            "current": 2,
+            "max": "",
+            "id": "-M0K0JHe4pxqPjR51M7C"
+        },
+        {
+            "name": "strength_pc",
+            "current": 20,
+            "max": "",
+            "id": "-M0K9sEljxGR1J5a2xu1"
+        },
+        {
+            "name": "repeating_monster_-M0K9t3yq9ycGf9e4mZd_attack_name",
+            "current": "Claw Attack!",
+            "max": "",
+            "id": "-M0K9x_2wdqFSHI7bE2H"
+        },
+        {
+            "name": "repeating_monster_-M0K9t3yq9ycGf9e4mZd_attack_dice",
+            "current": "10",
+            "max": "",
+            "id": "-M0K9yJp1VdnflrfMczQ"
+        },
+        {
+            "name": "repeating_monster_-M0K9t3yq9ycGf9e4mZd_attack_damage",
+            "current": "2",
+            "max": "",
+            "id": "-M0K9yX8pDwQnvoMbU5U"
+        },
+        {
+            "name": "repeating_monster_-M0K9t3yq9ycGf9e4mZd_attack_features",
+            "current": "Slash",
+            "max": "",
+            "id": "-M0K9ytdmWTIKlEJ2ywB"
+        },
+        {
+            "name": "repeating_monster_-M0K9t3yq9ycGf9e4mZd_attack_range",
+            "current": "Near",
+            "max": "",
+            "id": "-M0K9zSTTTZC1ddvIu2p"
+        },
+        {
+            "name": "repeating_monster_-M0K9t3yq9ycGf9e4mZd_attack_description",
+            "current": "The dragon sweeps with its claws against two adventures within Near range. ",
+            "max": "",
+            "id": "-M0KA1rte5xgk_1F7ZDj"
+        },
+        {
+            "name": "repeating_monster_-M0KA2EgfuZ7ySkqPs7M_attack_name",
+            "current": "Dragon Roar!",
+            "max": "",
+            "id": "-M0KA3As5n7dKUbM2Lub"
+        },
+        {
+            "name": "repeating_monster_-M0KA2EgfuZ7ySkqPs7M_attack_dice",
+            "current": "8",
+            "max": "",
+            "id": "-M0KA45WwonQ6DJlgs_O"
+        },
+        {
+            "name": "repeating_monster_-M0KA2EgfuZ7ySkqPs7M_attack_damage",
+            "current": "1",
+            "max": "",
+            "id": "-M0KA4JhOWSGKVRN8GQ-"
+        },
+        {
+            "name": "repeating_monster_-M0KA2EgfuZ7ySkqPs7M_attack_features",
+            "current": "Fear",
+            "max": "",
+            "id": "-M0KA4ffKUVOGFVhykQ3"
+        },
+        {
+            "name": "repeating_monster_-M0KA2EgfuZ7ySkqPs7M_attack_range",
+            "current": "Near",
+            "max": "",
+            "id": "-M0KA5Dr7quXBk1Tcdu4"
+        },
+        {
+            "name": "repeating_monster_-M0KA2EgfuZ7ySkqPs7M_attack_description",
+            "current": "The dragon lets out a powerful roar against the adventurers. Everyone within Near range is affected.",
+            "max": "",
+            "id": "-M0KA8_ALxvA6uVi92rY"
+        },
+        {
+            "name": "repeating_monster_-M0KA8uOKzLtushZuf7o_attack_name",
+            "current": "Dragon Wind!",
+            "max": "",
+            "id": "-M0KA9tuVnjv1O-PcDRa"
+        },
+        {
+            "name": "repeating_monster_-M0KA8uOKzLtushZuf7o_attack_dice",
+            "current": "6",
+            "max": "",
+            "id": "-M0KAAptGf5vCEYHhKdI"
+        },
+        {
+            "name": "repeating_monster_-M0KA8uOKzLtushZuf7o_attack_damage",
+            "current": "1",
+            "max": "",
+            "id": "-M0KAB-iuhvU-0Rxp02C"
+        },
+        {
+            "name": "repeating_monster_-M0KA8uOKzLtushZuf7o_attack_features",
+            "current": "Blunt",
+            "max": "",
+            "id": "-M0KACbclFUuIf_LrxSO"
+        },
+        {
+            "name": "repeating_monster_-M0KA8uOKzLtushZuf7o_attack_range",
+            "current": "Near",
+            "max": "",
+            "id": "-M0KACqU36rP-R3xfQIC"
+        },
+        {
+            "name": "repeating_monster_-M0KA8uOKzLtushZuf7o_attack_description",
+            "current": "The dragon flaps its great wings and creates a powerful gust of wind that strikes every adventurer within Near range. The attack cannot be Dodged and everyone affected is tossed to the ground.",
+            "max": "",
+            "id": "-M0KAJpva-71e8O_X9MW"
+        },
+        {
+            "name": "repeating_monster_-M0KAKKg-XXcwu9qcalL_attack_name",
+            "current": "Fire Attack!",
+            "max": "",
+            "id": "-M0KALY_Vj5ayz0Qdbbg"
+        },
+        {
+            "name": "repeating_monster_-M0KAKKg-XXcwu9qcalL_attack_dice",
+            "current": "12",
+            "max": "",
+            "id": "-M0KAM7Uho4qtLZbKPda"
+        },
+        {
+            "name": "repeating_monster_-M0KAKKg-XXcwu9qcalL_attack_damage",
+            "current": "1",
+            "max": "",
+            "id": "-M0KAMOmKv3KsInyWp25"
+        },
+        {
+            "name": "repeating_monster_-M0KAKKg-XXcwu9qcalL_attack_features",
+            "current": "Fire",
+            "max": "",
+            "id": "-M0KAO5d5yZwWrsfoRV2"
+        },
+        {
+            "name": "repeating_monster_-M0KAKKg-XXcwu9qcalL_attack_description",
+            "current": "The beast spews out a cone of fire, striking the adventurer with the highest Strength within Short range. If the attack succeeds, the victim suffers the same amount of damage every subsequent round until the fire is put out with a Move roll (quick).",
+            "max": "",
+            "id": "-M0KATGhkimefhE9fxoj"
+        },
+        {
+            "name": "repeating_monster_-M0KAKKg-XXcwu9qcalL_attack_range",
+            "current": "Short",
+            "max": "",
+            "id": "-M0KATKR-4KO57fr5bpr"
+        },
+        {
+            "name": "repeating_monster_-M0KAZ-xYWgAIHjluOWT_attack_name",
+            "current": "Tail Attack!",
+            "max": "",
+            "id": "-M0KAaYetZLFCX2kUZSy"
+        },
+        {
+            "name": "repeating_monster_-M0KAZ-xYWgAIHjluOWT_attack_dice",
+            "current": "8",
+            "max": "",
+            "id": "-M0KAbX-w1oIisnNsRX7"
+        },
+        {
+            "name": "repeating_monster_-M0KAZ-xYWgAIHjluOWT_attack_damage",
+            "current": "1",
+            "max": "",
+            "id": "-M0KAbg1rnMmPFws6ESU"
+        },
+        {
+            "name": "repeating_monster_-M0KAZ-xYWgAIHjluOWT_attack_features",
+            "current": "Blunt",
+            "max": "",
+            "id": "-M0KAce1LS8qXpARHPmK"
+        },
+        {
+            "name": "repeating_monster_-M0KAZ-xYWgAIHjluOWT_attack_range",
+            "current": "Near",
+            "max": "",
+            "id": "-M0KAd8MY2Ng5VCiOxlY"
+        },
+        {
+            "name": "repeating_monster_-M0KAZ-xYWgAIHjluOWT_attack_description",
+            "current": "The dragon sweeps its great tail against the adventurers within Near range. If the attack hits, the victim is also thrown to the ground.",
+            "max": "",
+            "id": "-M0KAk74PYh3w4oxpJpA"
+        },
+        {
+            "name": "repeating_monster_-M0KAkZGkzirl7rCO4EO_attack_name",
+            "current": "Firestorm!",
+            "max": "",
+            "id": "-M0KAlHYwIyfhBNrYoHH"
+        },
+        {
+            "name": "repeating_monster_-M0KAkZGkzirl7rCO4EO_attack_dice",
+            "current": "12",
+            "max": "",
+            "id": "-M0KAlhj27O7XXEbQbWD"
+        },
+        {
+            "name": "repeating_monster_-M0KAkZGkzirl7rCO4EO_attack_damage",
+            "current": "1",
+            "max": "",
+            "id": "-M0KAlv5Ceb2Wh5iwWgF"
+        },
+        {
+            "name": "repeating_monster_-M0KAkZGkzirl7rCO4EO_attack_features",
+            "current": "Fire",
+            "max": "",
+            "id": "-M0KAm6kLSOaHixELzRh"
+        },
+        {
+            "name": "repeating_monster_-M0KAkZGkzirl7rCO4EO_attack_range",
+            "current": "Short",
+            "max": "",
+            "id": "-M0KAmOZDQm_AnXONtw8"
+        },
+        {
+            "name": "repeating_monster_-M0KAkZGkzirl7rCO4EO_attack_description",
+            "current": "The dragon rises above the adventurers in all its glory and lets out an annihilating storm of fire. All adventurers within Short range are targeted. If the attack hits, the victim is also thrown to the ground. This attack can only be used once per combat.",
+            "max": "",
+            "id": "-M0KAub8hnd5jvdB6BUT"
+        },
+        {
+            "name": "animal_handling",
+            "current": "0",
+            "max": "",
+            "id": "-M0KB6iznV3dckyHPHId"
+        },
+        {
+            "name": "lore",
+            "current": "2",
+            "max": "",
+            "id": "-M0KB8nJp471ELcErR0F"
+        },
+        {
+            "name": "insight",
+            "current": "2",
+            "max": "",
+            "id": "-M0KB9efC4vL5kNTfxMq"
+        },
+        {
+            "name": "manipulation",
+            "current": "2",
+            "max": "",
+            "id": "-M0KB9qu3Q9Dsizphlj5"
+        },
+        {
+            "name": "marksmanship",
+            "current": "0",
+            "max": "",
+            "id": "-M0KBB-WhiEUU1cEKOvP"
+        },
+        {
+            "name": "move",
+            "current": "0",
+            "max": "",
+            "id": "-M0KBBCHo0A12QOnDeV2"
+        },
+        {
+            "name": "performance",
+            "current": "0",
+            "max": "",
+            "id": "-M0KBBTVhaUCWwmzdq6H"
+        },
+        {
+            "name": "scouting",
+            "current": "3",
+            "max": "",
+            "id": "-M0KBBeSIdNwzm3ldKG3"
+        },
+        {
+            "name": "sleight_of_hand",
+            "current": "0",
+            "max": "",
+            "id": "-M0KBBwWRcO9092-C_QE"
+        },
+        {
+            "name": "roll_the_dice_flag",
+            "current": 0,
+            "max": "",
+            "id": "-M3sPBuuIiT8I6gyyPEJ"
+        },
+        {
+            "name": "skill_attribute_selected",
+            "current": 4,
+            "max": "",
+            "id": "-M3sRaebIaDS4KX1kn5-"
+        },
+        {
+            "name": "skill_bonus_misc_selected",
+            "current": 0,
+            "max": "",
+            "id": "-M3sRaeceb6DqR768mrh"
+        },
+        {
+            "name": "skill_only_selected",
+            "current": 2,
+            "max": "",
+            "id": "-M3sRaee5Nkmdwils40I"
+        },
+        {
+            "name": "skill_notes_selected",
+            "current": "",
+            "max": "",
+            "id": "-M3sRaefNWqhFOAIKtCW"
+        },
+        {
+            "name": "translation_whisper_macro_query",
+            "current": "?{Whisper roll?|No,|Yes,/w gm |}",
+            "max": "",
+            "id": "-M5giHBgk8TCYwwzpqXv"
+        },
+        {
+            "name": "translation_whisper_api_macro_query",
+            "current": "?{Whisper roll?|No,!forl |Yes,!wforl |}",
+            "max": "",
+            "id": "-M5giHBihQ3-Z7wkG9EF"
+        }
+    ],
+    "abilities": []
+}

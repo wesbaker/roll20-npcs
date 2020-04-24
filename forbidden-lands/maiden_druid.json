@@ -1,0 +1,1053 @@
+{
+    "schema_version": 2,
+    "oldId": "-LiOiqjjLM4jeYjyYB9V",
+    "name": "Maiden Druid",
+    "avatar": "",
+    "bio": "",
+    "gmnotes": "",
+    "defaulttoken": "",
+    "tags": "[]",
+    "controlledby": "-LbPNRTARk1yWfI-PoVU",
+    "inplayerjournals": "-LbPNRTARk1yWfI-PoVU",
+    "attribs": [
+        {
+            "name": "animal_handling_total",
+            "current": 3,
+            "max": "",
+            "id": "-LiOiqlKa-am3lvdVZSN"
+        },
+        {
+            "name": "crafting_total",
+            "current": 2,
+            "max": "",
+            "id": "-LiOiqlLAyCxsqpAUFs2"
+        },
+        {
+            "name": "endurance_total",
+            "current": 2,
+            "max": "",
+            "id": "-LiOiqlLAyCxsqpAUFs3"
+        },
+        {
+            "name": "healing_total",
+            "current": 3,
+            "max": "",
+            "id": "-LiOiqlMOzSZ3q2wS88N"
+        },
+        {
+            "name": "insight_total",
+            "current": 4,
+            "max": "",
+            "id": "-LiOiqlMOzSZ3q2wS88O"
+        },
+        {
+            "name": "lore_total",
+            "current": 6,
+            "max": "",
+            "id": "-LiOiqlNqnHbVqZ_rx67"
+        },
+        {
+            "name": "manipulation_total",
+            "current": 5,
+            "max": "",
+            "id": "-LiOiqlNqnHbVqZ_rx68"
+        },
+        {
+            "name": "marksmanship_total",
+            "current": 5,
+            "max": "",
+            "id": "-LiOiqlOgmo1YbS3yBrM"
+        },
+        {
+            "name": "melee_total",
+            "current": 4,
+            "max": "",
+            "id": "-LiOiqlOgmo1YbS3yBrN"
+        },
+        {
+            "name": "might_total",
+            "current": 2,
+            "max": "",
+            "id": "-LiOiqlP2LtgDMR0j0xN"
+        },
+        {
+            "name": "move_total",
+            "current": 4,
+            "max": "",
+            "id": "-LiOiqlP2LtgDMR0j0xO"
+        },
+        {
+            "name": "performance_total",
+            "current": 3,
+            "max": "",
+            "id": "-LiOiqlQznNlJUKXD10M"
+        },
+        {
+            "name": "scouting_total",
+            "current": 4,
+            "max": "",
+            "id": "-LiOiqlQznNlJUKXD10N"
+        },
+        {
+            "name": "sleight_of_hand_total",
+            "current": 3,
+            "max": "",
+            "id": "-LiOiqlROljweanTu94x"
+        },
+        {
+            "name": "stealth_total",
+            "current": 3,
+            "max": "",
+            "id": "-LiOiqlROljweanTu94y"
+        },
+        {
+            "name": "survival_total",
+            "current": 4,
+            "max": "",
+            "id": "-LiOiqlROljweanTu94z"
+        },
+        {
+            "name": "armor1_ar",
+            "current": 0,
+            "max": "",
+            "id": "-LiOiqlSJ6E046g_eyv1"
+        },
+        {
+            "name": "armor2_ar",
+            "current": 0,
+            "max": "",
+            "id": "-LiOiqlSJ6E046g_eyv2"
+        },
+        {
+            "name": "ar",
+            "current": 0,
+            "max": "",
+            "id": "-LiOiqlTfdb2Vm_JXikG"
+        },
+        {
+            "name": "strength",
+            "current": 2,
+            "max": "",
+            "id": "-LiOiqlTfdb2Vm_JXikH"
+        },
+        {
+            "name": "strength_total",
+            "current": 2,
+            "max": 2,
+            "id": "-LiOiqlTfdb2Vm_JXikI"
+        },
+        {
+            "name": "agility",
+            "current": 3,
+            "max": "",
+            "id": "-LiOiqlUN1jh9v9gguyn"
+        },
+        {
+            "name": "agility_total",
+            "current": 3,
+            "max": 3,
+            "id": "-LiOiqlUN1jh9v9gguyo"
+        },
+        {
+            "name": "wits",
+            "current": 4,
+            "max": "",
+            "id": "-LiOiqlUN1jh9v9gguyp"
+        },
+        {
+            "name": "wits_total",
+            "current": 4,
+            "max": 4,
+            "id": "-LiOiqlVfWW9_cK9IUu7"
+        },
+        {
+            "name": "empathy",
+            "current": 3,
+            "max": "",
+            "id": "-LiOiqlVfWW9_cK9IUu8"
+        },
+        {
+            "name": "empathy_total",
+            "current": 3,
+            "max": 3,
+            "id": "-LiOiqlVfWW9_cK9IUu9"
+        },
+        {
+            "name": "lore",
+            "current": "2",
+            "max": "",
+            "id": "-LiOiqlWmaeRtZHvXZvf"
+        },
+        {
+            "name": "insight",
+            "current": "0",
+            "max": "",
+            "id": "-LiOiqlWmaeRtZHvXZvg"
+        },
+        {
+            "name": "manipulation",
+            "current": "2",
+            "max": "",
+            "id": "-LiOiqlWmaeRtZHvXZvh"
+        },
+        {
+            "name": "character_gear_encumbrance",
+            "current": 0,
+            "max": "",
+            "id": "-LiOiqlXoqYlpq4vQqr_"
+        },
+        {
+            "name": "character_encumbrance",
+            "current": 0,
+            "max": "",
+            "id": "-LiOiqlXoqYlpq4vQqra"
+        },
+        {
+            "name": "mount_encumbrance",
+            "current": 1.5,
+            "max": "",
+            "id": "-LiOiqlYqNPFT1qbcuoa"
+        },
+        {
+            "name": "damage",
+            "current": "0",
+            "max": "",
+            "id": "-LiOiqlYqNPFT1qbcuob"
+        },
+        {
+            "name": "healing",
+            "current": "0",
+            "max": "",
+            "id": "-LiOiqlYqNPFT1qbcuoc"
+        },
+        {
+            "name": "repeating_weapons_-LiO6qUje0DTBY7MqZxg_weapon_name",
+            "current": "Short Bow",
+            "max": "",
+            "id": "-LiOiqlu97JFO5z8AURI"
+        },
+        {
+            "name": "repeating_weapons_-LiO6rMlnZdBeUaUu6Pm_weapon_name",
+            "current": "Dagger",
+            "max": "",
+            "id": "-LiOiqlu97JFO5z8AURJ"
+        },
+        {
+            "name": "repeating_talents_-LiO6uDHEjL8vxmj1clN_talent_name",
+            "current": "Path of Shifting Shapes",
+            "max": "",
+            "id": "-LiOiqlv-AWUWBK3n3tu"
+        },
+        {
+            "name": "repeating_talents_-LiO6uDHEjL8vxmj1clN_talent_type",
+            "current": "Prof",
+            "max": "",
+            "id": "-LiOiqlv-AWUWBK3n3tv"
+        },
+        {
+            "name": "repeating_talents_-LiO6uDHEjL8vxmj1clN_talent_rank",
+            "current": "2",
+            "max": "",
+            "id": "-LiOiqlv-AWUWBK3n3tw"
+        },
+        {
+            "name": "repeating_talents_-LiO6uDHEjL8vxmj1clN_expand",
+            "current": "on",
+            "max": "",
+            "id": "-LiOiqlwztpa5NYhWamu"
+        },
+        {
+            "name": "melee",
+            "current": "2",
+            "max": "",
+            "id": "-LiOiqlwztpa5NYhWamv"
+        },
+        {
+            "name": "move",
+            "current": "1",
+            "max": "",
+            "id": "-LiOiqlxrU9BtdDAQNIz"
+        },
+        {
+            "name": "marksmanship",
+            "current": "2",
+            "max": "",
+            "id": "-LiOiqlxrU9BtdDAQNJ-"
+        },
+        {
+            "name": "survival",
+            "current": "0",
+            "max": "",
+            "id": "-LiOiqlxrU9BtdDAQNJ0"
+        },
+        {
+            "name": "copper",
+            "current": "D6",
+            "max": "",
+            "id": "-LiOiqlyDtdK2Vxnu0bR"
+        },
+        {
+            "name": "coins_carried",
+            "current": "0.0",
+            "max": "",
+            "id": "-LiOiqlyDtdK2Vxnu0bS"
+        },
+        {
+            "name": "coins_carried_mount",
+            "current": "0.0",
+            "max": "",
+            "id": "-LiOiqlyDtdK2Vxnu0bT"
+        },
+        {
+            "name": "gold_total",
+            "current": 0,
+            "max": "",
+            "id": "-LiOiqlzkEWOshsyPIQg"
+        },
+        {
+            "name": "silver_total",
+            "current": 0,
+            "max": "",
+            "id": "-LiOiqlzkEWOshsyPIQh"
+        },
+        {
+            "name": "copper_total",
+            "current": 0,
+            "max": "",
+            "id": "-LiOiqm-2axo1RDVTzHJ"
+        },
+        {
+            "name": "gold_mount",
+            "current": "0",
+            "max": "",
+            "id": "-LiOiqm-2axo1RDVTzHK"
+        },
+        {
+            "name": "silver_mount",
+            "current": "0",
+            "max": "",
+            "id": "-LiOiqm-2axo1RDVTzHL"
+        },
+        {
+            "name": "repeating_weapons_-LiO6qUje0DTBY7MqZxg_weapon_grip",
+            "current": "2H",
+            "max": "",
+            "id": "-LiOiqm0T2-TjpWAROSt"
+        },
+        {
+            "name": "repeating_weapons_-LiO6qUje0DTBY7MqZxg_weapon_bonus",
+            "current": "2",
+            "max": "2",
+            "id": "-LiOiqm0T2-TjpWAROSu"
+        },
+        {
+            "name": "repeating_weapons_-LiO6qUje0DTBY7MqZxg_weapon_damage",
+            "current": "1",
+            "max": "",
+            "id": "-LiOiqm0T2-TjpWAROSv"
+        },
+        {
+            "name": "repeating_weapons_-LiO6qUje0DTBY7MqZxg_weapon_range",
+            "current": "Short",
+            "max": "",
+            "id": "-LiOiqm1-g2J2WAonUy7"
+        },
+        {
+            "name": "repeating_weapons_-LiO6qUje0DTBY7MqZxg_weapon_features",
+            "current": "Light",
+            "max": "",
+            "id": "-LiOiqm1-g2J2WAonUy8"
+        },
+        {
+            "name": "repeating_weapons_-LiO6rMlnZdBeUaUu6Pm_weapon_bonus",
+            "current": "",
+            "max": "1",
+            "id": "-LiOiqm1-g2J2WAonUy9"
+        },
+        {
+            "name": "repeating_weapons_-LiO6rMlnZdBeUaUu6Pm_weapon_damage",
+            "current": "1",
+            "max": "",
+            "id": "-LiOiqm24Hq2H2d4svfH"
+        },
+        {
+            "name": "repeating_weapons_-LiO6rMlnZdBeUaUu6Pm_weapon_features",
+            "current": "Light, Edged, Pointed",
+            "max": "",
+            "id": "-LiOiqm24Hq2H2d4svfI"
+        },
+        {
+            "name": "repeating_talents_-LiO6uDHEjL8vxmj1clN_talent_description",
+            "current": "You can cast rank 1 and rank 2 spells from the Shapeshifting discipline.",
+            "max": "",
+            "id": "-LiOiqm3gipzgSReHuBs"
+        },
+        {
+            "name": "repeating_spells_-LiO8DlMdsi35rpIevvc_spell_name",
+            "current": "Animal Speech",
+            "max": "",
+            "id": "-LiOiqm3gipzgSReHuBt"
+        },
+        {
+            "name": "repeating_spells_-LiO8DlMdsi35rpIevvc_spell_willpower",
+            "current": "1",
+            "max": "",
+            "id": "-LiOiqm4DeHCAGCPahd5"
+        },
+        {
+            "name": "repeating_spells_-LiO8DlMdsi35rpIevvc_spell_range",
+            "current": "Near",
+            "max": "",
+            "id": "-LiOiqm4DeHCAGCPahd6"
+        },
+        {
+            "name": "repeating_spells_-LiO8DlMdsi35rpIevvc_spell_duration",
+            "current": "One turn",
+            "max": "",
+            "id": "-LiOiqm5jH4D4-ZAQX_3"
+        },
+        {
+            "name": "repeating_spells_-LiO8DlMdsi35rpIevvc_spell_ingredients",
+            "current": "Claw or tooth",
+            "max": "",
+            "id": "-LiOiqm5jH4D4-ZAQX_4"
+        },
+        {
+            "name": "repeating_spells_-LiO8DlMdsi35rpIevvc_expand",
+            "current": "on",
+            "max": "",
+            "id": "-LiOiqm6Sv0aVjG-noBB"
+        },
+        {
+            "name": "repeating_spells_-LiO8DlMdsi35rpIevvc_spell_description",
+            "current": "This spell allows you to speak with a mammal. You can ask a number of questions equal to the Power Level of the spell. The animal can tell you what it has seen, heard, or smelled – but they do not perceive the world as humanoids do, so their answers are often hard to interpret. The main advantage is that they never lie.",
+            "max": "",
+            "id": "-LiOiqm6Sv0aVjG-noBC"
+        },
+        {
+            "name": "repeating_spells_-LiO8KnP0Tbq82HyITMS_spell_name",
+            "current": "Cat's Paw",
+            "max": "",
+            "id": "-LiOiqm6Sv0aVjG-noBD"
+        },
+        {
+            "name": "repeating_spells_-LiO8KnP0Tbq82HyITMS_spell_willpower",
+            "current": "1",
+            "max": "",
+            "id": "-LiOiqm71m39D6Rrau1n"
+        },
+        {
+            "name": "repeating_spells_-LiO8KnP0Tbq82HyITMS_spell_duration",
+            "current": "Immediate",
+            "max": "",
+            "id": "-LiOiqm71m39D6Rrau1o"
+        },
+        {
+            "name": "repeating_spells_-LiO8KnP0Tbq82HyITMS_spell_ingredients",
+            "current": "Cat's claw",
+            "max": "",
+            "id": "-LiOiqm8NKiC_R0elJhD"
+        },
+        {
+            "name": "repeating_spells_-LiO8KnP0Tbq82HyITMS_expand",
+            "current": "on",
+            "max": "",
+            "id": "-LiOiqm8NKiC_R0elJhE"
+        },
+        {
+            "name": "repeating_spells_-LiO8KnP0Tbq82HyITMS_spell_description",
+            "current": "You can meld your mind with the spirit of the cat, and move without a sound. You can cast this spell instead of rolling SNEAK, and you will succeed automatically. Each Power Level counts as one ⚔️.",
+            "max": "",
+            "id": "-LiOiqm8NKiC_R0elJhF"
+        },
+        {
+            "name": "repeating_spells_-LiO8Rt2e8UXiyFZp1Re_spell_name",
+            "current": "Hawk's Eye",
+            "max": "",
+            "id": "-LiOiqm9J-iopwNxCBLz"
+        },
+        {
+            "name": "repeating_spells_-LiO8Rt2e8UXiyFZp1Re_spell_willpower",
+            "current": "1",
+            "max": "",
+            "id": "-LiOiqm9J-iopwNxCBM-"
+        },
+        {
+            "name": "repeating_spells_-LiO8Rt2e8UXiyFZp1Re_spell_range",
+            "current": "Distant",
+            "max": "",
+            "id": "-LiOiqm9J-iopwNxCBM0"
+        },
+        {
+            "name": "repeating_spells_-LiO8Rt2e8UXiyFZp1Re_spell_duration",
+            "current": "One turn",
+            "max": "",
+            "id": "-LiOiqmAyckGTL3dFL5s"
+        },
+        {
+            "name": "repeating_spells_-LiO8Rt2e8UXiyFZp1Re_spell_ingredients",
+            "current": "Bird's claw",
+            "max": "",
+            "id": "-LiOiqmAyckGTL3dFL5t"
+        },
+        {
+            "name": "repeating_spells_-LiO8Rt2e8UXiyFZp1Re_expand",
+            "current": "on",
+            "max": "",
+            "id": "-LiOiqmBi7rli6tZeyfa"
+        },
+        {
+            "name": "repeating_spells_-LiO8Rt2e8UXiyFZp1Re_spell_description",
+            "current": "You can meld your mind with that of a hawk and gain its inhuman sight. You can see the details of anything within DISTANT range, everything from horizon to horizon. You see all details and can identify specific people.",
+            "max": "",
+            "id": "-LiOiqmBi7rli6tZeyfb"
+        },
+        {
+            "name": "repeating_spells_-LiO8WGErSZwTB38eWXS_spell_name",
+            "current": "Beastmaster",
+            "max": "",
+            "id": "-LiOiqmBi7rli6tZeyfc"
+        },
+        {
+            "name": "repeating_spells_-LiO8WGErSZwTB38eWXS_spell_rank",
+            "current": "2",
+            "max": "",
+            "id": "-LiOiqmCQvlDMR1Qhs8A"
+        },
+        {
+            "name": "repeating_spells_-LiO8WGErSZwTB38eWXS_spell_willpower",
+            "current": "1",
+            "max": "",
+            "id": "-LiOiqmCQvlDMR1Qhs8B"
+        },
+        {
+            "name": "repeating_spells_-LiO8WGErSZwTB38eWXS_spell_range",
+            "current": "Near",
+            "max": "",
+            "id": "-LiOiqmCQvlDMR1Qhs8C"
+        },
+        {
+            "name": "repeating_spells_-LiO8WGErSZwTB38eWXS_spell_duration",
+            "current": "One turn",
+            "max": "",
+            "id": "-LiOiqmDLY8kofBAGBHo"
+        },
+        {
+            "name": "repeating_spells_-LiO8WGErSZwTB38eWXS_spell_ingredients",
+            "current": "Claw or tooth",
+            "max": "",
+            "id": "-LiOiqmDLY8kofBAGBHp"
+        },
+        {
+            "name": "repeating_spells_-LiO8WGErSZwTB38eWXS_expand",
+            "current": "on",
+            "max": "",
+            "id": "-LiOiqmDLY8kofBAGBHq"
+        },
+        {
+            "name": "repeating_spells_-LiO8WGErSZwTB38eWXS_spell_description",
+            "current": "You can bend animals, both wild and tame, to your will. The animal can, for example, break off an attack, track down an enemy, run to where you want it to and deliver a message, allow you to ride on it, or even attack your opponents. You cannot control an animal with a Strength higher than twice the Power Level. The Power Level must be one step higher if the animal is agitated, scared or in combat. If you force an animal to act in a way that is outside its normal behavior – like make it perform tricks, for example – the Power Level needs to be one step higher. You can only control one animal at a time. This spell cannot be used against monsters.",
+            "max": "",
+            "id": "-LiOiqmEcjkD1-2ttxtv"
+        },
+        {
+            "name": "repeating_spells_-LiO8ZrsAYeViNaI8Qam_spell_name",
+            "current": "Bear's Claw",
+            "max": "",
+            "id": "-LiOiqmEcjkD1-2ttxtw"
+        },
+        {
+            "name": "repeating_spells_-LiO8ZrsAYeViNaI8Qam_spell_rank",
+            "current": "2",
+            "max": "",
+            "id": "-LiOiqmEcjkD1-2ttxtx"
+        },
+        {
+            "name": "repeating_spells_-LiO8ZrsAYeViNaI8Qam_spell_willpower",
+            "current": "1",
+            "max": "",
+            "id": "-LiOiqmFm0IufWDs0xj7"
+        },
+        {
+            "name": "repeating_spells_-LiO8ZrsAYeViNaI8Qam_spell_range",
+            "current": "Arm's L.",
+            "max": "",
+            "id": "-LiOiqmFm0IufWDs0xj8"
+        },
+        {
+            "name": "repeating_spells_-LiO8ZrsAYeViNaI8Qam_spell_duration",
+            "current": "Immediate",
+            "max": "",
+            "id": "-LiOiqmFm0IufWDs0xj9"
+        },
+        {
+            "name": "repeating_spells_-LiO8ZrsAYeViNaI8Qam_spell_ingredients",
+            "current": "Bear's claw",
+            "max": "",
+            "id": "-LiOiqmGyKtKh8qeYU2N"
+        },
+        {
+            "name": "repeating_spells_-LiO8ZrsAYeViNaI8Qam_expand",
+            "current": "on",
+            "max": "",
+            "id": "-LiOiqmGyKtKh8qeYU2O"
+        },
+        {
+            "name": "repeating_spells_-LiO8ZrsAYeViNaI8Qam_spell_description",
+            "current": "You can strike your enemy with the force of a great bear. You hit automatically and cause damage equal to the Power Level. The attack cannot be PARRIED or DODGED, but armor has normal effect.",
+            "max": "",
+            "id": "-LiOiqmGyKtKh8qeYU2P"
+        },
+        {
+            "name": "repeating_spells_-LiO8o8Dn7XJg7oDagLr_spell_name",
+            "current": "Deer's Dash",
+            "max": "",
+            "id": "-LiOiqmHvFGPBZcrJ7XN"
+        },
+        {
+            "name": "repeating_spells_-LiO8o8Dn7XJg7oDagLr_spell_rank",
+            "current": "2",
+            "max": "",
+            "id": "-LiOiqmHvFGPBZcrJ7XO"
+        },
+        {
+            "name": "repeating_spells_-LiO8o8Dn7XJg7oDagLr_spell_willpower",
+            "current": "1",
+            "max": "",
+            "id": "-LiOiqmHvFGPBZcrJ7XP"
+        },
+        {
+            "name": "repeating_spells_-LiO8o8Dn7XJg7oDagLr_spell_duration",
+            "current": "Immediate",
+            "max": "",
+            "id": "-LiOiqmIeJ47F6xSv3Iw"
+        },
+        {
+            "name": "repeating_spells_-LiO8o8Dn7XJg7oDagLr_spell_ingredients",
+            "current": "Horn of a Deer",
+            "max": "",
+            "id": "-LiOiqmIeJ47F6xSv3Ix"
+        },
+        {
+            "name": "repeating_spells_-LiO8o8Dn7XJg7oDagLr_expand",
+            "current": "on",
+            "max": "",
+            "id": "-LiOiqmIeJ47F6xSv3Iy"
+        },
+        {
+            "name": "repeating_spells_-LiO8o8Dn7XJg7oDagLr_spell_description",
+            "current": "You can run with the speed of a deer for a short distance. This spell allows you to RUN (one action) with a Movement Rate equal to the Power Level plus 1. Casting this spell does not count as an action in itself. Roll for overcharge/mishap right before you actually move.",
+            "max": "",
+            "id": "-LiOiqmJdLGn3BHBDkNb"
+        },
+        {
+            "name": "_reporder_repeating_spells",
+            "current": "-LiE5vvXPcw0Z5qycSiP,-LiE6B1djtXG7YZd2QDh,-LiE6H1mxRuKQIJh5Nig,-LiE6OGxQd8MgSCyw64O,-LiE6WOnut3LJVUrI78C,-LiO9l3oiT695RWDtDKg,-LiO8DlMdsi35rpIevvc,-LiO8KnP0Tbq82HyITMS,-LiO8Rt2e8UXiyFZp1Re,-LiO8WGErSZwTB38eWXS,-LiO8ZrsAYeViNaI8Qam,-LiO8o8Dn7XJg7oDagLr,-LiE6iYCQ7A4TbdU9XjG,-LiE6qzdKi0LZEbZBD2e,-LiO95vCj13fzLhipz9z,-LiO9JwhWrxN08OrrE8V,-LiO9R8YjyiqGXeuzFsl,-LiO9Wabe7Yqj8pkiIbb",
+            "max": "",
+            "id": "-LiOiqmJdLGn3BHBDkNc"
+        },
+        {
+            "name": "repeating_weapons_-LiO6qUje0DTBY7MqZxg_weapon_skill",
+            "current": "1",
+            "max": "",
+            "id": "-LiOk6fL4Ekw7n1auRWj"
+        },
+        {
+            "name": "armor1_name",
+            "current": "Leather",
+            "max": "",
+            "id": "-LiOkAJOwpq2WaqgPbXG"
+        },
+        {
+            "name": "armor1_damage",
+            "current": "0",
+            "max": "",
+            "id": "-LiOkARozgTpIBobilc6"
+        },
+        {
+            "name": "armor1_bonus",
+            "current": 0,
+            "max": "",
+            "id": "-LiOkAXxZQAsJvyNq4cV"
+        },
+        {
+            "name": "attribute",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi8qo_jb9EeG1-5SU"
+        },
+        {
+            "name": "skill",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi8qpzA0fBBVccsc2"
+        },
+        {
+            "name": "gear",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi8qrZXGpX_KwOAtz"
+        },
+        {
+            "name": "attribute_die_twelve",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi8qsKTlhUCR8QkcO"
+        },
+        {
+            "name": "attribute_die_eleven",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi8qt8FhN_ZsUDnLt"
+        },
+        {
+            "name": "attribute_die_ten",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi8quI2PYCkGSf7n4"
+        },
+        {
+            "name": "attribute_die_nine",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi8qvchUjWSsSLT5g"
+        },
+        {
+            "name": "attribute_die_eight",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi8qvchUjWSsSLT5h"
+        },
+        {
+            "name": "attribute_die_seven",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi8qw9R0F_-M41sBL"
+        },
+        {
+            "name": "attribute_die_six",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi8qxMwBvXbpl0g3Q"
+        },
+        {
+            "name": "attribute_die_five",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi8qyWygjq4fqAsLo"
+        },
+        {
+            "name": "attribute_die_four",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi8qz8cISQK4n4PNQ"
+        },
+        {
+            "name": "attribute_die_three",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi8r-7mQ12Nj0oozF"
+        },
+        {
+            "name": "attribute_die_two",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi8r0D_pxzGan7vN_"
+        },
+        {
+            "name": "attribute_die_one",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi8r1fMXt37EZu4pC"
+        },
+        {
+            "name": "negative_die_one",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi8r2L-YhTQ9CNnQp"
+        },
+        {
+            "name": "negative_die_two",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi8r3xEBhoDfz8hZw"
+        },
+        {
+            "name": "negative_die_three",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi8r43EfbGzR0mfOC"
+        },
+        {
+            "name": "skill_die_ten",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi8r5hWmb9hLM9yWO"
+        },
+        {
+            "name": "skill_die_nine",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi8r6-xT0HtXxmhUd"
+        },
+        {
+            "name": "skill_die_eight",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi8r7y-Nu2GHyKUc8"
+        },
+        {
+            "name": "skill_die_seven",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi8r8RDcTB1dBgZlh"
+        },
+        {
+            "name": "skill_die_six",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi8r9BA2NjWcSNHup"
+        },
+        {
+            "name": "skill_die_five",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi8rA6f6EVl3URiKB"
+        },
+        {
+            "name": "skill_die_four",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi8rB2PLcJpgGsgE4"
+        },
+        {
+            "name": "skill_die_three",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi8rChiJdhDLgjz3A"
+        },
+        {
+            "name": "skill_die_two",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi8rChiJdhDLgjz3B"
+        },
+        {
+            "name": "skill_die_one",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi8rDSpV_i8dYsXWD"
+        },
+        {
+            "name": "gear_die_twelve",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi8rFRWdUlGjaJ6Kd"
+        },
+        {
+            "name": "gear_die_eleven",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi8rGM1Ru9kmbxtKS"
+        },
+        {
+            "name": "gear_die_ten",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi8rGM1Ru9kmbxtKT"
+        },
+        {
+            "name": "gear_die_nine",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi8rHHROmtDnpx3b9"
+        },
+        {
+            "name": "gear_die_eight",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi8rINhEU3v6eEm9f"
+        },
+        {
+            "name": "gear_die_seven",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi8rJA0BM5dQInh-Z"
+        },
+        {
+            "name": "gear_die_six",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi8rKTEPA85y3FGj2"
+        },
+        {
+            "name": "gear_die_five",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi8rLP213FWZs493l"
+        },
+        {
+            "name": "gear_die_four",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi8rMwu3orwQEWZXh"
+        },
+        {
+            "name": "gear_die_three",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi8rNvKiWvjMXu8j-"
+        },
+        {
+            "name": "gear_die_two",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi8rO3OsfEc0GImCY"
+        },
+        {
+            "name": "gear_die_one",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi8rPoCysnN1-_PWP"
+        },
+        {
+            "name": "artifact_die_eight",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi8rQu3TMyyDOIVjM"
+        },
+        {
+            "name": "artifact_die_ocho",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi8rRxlcPGwax4DQQ"
+        },
+        {
+            "name": "artifact_die_ten",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi8rSIKEkTQukQcRJ"
+        },
+        {
+            "name": "artifact_die_twelve",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi8rTFpXrbnys3QsD"
+        },
+        {
+            "name": "current_preset",
+            "current": "Custom Roll",
+            "max": "",
+            "id": "-M5gi8rUqxtc18irPwzz"
+        },
+        {
+            "name": "include_with_roll",
+            "current": "",
+            "max": "",
+            "id": "-M5gi8rVK9LBZ0nfEPr5"
+        },
+        {
+            "name": "translation_push_query",
+            "current": "Is the Dice Pool correct...? (hint:remove successes and bane) |Yes - Submit to Roll.,Dice Pool is correct.|No - Cancel.,Dice Pool needs to be corrected.",
+            "max": "",
+            "id": "-M5gi8rWvPonnNzX4JEp"
+        },
+        {
+            "name": "translation_whisper_macro_query",
+            "current": "?{Whisper roll?|No,|Yes,/w gm |}",
+            "max": "",
+            "id": "-M5gi8rXwNct-1wLKoSl"
+        },
+        {
+            "name": "translation_whisper_api_macro_query",
+            "current": "?{Whisper roll?|No,!forl |Yes,!wforl |}",
+            "max": "",
+            "id": "-M5gi8rYuRuoyiXg93jA"
+        },
+        {
+            "name": "version",
+            "current": 1.67,
+            "max": "",
+            "id": "-M5gi8rZwrPLVnVUoIkY"
+        },
+        {
+            "name": "armor_encumbrance",
+            "current": "0.0",
+            "max": "",
+            "id": "-M5gi8ra39HgoycT-AMZ"
+        },
+        {
+            "name": "shield_encumbrance",
+            "current": "0.0",
+            "max": "",
+            "id": "-M5gi8rbIfmxurFSCt8Y"
+        },
+        {
+            "name": "armor_shield_encumbrance",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi8rcseoKltsJzkoY"
+        },
+        {
+            "name": "strength_pc",
+            "current": 2,
+            "max": "",
+            "id": "-M5gi8rgPyYQCyA8zCsZ"
+        },
+        {
+            "name": "strength_monster",
+            "current": 2,
+            "max": "",
+            "id": "-M5gi8rhhb8pzqik5xyq"
+        },
+        {
+            "name": "reputation_total",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi8rq99SAtdUKuv5f"
+        },
+        {
+            "name": "armor2_bonus",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi8rtDRzx5bGUhBDO"
+        },
+        {
+            "name": "shield1_bonus",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi8runW5avzTeGPE2"
+        },
+        {
+            "name": "shield1_bonus_total",
+            "current": 4,
+            "max": "",
+            "id": "-M5gi8rv01rEgy2e9CEJ"
+        },
+        {
+            "name": "show_announcements",
+            "current": 1,
+            "max": "",
+            "id": "-M5gi8sBr-xCU6GQoZjI"
+        },
+        {
+            "name": "hirelings_cost",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi8sCMRumbOBjXsJ0"
+        },
+        {
+            "name": "mount_gear_encumbrance",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi8sETBgUglGot10b"
+        },
+        {
+            "name": "weapons_encumbrance",
+            "current": 0,
+            "max": "",
+            "id": "-M5gi8sF_zany3T7n0Op"
+        }
+    ],
+    "abilities": []
+}

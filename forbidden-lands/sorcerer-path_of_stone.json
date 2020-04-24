@@ -1,0 +1,1059 @@
+{
+    "schema_version": 2,
+    "oldId": "-LjI9qfkIBMpuzT_NuA5",
+    "name": "Sorcerer - Path of Stone",
+    "avatar": "",
+    "bio": "",
+    "gmnotes": "",
+    "defaulttoken": "",
+    "tags": "[]",
+    "controlledby": "-LbPNRTARk1yWfI-PoVU",
+    "inplayerjournals": "-LbPNRTARk1yWfI-PoVU",
+    "attribs": [
+        {
+            "name": "animal_handling_total",
+            "current": 3,
+            "max": "",
+            "id": "-LjI9qi3MTv3upPjEByQ"
+        },
+        {
+            "name": "crafting_total",
+            "current": 2,
+            "max": "",
+            "id": "-LjI9qi4uLIyEL0QtDR9"
+        },
+        {
+            "name": "endurance_total",
+            "current": 2,
+            "max": "",
+            "id": "-LjI9qi4uLIyEL0QtDRA"
+        },
+        {
+            "name": "healing_total",
+            "current": 3,
+            "max": "",
+            "id": "-LjI9qi5QlBPdhxgY773"
+        },
+        {
+            "name": "insight_total",
+            "current": 4,
+            "max": "",
+            "id": "-LjI9qi5QlBPdhxgY774"
+        },
+        {
+            "name": "lore_total",
+            "current": 5,
+            "max": "",
+            "id": "-LjI9qi67_fZkcYYa5ig"
+        },
+        {
+            "name": "manipulation_total",
+            "current": 3,
+            "max": "",
+            "id": "-LjI9qi67_fZkcYYa5ih"
+        },
+        {
+            "name": "marksmanship_total",
+            "current": 2,
+            "max": "",
+            "id": "-LjI9qi7pS_1kVCrWO8v"
+        },
+        {
+            "name": "melee_total",
+            "current": 2,
+            "max": "",
+            "id": "-LjI9qi7pS_1kVCrWO8w"
+        },
+        {
+            "name": "might_total",
+            "current": 2,
+            "max": "",
+            "id": "-LjI9qi8DpxC5HUT0f7W"
+        },
+        {
+            "name": "move_total",
+            "current": 2,
+            "max": "",
+            "id": "-LjI9qi8DpxC5HUT0f7X"
+        },
+        {
+            "name": "performance_total",
+            "current": 3,
+            "max": "",
+            "id": "-LjI9qi9OIVykh3AgX1s"
+        },
+        {
+            "name": "scouting_total",
+            "current": 4,
+            "max": "",
+            "id": "-LjI9qi9OIVykh3AgX1t"
+        },
+        {
+            "name": "sleight_of_hand_total",
+            "current": 2,
+            "max": "",
+            "id": "-LjI9qiBNMFDlKIg5R0q"
+        },
+        {
+            "name": "stealth_total",
+            "current": 2,
+            "max": "",
+            "id": "-LjI9qiBNMFDlKIg5R0r"
+        },
+        {
+            "name": "survival_total",
+            "current": 4,
+            "max": "",
+            "id": "-LjI9qiCqhAJtsTaWXSm"
+        },
+        {
+            "name": "armor1_ar",
+            "current": 0,
+            "max": "",
+            "id": "-LjI9qiCqhAJtsTaWXSn"
+        },
+        {
+            "name": "armor2_ar",
+            "current": 0,
+            "max": "",
+            "id": "-LjI9qiDGLW5d9WKTlHx"
+        },
+        {
+            "name": "ar",
+            "current": 0,
+            "max": "",
+            "id": "-LjI9qiDGLW5d9WKTlHy"
+        },
+        {
+            "name": "strength",
+            "current": 2,
+            "max": "",
+            "id": "-LjI9qiE1gJPHGcH6ZcW"
+        },
+        {
+            "name": "strength_total",
+            "current": 2,
+            "max": 2,
+            "id": "-LjI9qiE1gJPHGcH6ZcX"
+        },
+        {
+            "name": "agility",
+            "current": 2,
+            "max": "",
+            "id": "-LjI9qiFi_RCE5LPxh7b"
+        },
+        {
+            "name": "agility_total",
+            "current": 2,
+            "max": 2,
+            "id": "-LjI9qiFi_RCE5LPxh7c"
+        },
+        {
+            "name": "wits",
+            "current": 4,
+            "max": "",
+            "id": "-LjI9qiGZSCPDYHRPvcP"
+        },
+        {
+            "name": "wits_total",
+            "current": 4,
+            "max": 4,
+            "id": "-LjI9qiGZSCPDYHRPvcQ"
+        },
+        {
+            "name": "empathy",
+            "current": 3,
+            "max": "",
+            "id": "-LjI9qiGZSCPDYHRPvcR"
+        },
+        {
+            "name": "empathy_total",
+            "current": 3,
+            "max": 3,
+            "id": "-LjI9qiHb47vLhryPqmV"
+        },
+        {
+            "name": "lore",
+            "current": "1",
+            "max": "",
+            "id": "-LjI9qiHb47vLhryPqmW"
+        },
+        {
+            "name": "insight",
+            "current": "",
+            "max": "",
+            "id": "-LjI9qiID4qMOdcCAJvp"
+        },
+        {
+            "name": "manipulation",
+            "current": "",
+            "max": "",
+            "id": "-LjI9qiID4qMOdcCAJvq"
+        },
+        {
+            "name": "character_gear_encumbrance",
+            "current": 0,
+            "max": "",
+            "id": "-LjI9qiJoOyxlvfK8x-J"
+        },
+        {
+            "name": "character_encumbrance",
+            "current": 0,
+            "max": "",
+            "id": "-LjI9qiJoOyxlvfK8x-K"
+        },
+        {
+            "name": "mount_encumbrance",
+            "current": 0,
+            "max": "",
+            "id": "-LjI9qiKJ5D97X6pqB5P"
+        },
+        {
+            "name": "damage",
+            "current": "0",
+            "max": "",
+            "id": "-LjI9qiKJ5D97X6pqB5Q"
+        },
+        {
+            "name": "healing",
+            "current": "",
+            "max": "",
+            "id": "-LjI9qiLE6ApHq4sYdxO"
+        },
+        {
+            "name": "repeating_talents_-LiO6uDHEjL8vxmj1clN_talent_name",
+            "current": "Path of Stone",
+            "max": "",
+            "id": "-LjI9qiVdNG53nuqh2CW"
+        },
+        {
+            "name": "repeating_talents_-LiO6uDHEjL8vxmj1clN_talent_type",
+            "current": "Prof",
+            "max": "",
+            "id": "-LjI9qiVdNG53nuqh2CX"
+        },
+        {
+            "name": "repeating_talents_-LiO6uDHEjL8vxmj1clN_talent_rank",
+            "current": "2",
+            "max": "",
+            "id": "-LjI9qiWK1v9vuUanbjO"
+        },
+        {
+            "name": "repeating_talents_-LiO6uDHEjL8vxmj1clN_expand",
+            "current": "0",
+            "max": "",
+            "id": "-LjI9qiWK1v9vuUanbjP"
+        },
+        {
+            "name": "melee",
+            "current": "0",
+            "max": "",
+            "id": "-LjI9qiWK1v9vuUanbjQ"
+        },
+        {
+            "name": "move",
+            "current": "0",
+            "max": "",
+            "id": "-LjI9qiXU4xxNOPArzHl"
+        },
+        {
+            "name": "marksmanship",
+            "current": "0",
+            "max": "",
+            "id": "-LjI9qiXU4xxNOPArzHm"
+        },
+        {
+            "name": "survival",
+            "current": "",
+            "max": "",
+            "id": "-LjI9qiZVghjco_h97mn"
+        },
+        {
+            "name": "copper",
+            "current": "",
+            "max": "",
+            "id": "-LjI9qiZVghjco_h97mo"
+        },
+        {
+            "name": "coins_carried",
+            "current": "0.0",
+            "max": "",
+            "id": "-LjI9qi_6bKbi-mznk4B"
+        },
+        {
+            "name": "coins_carried_mount",
+            "current": "0.0",
+            "max": "",
+            "id": "-LjI9qi_6bKbi-mznk4C"
+        },
+        {
+            "name": "gold_total",
+            "current": 0,
+            "max": "",
+            "id": "-LjI9qiabOJYh3FmB-Ad"
+        },
+        {
+            "name": "silver_total",
+            "current": 0,
+            "max": "",
+            "id": "-LjI9qiabOJYh3FmB-Ae"
+        },
+        {
+            "name": "copper_total",
+            "current": 0,
+            "max": "",
+            "id": "-LjI9qibQRpnWs4TnCHL"
+        },
+        {
+            "name": "gold_mount",
+            "current": "0",
+            "max": "",
+            "id": "-LjI9qibQRpnWs4TnCHM"
+        },
+        {
+            "name": "silver_mount",
+            "current": "0",
+            "max": "",
+            "id": "-LjI9qicbpSOU64wSxbm"
+        },
+        {
+            "name": "repeating_talents_-LiO6uDHEjL8vxmj1clN_talent_description",
+            "current": "You can cast rank 1, rank 2, and rank 3 spells from the Stone Song discipline.",
+            "max": "",
+            "id": "-LjI9qicbpSOU64wSxbn"
+        },
+        {
+            "name": "_reporder_repeating_spells",
+            "current": "-LiE5vvXPcw0Z5qycSiP,-LiE6B1djtXG7YZd2QDh,-LiE6H1mxRuKQIJh5Nig,-LiE6OGxQd8MgSCyw64O,-LiE6WOnut3LJVUrI78C,-LiO9l3oiT695RWDtDKg,-LiO8DlMdsi35rpIevvc,-LiO8KnP0Tbq82HyITMS,-LiO8Rt2e8UXiyFZp1Re,-LiO8WGErSZwTB38eWXS,-LiO8ZrsAYeViNaI8Qam,-LiO8o8Dn7XJg7oDagLr,-LiE6iYCQ7A4TbdU9XjG,-LiE6qzdKi0LZEbZBD2e,-LiO95vCj13fzLhipz9z,-LiO9JwhWrxN08OrrE8V,-LiO9R8YjyiqGXeuzFsl,-LiO9Wabe7Yqj8pkiIbb",
+            "max": "",
+            "id": "-LjI9qidznqIeP2Zi74g"
+        },
+        {
+            "name": "might",
+            "current": "0",
+            "max": "",
+            "id": "-LjI9qisLWCkYb-Qo6Nq"
+        },
+        {
+            "name": "performance",
+            "current": "0",
+            "max": "",
+            "id": "-LjI9qitFywsvZyWcJtb"
+        },
+        {
+            "name": "scouting",
+            "current": "",
+            "max": "",
+            "id": "-LjI9qitFywsvZyWcJtc"
+        },
+        {
+            "name": "sleight_of_hand",
+            "current": "0",
+            "max": "",
+            "id": "-LjI9qiueQ-n1yXTpIFM"
+        },
+        {
+            "name": "stealth",
+            "current": "",
+            "max": "",
+            "id": "-LjI9qiueQ-n1yXTpIFN"
+        },
+        {
+            "name": "repeating_spells_-LjHyMPRWMDNPhRCZNeA_spell_name",
+            "current": "Dust from the Deep",
+            "max": "",
+            "id": "-LjI9qiwikR4wKTunKeH"
+        },
+        {
+            "name": "repeating_spells_-LjHyPpnMap4Fz0Elrzq_spell_name",
+            "current": "Stun",
+            "max": "",
+            "id": "-LjI9qiwikR4wKTunKeI"
+        },
+        {
+            "name": "repeating_spells_-LjHyQfkrV54loo8ZXzx_spell_name",
+            "current": "Voice of the Mountain",
+            "max": "",
+            "id": "-LjI9qixJhILuXSrHgGx"
+        },
+        {
+            "name": "repeating_spells_-LjHyS01dwQfOsQRZfwO_spell_name",
+            "current": "Stonesmith",
+            "max": "",
+            "id": "-LjI9qixJhILuXSrHgGy"
+        },
+        {
+            "name": "repeating_spells_-LjHyS01dwQfOsQRZfwO_spell_rank",
+            "current": "2",
+            "max": "",
+            "id": "-LjI9qiyZxVOG5SXftE6"
+        },
+        {
+            "name": "repeating_spells_-LjHySoKPZn9A8wGRKAz_spell_name",
+            "current": "Stone Storm",
+            "max": "",
+            "id": "-LjI9qiyZxVOG5SXftE7"
+        },
+        {
+            "name": "repeating_spells_-LjHySoKPZn9A8wGRKAz_spell_rank",
+            "current": "2",
+            "max": "",
+            "id": "-LjI9qiznnwzg0ToF64z"
+        },
+        {
+            "name": "repeating_spells_-LjHySoKPZn9A8wGRKAz_spell_willpower",
+            "current": "1",
+            "max": "",
+            "id": "-LjI9qiznnwzg0ToF65-"
+        },
+        {
+            "name": "repeating_spells_-LjHyUM6Dbw4p75PJZDP_spell_name",
+            "current": "Wither",
+            "max": "",
+            "id": "-LjI9qiznnwzg0ToF650"
+        },
+        {
+            "name": "repeating_spells_-LjHyUM6Dbw4p75PJZDP_spell_rank",
+            "current": "2",
+            "max": "",
+            "id": "-LjI9qj-z1oIJoxVAT-X"
+        },
+        {
+            "name": "repeating_spells_-LjHyUM6Dbw4p75PJZDP_spell_willpower",
+            "current": "1",
+            "max": "",
+            "id": "-LjI9qj-z1oIJoxVAT-Y"
+        },
+        {
+            "name": "repeating_spells_-LjHyMPRWMDNPhRCZNeA_spell_range",
+            "current": "Near",
+            "max": "",
+            "id": "-LjI9qj4ectuOShr3fPm"
+        },
+        {
+            "name": "repeating_spells_-LjHyMPRWMDNPhRCZNeA_spell_duration",
+            "current": "One round",
+            "max": "",
+            "id": "-LjI9qj4ectuOShr3fPn"
+        },
+        {
+            "name": "repeating_spells_-LjHyMPRWMDNPhRCZNeA_spell_ingredients",
+            "current": "A fistful of sand",
+            "max": "",
+            "id": "-LjI9qj5AbYjGHVwlrJH"
+        },
+        {
+            "name": "repeating_spells_-LjHyMPRWMDNPhRCZNeA_expand",
+            "current": "on",
+            "max": "",
+            "id": "-LjI9qj5AbYjGHVwlrJI"
+        },
+        {
+            "name": "repeating_spells_-LjHyMPRWMDNPhRCZNeA_spell_description",
+            "current": "The spell blows a thick cloud of rock dust from the ground to cover the Zone you are in. The dust blocks sight through the Zone and lets you flee combat (see page 89) without rolling for MOVE. This spell can only be used in the MOUNTAIN terrain type or inside a CAVE.",
+            "max": "",
+            "id": "-LjI9qj6ZsBHYa-GQqSi"
+        },
+        {
+            "name": "repeating_spells_-LjHyPpnMap4Fz0Elrzq_expand",
+            "current": "on",
+            "max": "",
+            "id": "-LjI9qj7xZRWr94mGLwK"
+        },
+        {
+            "name": "repeating_spells_-LjHyPpnMap4Fz0Elrzq_spell_range",
+            "current": "Short",
+            "max": "",
+            "id": "-LjI9qj8U6GkKZF9iT53"
+        },
+        {
+            "name": "repeating_spells_-LjHyPpnMap4Fz0Elrzq_spell_duration",
+            "current": "Immediate",
+            "max": "",
+            "id": "-LjI9qjAi8bB_dJwGIoD"
+        },
+        {
+            "name": "repeating_spells_-LjHyPpnMap4Fz0Elrzq_spell_ingredients",
+            "current": "Horn",
+            "max": "",
+            "id": "-LjI9qjB1aF4yrtSvz5-"
+        },
+        {
+            "name": "repeating_spells_-LjHyPpnMap4Fz0Elrzq_spell_description",
+            "current": "Your might voice is so strong that people around you are stunned. Your song causes 1 point of damage to Agility per Power Level. You can distribute the damage across as many opponents as you want. The targets may attempt to resist the effect by rolling for INSIGHT – each ⚔️ rolled negates 1 point of damage. No effect against monsters.",
+            "max": "",
+            "id": "-LjI9qjB1aF4yrtSvz50"
+        },
+        {
+            "name": "repeating_spells_-LjHyQfkrV54loo8ZXzx_spell_duration",
+            "current": "Quarter Day",
+            "max": "",
+            "id": "-LjI9qjC5Tb2jyEBHyxh"
+        },
+        {
+            "name": "repeating_spells_-LjHyQfkrV54loo8ZXzx_spell_ingredients",
+            "current": "Flute",
+            "max": "",
+            "id": "-LjI9qjC5Tb2jyEBHyxi"
+        },
+        {
+            "name": "repeating_spells_-LjHyQfkrV54loo8ZXzx_expand",
+            "current": "on",
+            "max": "",
+            "id": "-LjI9qjDMzqTYRnXaHiN"
+        },
+        {
+            "name": "repeating_spells_-LjHyQfkrV54loo8ZXzx_spell_description",
+            "current": "You can speak to the mountain and listen to its words. The mountain can answer simple questions about what has happened at the location before (events over the last day require Power Level 1, events one year back in time require Power Level 2 and events even further back in time require Power Level 3) or what is happening in the area right now (SHORT range requires Power Level 1, LONG range Power Level 2, anything within the map hex Power Level 3). Unfortunately, the mountain speaks very slowly and therefore this spell works like a ritual. This spell can only be used in the MOUNTAIN terrain type or inside a CAVE.",
+            "max": "",
+            "id": "-LjI9qjDMzqTYRnXaHiO"
+        },
+        {
+            "name": "repeating_spells_-LjHyS01dwQfOsQRZfwO_expand",
+            "current": "on",
+            "max": "",
+            "id": "-LjI9qjEtHfoY2B507W1"
+        },
+        {
+            "name": "repeating_spells_-LjHyS01dwQfOsQRZfwO_spell_duration",
+            "current": "Immediate",
+            "max": "",
+            "id": "-LjI9qjFCE8_OlVhA1hJ"
+        },
+        {
+            "name": "repeating_spells_-LjHyS01dwQfOsQRZfwO_spell_ingredients",
+            "current": "Lyre",
+            "max": "",
+            "id": "-LjI9qjFCE8_OlVhA1hK"
+        },
+        {
+            "name": "repeating_spells_-LjHyS01dwQfOsQRZfwO_spell_description",
+            "current": "Your song can shape stone according to your will. This spell lets you create a wall, build a bridge, or raise a staircase from the ground. You can only create crude constructions. Power Level 1 will summon a construction in the same Zone as you. Every Power Level beyond that allows you to create something that stretches into one more neighboring Zone. For example, Power Level 4 lets you summon a construction reaching across four Zones.",
+            "max": "",
+            "id": "-LjI9qjGd0kC1JVbWyWP"
+        },
+        {
+            "name": "repeating_spells_-LjHySoKPZn9A8wGRKAz_spell_range",
+            "current": "Short",
+            "max": "",
+            "id": "-LjI9qjGd0kC1JVbWyWQ"
+        },
+        {
+            "name": "repeating_spells_-LjHySoKPZn9A8wGRKAz_spell_duration",
+            "current": "Immediate",
+            "max": "",
+            "id": "-LjI9qjHpE5-ksZ62d03"
+        },
+        {
+            "name": "repeating_spells_-LjHySoKPZn9A8wGRKAz_spell_ingredients",
+            "current": "Pebbles",
+            "max": "",
+            "id": "-LjI9qjHpE5-ksZ62d04"
+        },
+        {
+            "name": "repeating_spells_-LjHySoKPZn9A8wGRKAz_expand",
+            "current": "on",
+            "max": "",
+            "id": "-LjI9qjIi6HJpQ8LQbet"
+        },
+        {
+            "name": "repeating_spells_-LjHySoKPZn9A8wGRKAz_spell_description",
+            "current": "Your song can move rocks so fast that you can hurl stones and rocks at an enemy in combat. The damage (to Strength) from your attack is equal to the Power Level. Armor works normally. This spell can only be used where there are loose stones for you to throw.",
+            "max": "",
+            "id": "-LjI9qjIi6HJpQ8LQbeu"
+        },
+        {
+            "name": "repeating_spells_-LjHyUM6Dbw4p75PJZDP_spell_range",
+            "current": "Near",
+            "max": "",
+            "id": "-LjI9qjJ4_f3ezCUxrll"
+        },
+        {
+            "name": "repeating_spells_-LjHyUM6Dbw4p75PJZDP_spell_duration",
+            "current": "Immediate",
+            "max": "",
+            "id": "-LjI9qjJ4_f3ezCUxrlm"
+        },
+        {
+            "name": "repeating_spells_-LjHyUM6Dbw4p75PJZDP_spell_ingredients",
+            "current": "Harp",
+            "max": "",
+            "id": "-LjI9qjL9-6bAaQrVx95"
+        },
+        {
+            "name": "repeating_spells_-LjHyUM6Dbw4p75PJZDP_expand",
+            "current": "on",
+            "max": "",
+            "id": "-LjI9qjL9-6bAaQrVx96"
+        },
+        {
+            "name": "repeating_spells_-LjHyUM6Dbw4p75PJZDP_spell_description",
+            "current": "Your song can wither stone, allowing you to break down walls and fortifications within NEAR range. The thickness of the barrier determines the Power Level required – every half-meter requires one Power Level.",
+            "max": "",
+            "id": "-LjI9qjMnPzgdEiOoRcJ"
+        },
+        {
+            "name": "repeating_weapons_-LjIATLR-48cbCo5Rj8Z_weapon_name",
+            "current": "Staff",
+            "max": "",
+            "id": "-LjIATfwVrtwdgjG9eJD"
+        },
+        {
+            "name": "repeating_weapons_-LjIATLR-48cbCo5Rj8Z_weapon_grip",
+            "current": "2H",
+            "max": "",
+            "id": "-LjIATj5pO--X7r4ufx4"
+        },
+        {
+            "name": "repeating_weapons_-LjIATLR-48cbCo5Rj8Z_weapon_bonus",
+            "current": "",
+            "max": "1",
+            "id": "-LjIAU9TQQWHkrJ53BHQ"
+        },
+        {
+            "name": "repeating_weapons_-LjIATLR-48cbCo5Rj8Z_weapon_damage",
+            "current": "1",
+            "max": "",
+            "id": "-LjIAUBkELq4RkKXantm"
+        },
+        {
+            "name": "repeating_weapons_-LjIATLR-48cbCo5Rj8Z_weapon_range",
+            "current": "Near",
+            "max": "",
+            "id": "-LjIAUL5DHr_Q4UjE4gp"
+        },
+        {
+            "name": "repeating_weapons_-LjIATLR-48cbCo5Rj8Z_weapon_features",
+            "current": "Blunt, Hook, Parrying",
+            "max": "",
+            "id": "-LjIAVigWr82HkXavt9v"
+        },
+        {
+            "name": "silver",
+            "current": "D6",
+            "max": "",
+            "id": "-LjIAgR_Dod8MBnVjwDe"
+        },
+        {
+            "name": "repeating_gear_-LjIAh8kjFQy9mk0cY4c_gear_name",
+            "current": "VALUABLE Find",
+            "max": "",
+            "id": "-LjIAi5ahI80rI8Jba5R"
+        },
+        {
+            "name": "repeating_gear_-LjIAidFeT8GEZCcHZm1_gear_name",
+            "current": "Grimoire",
+            "max": "",
+            "id": "-LjIAjBQ8EnyXeg3No0v"
+        },
+        {
+            "name": "attribute",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghb9Wm9rV6NO_xJyu"
+        },
+        {
+            "name": "skill",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghb9YxX8bgIb9Bvgp"
+        },
+        {
+            "name": "gear",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghb9ZAR6LE1P2moWn"
+        },
+        {
+            "name": "attribute_die_twelve",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghb9aHuGfLghF10De"
+        },
+        {
+            "name": "attribute_die_eleven",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghb9bl8tXw30vwo-b"
+        },
+        {
+            "name": "attribute_die_ten",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghb9cvcTNh6xDbLd9"
+        },
+        {
+            "name": "attribute_die_nine",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghb9eApM1bMGm7Wrn"
+        },
+        {
+            "name": "attribute_die_eight",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghb9hpf49Hu3Nc8zB"
+        },
+        {
+            "name": "attribute_die_seven",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghb9iNZkrqLd19krc"
+        },
+        {
+            "name": "attribute_die_six",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghb9jxmtyQOKIbB4l"
+        },
+        {
+            "name": "attribute_die_five",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghb9kRpOlPAFihEsz"
+        },
+        {
+            "name": "attribute_die_four",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghb9mOorL5graEp4k"
+        },
+        {
+            "name": "attribute_die_three",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghb9nYdluvbY87b8K"
+        },
+        {
+            "name": "attribute_die_two",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghb9oQ4U-hyfUJtFh"
+        },
+        {
+            "name": "attribute_die_one",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghb9pvi3EQV5U3brf"
+        },
+        {
+            "name": "negative_die_one",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghb9qSVae324X03_n"
+        },
+        {
+            "name": "negative_die_two",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghb9r3aySwWwyfOVX"
+        },
+        {
+            "name": "negative_die_three",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghb9tWzf7VWSK_KLf"
+        },
+        {
+            "name": "skill_die_ten",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghb9uqadyA59V0Ish"
+        },
+        {
+            "name": "skill_die_nine",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghb9v5RukpBKEt6FM"
+        },
+        {
+            "name": "skill_die_eight",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghb9wF7kYOxanApoS"
+        },
+        {
+            "name": "skill_die_seven",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghb9xumUMrTsZQTbe"
+        },
+        {
+            "name": "skill_die_six",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghb9y6jeMBv1DqL3n"
+        },
+        {
+            "name": "skill_die_five",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghbA-5QJo1zpG9B3k"
+        },
+        {
+            "name": "skill_die_four",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghbA0DRrGA_uj0ojL"
+        },
+        {
+            "name": "skill_die_three",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghbA3cckDLZMIWQC8"
+        },
+        {
+            "name": "skill_die_two",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghbA4m4_XFfvYMVkc"
+        },
+        {
+            "name": "skill_die_one",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghbA5Zk1o-PdAfuEw"
+        },
+        {
+            "name": "gear_die_twelve",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghbA7j4PKkYRAYBAc"
+        },
+        {
+            "name": "gear_die_eleven",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghbA8thqgQ97mbC3q"
+        },
+        {
+            "name": "gear_die_ten",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghbA9-k6Iz-ka82Px"
+        },
+        {
+            "name": "gear_die_nine",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghbAAYcif3T8OHAxF"
+        },
+        {
+            "name": "gear_die_eight",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghbABgvWKD3FId3HQ"
+        },
+        {
+            "name": "gear_die_seven",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghbACM1BS8c2jvNLQ"
+        },
+        {
+            "name": "gear_die_six",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghbAEMjhTw-8Joti4"
+        },
+        {
+            "name": "gear_die_five",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghbAF1PaywqigJP56"
+        },
+        {
+            "name": "gear_die_four",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghbAGnuGXiITer4KK"
+        },
+        {
+            "name": "gear_die_three",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghbAHe71FKApw7hU3"
+        },
+        {
+            "name": "gear_die_two",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghbAIRNVn-cuy1Zvn"
+        },
+        {
+            "name": "gear_die_one",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghbAJOC3RT-501_uX"
+        },
+        {
+            "name": "artifact_die_eight",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghbAK61CmdZZhj_hN"
+        },
+        {
+            "name": "artifact_die_ocho",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghbAMf-XuYPVrlTEi"
+        },
+        {
+            "name": "artifact_die_ten",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghbANmYnF5L_wUlYB"
+        },
+        {
+            "name": "artifact_die_twelve",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghbAOWOnkmVN9LuiG"
+        },
+        {
+            "name": "current_preset",
+            "current": "Custom Roll",
+            "max": "",
+            "id": "-M5ghbAPRT780M3qWtKw"
+        },
+        {
+            "name": "include_with_roll",
+            "current": "",
+            "max": "",
+            "id": "-M5ghbAQn64masbMTj9x"
+        },
+        {
+            "name": "translation_push_query",
+            "current": "Is the Dice Pool correct...? (hint:remove successes and bane) |Yes - Submit to Roll.,Dice Pool is correct.|No - Cancel.,Dice Pool needs to be corrected.",
+            "max": "",
+            "id": "-M5ghbAS2fTRmcgdR4ma"
+        },
+        {
+            "name": "translation_whisper_macro_query",
+            "current": "?{Whisper roll?|No,|Yes,/w gm |}",
+            "max": "",
+            "id": "-M5ghbAT5hkpIKuR0VU5"
+        },
+        {
+            "name": "translation_whisper_api_macro_query",
+            "current": "?{Whisper roll?|No,!forl |Yes,!wforl |}",
+            "max": "",
+            "id": "-M5ghbAUOcfzoYpF-IvM"
+        },
+        {
+            "name": "version",
+            "current": 1.67,
+            "max": "",
+            "id": "-M5ghbAh6LvQ7IjjupTB"
+        },
+        {
+            "name": "armor_encumbrance",
+            "current": "0.0",
+            "max": "",
+            "id": "-M5ghbAji2K3iSXP67Fc"
+        },
+        {
+            "name": "shield_encumbrance",
+            "current": "0.0",
+            "max": "",
+            "id": "-M5ghbAlFI76JaKZ1-Gn"
+        },
+        {
+            "name": "armor_shield_encumbrance",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghbAmjpZF-bwD0J4a"
+        },
+        {
+            "name": "strength_pc",
+            "current": 2,
+            "max": "",
+            "id": "-M5ghbB7P1ALCC-al1Lr"
+        },
+        {
+            "name": "strength_monster",
+            "current": 2,
+            "max": "",
+            "id": "-M5ghbB8Xp-nmOoynMI-"
+        },
+        {
+            "name": "reputation_total",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghbBTMjr8gmd4T1NN"
+        },
+        {
+            "name": "armor1_bonus",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghbBWF9_WfMKPhuoH"
+        },
+        {
+            "name": "armor2_bonus",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghbBX6CpMsrn5H0a2"
+        },
+        {
+            "name": "shield1_bonus",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghbBZy_AydZGRfMdI"
+        },
+        {
+            "name": "shield1_bonus_total",
+            "current": 2,
+            "max": "",
+            "id": "-M5ghbB_Xk0CzFW9kfnD"
+        },
+        {
+            "name": "show_announcements",
+            "current": 1,
+            "max": "",
+            "id": "-M5ghbCtrEMvnxnonDwv"
+        },
+        {
+            "name": "hirelings_cost",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghbCvflOUfcSevQU6"
+        },
+        {
+            "name": "mount_gear_encumbrance",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghbCxA7qz12IqstEK"
+        },
+        {
+            "name": "weapons_encumbrance",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghbCz2MlpHH6MpCeF"
+        },
+        {
+            "name": "repeating_weapons_-LjIATLR-48cbCo5Rj8Z_weapon_base_total",
+            "current": 2,
+            "max": "",
+            "id": "-M5ghbG2XmyaIWzhCjZe"
+        },
+        {
+            "name": "repeating_weapons_-LjIATLR-48cbCo5Rj8Z_weapon_skill_value",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghbG4V2og2OalqwH-"
+        },
+        {
+            "name": "repeating_weapons_-LjIATLR-48cbCo5Rj8Z_weapon_skill_total",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghbG51GGRIJ2AdJN6"
+        },
+        {
+            "name": "repeating_weapons_-LjIATLR-48cbCo5Rj8Z_weapon_bonus_total",
+            "current": 1,
+            "max": "",
+            "id": "-M5ghbG6PzzcIaK2ReVR"
+        }
+    ],
+    "abilities": []
+}

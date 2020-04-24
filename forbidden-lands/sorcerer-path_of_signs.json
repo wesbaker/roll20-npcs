@@ -1,0 +1,927 @@
+{
+    "schema_version": 2,
+    "oldId": "-LjIBK0-QaipGTs9_FBo",
+    "name": "Sorcerer - Path of Signs",
+    "avatar": "",
+    "bio": "",
+    "gmnotes": "",
+    "defaulttoken": "",
+    "tags": "[\"hexenwald\"]",
+    "controlledby": "-LbPNRTARk1yWfI-PoVU",
+    "inplayerjournals": "-LbPNRTARk1yWfI-PoVU",
+    "attribs": [
+        {
+            "name": "animal_handling_total",
+            "current": 3,
+            "max": "",
+            "id": "-LjIBK1fZsF4PWNDrpNG"
+        },
+        {
+            "name": "crafting_total",
+            "current": 2,
+            "max": "",
+            "id": "-LjIBK1gjdoKcTA1SMwm"
+        },
+        {
+            "name": "endurance_total",
+            "current": 2,
+            "max": "",
+            "id": "-LjIBK1hNCMZrhFTxglZ"
+        },
+        {
+            "name": "healing_total",
+            "current": 3,
+            "max": "",
+            "id": "-LjIBK1hNCMZrhFTxgl_"
+        },
+        {
+            "name": "insight_total",
+            "current": 4,
+            "max": "",
+            "id": "-LjIBK1ifxCVFVECXePr"
+        },
+        {
+            "name": "lore_total",
+            "current": 5,
+            "max": "",
+            "id": "-LjIBK1ifxCVFVECXePs"
+        },
+        {
+            "name": "manipulation_total",
+            "current": 3,
+            "max": "",
+            "id": "-LjIBK1jw3CwuUGz__1O"
+        },
+        {
+            "name": "marksmanship_total",
+            "current": 2,
+            "max": "",
+            "id": "-LjIBK1jw3CwuUGz__1P"
+        },
+        {
+            "name": "melee_total",
+            "current": 2,
+            "max": "",
+            "id": "-LjIBK1kmymLUVs2WZE5"
+        },
+        {
+            "name": "might_total",
+            "current": 2,
+            "max": "",
+            "id": "-LjIBK1kmymLUVs2WZE6"
+        },
+        {
+            "name": "move_total",
+            "current": 2,
+            "max": "",
+            "id": "-LjIBK1lVKduPq5vNDrA"
+        },
+        {
+            "name": "performance_total",
+            "current": 3,
+            "max": "",
+            "id": "-LjIBK1lVKduPq5vNDrB"
+        },
+        {
+            "name": "scouting_total",
+            "current": 4,
+            "max": "",
+            "id": "-LjIBK1m54s5K8Gm952_"
+        },
+        {
+            "name": "sleight_of_hand_total",
+            "current": 2,
+            "max": "",
+            "id": "-LjIBK1m54s5K8Gm952a"
+        },
+        {
+            "name": "stealth_total",
+            "current": 2,
+            "max": "",
+            "id": "-LjIBK1nuuOOGWjsswIr"
+        },
+        {
+            "name": "survival_total",
+            "current": 4,
+            "max": "",
+            "id": "-LjIBK1nuuOOGWjsswIs"
+        },
+        {
+            "name": "armor1_ar",
+            "current": 0,
+            "max": "",
+            "id": "-LjIBK1o1ZqYdNegdwgu"
+        },
+        {
+            "name": "armor2_ar",
+            "current": 0,
+            "max": "",
+            "id": "-LjIBK1o1ZqYdNegdwgv"
+        },
+        {
+            "name": "ar",
+            "current": 0,
+            "max": "",
+            "id": "-LjIBK1pO2a2TZquZCFL"
+        },
+        {
+            "name": "strength",
+            "current": 2,
+            "max": "",
+            "id": "-LjIBK1pO2a2TZquZCFM"
+        },
+        {
+            "name": "strength_total",
+            "current": 2,
+            "max": 2,
+            "id": "-LjIBK1pO2a2TZquZCFN"
+        },
+        {
+            "name": "agility",
+            "current": 2,
+            "max": "",
+            "id": "-LjIBK1qLug85HeNuljo"
+        },
+        {
+            "name": "agility_total",
+            "current": 2,
+            "max": 2,
+            "id": "-LjIBK1qLug85HeNuljp"
+        },
+        {
+            "name": "wits",
+            "current": 4,
+            "max": "",
+            "id": "-LjIBK1r9prabu98qpwv"
+        },
+        {
+            "name": "wits_total",
+            "current": 4,
+            "max": 4,
+            "id": "-LjIBK1r9prabu98qpww"
+        },
+        {
+            "name": "empathy",
+            "current": 3,
+            "max": "",
+            "id": "-LjIBK1sFR19Qvs8HqiS"
+        },
+        {
+            "name": "empathy_total",
+            "current": 3,
+            "max": 3,
+            "id": "-LjIBK1sFR19Qvs8HqiT"
+        },
+        {
+            "name": "doubt",
+            "current": "0",
+            "max": "",
+            "id": "-LjIBK1t5adgNjoWsNSw"
+        },
+        {
+            "name": "confusion",
+            "current": "0",
+            "max": "",
+            "id": "-LjIBK1ulksSMhhnzWNw"
+        },
+        {
+            "name": "fatigue",
+            "current": "0",
+            "max": "",
+            "id": "-LjIBK1ulksSMhhnzWNx"
+        },
+        {
+            "name": "damage",
+            "current": "0",
+            "max": "",
+            "id": "-LjIBK1v3U-gItNhDKJu"
+        },
+        {
+            "name": "melee",
+            "current": "",
+            "max": "",
+            "id": "-LjIBK1wvKroUeE4ytWL"
+        },
+        {
+            "name": "stealth",
+            "current": "",
+            "max": "",
+            "id": "-LjIBK1wvKroUeE4ytWM"
+        },
+        {
+            "name": "lore",
+            "current": "1",
+            "max": "",
+            "id": "-LjIBK1xENlxYJESTjbD"
+        },
+        {
+            "name": "insight",
+            "current": "",
+            "max": "",
+            "id": "-LjIBK1xENlxYJESTjbE"
+        },
+        {
+            "name": "manipulation",
+            "current": "",
+            "max": "",
+            "id": "-LjIBK1yAQFxeSzXQMH4"
+        },
+        {
+            "name": "healing",
+            "current": "",
+            "max": "",
+            "id": "-LjIBK1yAQFxeSzXQMH5"
+        },
+        {
+            "name": "repeating_talents_-LjHw4I-F-90OFkAywPm_talent_name",
+            "current": "Path of Signs",
+            "max": "",
+            "id": "-LjIBK1zy_1pko9F7a5I"
+        },
+        {
+            "name": "repeating_talents_-LjHw4I-F-90OFkAywPm_talent_type",
+            "current": "Prof",
+            "max": "",
+            "id": "-LjIBK1zy_1pko9F7a5J"
+        },
+        {
+            "name": "repeating_talents_-LjHw4I-F-90OFkAywPm_talent_rank",
+            "current": "2",
+            "max": "",
+            "id": "-LjIBK2-AkryaU0dWpps"
+        },
+        {
+            "name": "repeating_talents_-LjHw4I-F-90OFkAywPm_expand",
+            "current": "0",
+            "max": "",
+            "id": "-LjIBK2-AkryaU0dWppt"
+        },
+        {
+            "name": "repeating_talents_-LjHw4I-F-90OFkAywPm_talent_description",
+            "current": "You can cast rank 1, 2 and 3 spells from the Symbolism discipline.",
+            "max": "",
+            "id": "-LjIBK2-AkryaU0dWppu"
+        },
+        {
+            "name": "character_gear_encumbrance",
+            "current": 0,
+            "max": "",
+            "id": "-LjIBK21unRXqarpEZD7"
+        },
+        {
+            "name": "character_encumbrance",
+            "current": 0,
+            "max": "",
+            "id": "-LjIBK21unRXqarpEZD8"
+        },
+        {
+            "name": "mount_encumbrance",
+            "current": 0,
+            "max": "",
+            "id": "-LjIBK22YTNpM6OOjdlB"
+        },
+        {
+            "name": "repeating_spells_-LjHwZHU1FKix3CNYCHx_spell_name",
+            "current": "Entice",
+            "max": "",
+            "id": "-LjIBK242buN742OFgBs"
+        },
+        {
+            "name": "repeating_spells_-LjHwZHU1FKix3CNYCHx_spell_willpower",
+            "current": "1",
+            "max": "",
+            "id": "-LjIBK252w1PaXX08PgF"
+        },
+        {
+            "name": "repeating_spells_-LjHwZayAvAQqxtROK2H_spell_name",
+            "current": "Horrify",
+            "max": "",
+            "id": "-LjIBK252w1PaXX08PgG"
+        },
+        {
+            "name": "repeating_spells_-LjHwaXcqEJUaAGkXbfd_spell_name",
+            "current": "Paralyze",
+            "max": "",
+            "id": "-LjIBK26Vu5EKBeXyg8v"
+        },
+        {
+            "name": "repeating_spells_-LjHwbpOn6YbKuMHAQY8_spell_name",
+            "current": "Blind",
+            "max": "",
+            "id": "-LjIBK26Vu5EKBeXyg8w"
+        },
+        {
+            "name": "repeating_spells_-LjHwbpOn6YbKuMHAQY8_spell_rank",
+            "current": "2",
+            "max": "",
+            "id": "-LjIBK272caOyhIWbXz8"
+        },
+        {
+            "name": "repeating_spells_-LjHwchGit6hx8hWK-0K_spell_name",
+            "current": "Illusion",
+            "max": "",
+            "id": "-LjIBK272caOyhIWbXz9"
+        },
+        {
+            "name": "repeating_spells_-LjHwchGit6hx8hWK-0K_spell_rank",
+            "current": "2",
+            "max": "",
+            "id": "-LjIBK272caOyhIWbXzA"
+        },
+        {
+            "name": "repeating_spells_-LjHwchGit6hx8hWK-0K_spell_willpower",
+            "current": "1",
+            "max": "",
+            "id": "-LjIBK2825d8yHXxy_Uu"
+        },
+        {
+            "name": "repeating_spells_-LjHwe2OLYncmhYCSjQ0_spell_name",
+            "current": "Mind Trick",
+            "max": "",
+            "id": "-LjIBK2825d8yHXxy_Uv"
+        },
+        {
+            "name": "repeating_spells_-LjHwe2OLYncmhYCSjQ0_spell_rank",
+            "current": "2",
+            "max": "",
+            "id": "-LjIBK2AOMKgIH3-JDti"
+        },
+        {
+            "name": "repeating_spells_-LjHwZHU1FKix3CNYCHx_spell_range",
+            "current": "Short",
+            "max": "",
+            "id": "-LjIBK2ENHkUDLa2qVIf"
+        },
+        {
+            "name": "repeating_spells_-LjHwZHU1FKix3CNYCHx_spell_duration",
+            "current": "Immediate",
+            "max": "",
+            "id": "-LjIBK2FjY13pWGFjwwf"
+        },
+        {
+            "name": "repeating_spells_-LjHwZHU1FKix3CNYCHx_expand",
+            "current": "on",
+            "max": "",
+            "id": "-LjIBK2FjY13pWGFjwwg"
+        },
+        {
+            "name": "repeating_spells_-LjHwZHU1FKix3CNYCHx_spell_description",
+            "current": "The symbol lures the victim, who must make an INSIGHT roll with a negative modification equal to the Power Level. If the roll fails, the victim must RUN to within ARM’S LENGTH of the symbol, spending all his normal actions to do so (bonus actions from talents can still be used normally). When the victim reaches the symbol, or if the symbol is moved, the effect is broken. No effect on monsters.",
+            "max": "",
+            "id": "-LjIBK2FjY13pWGFjwwh"
+        },
+        {
+            "name": "repeating_spells_-LjHwZayAvAQqxtROK2H_expand",
+            "current": "on",
+            "max": "",
+            "id": "-LjIBK2GMNxN6OyYitBr"
+        },
+        {
+            "name": "repeating_spells_-LjHwZayAvAQqxtROK2H_spell_duration",
+            "current": "Immediate",
+            "max": "",
+            "id": "-LjIBK2GMNxN6OyYitBs"
+        },
+        {
+            "name": "repeating_spells_-LjHwZayAvAQqxtROK2H_spell_description",
+            "current": "The symbol awakens a deep fear in the victim, who suffers damage to Wits equal to the Power Level. No effect on monsters.",
+            "max": "",
+            "id": "-LjIBK2HHxDTxzffHr2e"
+        },
+        {
+            "name": "repeating_spells_-LjHwaXcqEJUaAGkXbfd_spell_range",
+            "current": "Short",
+            "max": "",
+            "id": "-LjIBK2HHxDTxzffHr2f"
+        },
+        {
+            "name": "repeating_spells_-LjHwaXcqEJUaAGkXbfd_spell_duration",
+            "current": "Immediate",
+            "max": "",
+            "id": "-LjIBK2IWQt-IFV7jMFa"
+        },
+        {
+            "name": "repeating_spells_-LjHwZayAvAQqxtROK2H_spell_range",
+            "current": "Short",
+            "max": "",
+            "id": "-LjIBK2IWQt-IFV7jMFb"
+        },
+        {
+            "name": "repeating_spells_-LjHwaXcqEJUaAGkXbfd_expand",
+            "current": "on",
+            "max": "",
+            "id": "-LjIBK2JgeRlxaA55bbv"
+        },
+        {
+            "name": "repeating_spells_-LjHwaXcqEJUaAGkXbfd_spell_description",
+            "current": "The hypnotizing power of the symbol mesmerizes your opponent. At Power Level 1, the victim loses his fast action in the round, or in the next round if he has already used it. At Power Level 2, he loses his slow action. At Power Level 3, he loses both actions, and at Power Level 4, he also loses any bonus actions from talents. The spell has no effect on monsters.",
+            "max": "",
+            "id": "-LjIBK2JgeRlxaA55bbw"
+        },
+        {
+            "name": "repeating_spells_-LjHwbpOn6YbKuMHAQY8_spell_range",
+            "current": "Short",
+            "max": "",
+            "id": "-LjIBK2KQByxrTfHaB6V"
+        },
+        {
+            "name": "repeating_spells_-LjHwbpOn6YbKuMHAQY8_spell_duration",
+            "current": "Quarter Day",
+            "max": "",
+            "id": "-LjIBK2KQByxrTfHaB6W"
+        },
+        {
+            "name": "repeating_spells_-LjHwbpOn6YbKuMHAQY8_expand",
+            "current": "on",
+            "max": "",
+            "id": "-LjIBK2LuicZ-peaY07F"
+        },
+        {
+            "name": "repeating_spells_-LjHwbpOn6YbKuMHAQY8_spell_description",
+            "current": "The victim must make an INSIGHT roll with a negative modification equal to the Power Level. If the roll fails, the symbol blinds the victim. The effect of this blindness is the same as for being in total darkness (see page 112). On victims without Wits, such as animals, the effect is automatic, but the spell has no effect on monsters.",
+            "max": "",
+            "id": "-LjIBK2LuicZ-peaY07G"
+        },
+        {
+            "name": "repeating_spells_-LjHwchGit6hx8hWK-0K_expand",
+            "current": "on",
+            "max": "",
+            "id": "-LjIBK2MPAw_z89D-QrB"
+        },
+        {
+            "name": "repeating_spells_-LjHwchGit6hx8hWK-0K_spell_range",
+            "current": "Short",
+            "max": "",
+            "id": "-LjIBK2MPAw_z89D-QrC"
+        },
+        {
+            "name": "repeating_spells_-LjHwchGit6hx8hWK-0K_spell_duration",
+            "current": "One turn",
+            "max": "",
+            "id": "-LjIBK2Ntf7ARxKJtqrY"
+        },
+        {
+            "name": "repeating_spells_-LjHwchGit6hx8hWK-0K_spell_description",
+            "current": "You make the victim see or hear something that isn’t there, or hide something that otherwise would be seen. A small item requires a Power Level of 1, while an object of humanoid size requires Power Level 2, and an illusion the size of a house requires Power Level 3. Only one person is affected. The victim can see through the illusion with an INSIGHT roll, but gets a penalty equal to the Power Level. This spell has no effect on monsters.",
+            "max": "",
+            "id": "-LjIBK2Ntf7ARxKJtqrZ"
+        },
+        {
+            "name": "repeating_spells_-LjHwe2OLYncmhYCSjQ0_spell_range",
+            "current": "Short",
+            "max": "",
+            "id": "-LjIBK2OpZKA5ZMIyyt0"
+        },
+        {
+            "name": "repeating_spells_-LjHwe2OLYncmhYCSjQ0_spell_duration",
+            "current": "One round",
+            "max": "",
+            "id": "-LjIBK2OpZKA5ZMIyyt1"
+        },
+        {
+            "name": "repeating_spells_-LjHwe2OLYncmhYCSjQ0_expand",
+            "current": "on",
+            "max": "",
+            "id": "-LjIBK2P95oZEZFn34Pg"
+        },
+        {
+            "name": "repeating_spells_-LjHwe2OLYncmhYCSjQ0_spell_description",
+            "current": "You can force an NPC to refrain from an action she would otherwise have performed. It must be a discreet action, something you can forget by being absent-minded. An example could be that a guard lets a PC pass without confirming who she is or that someone leaves their keys on a table. The spell cannot be used in combat.",
+            "max": "",
+            "id": "-LjIBK2P95oZEZFn34Ph"
+        },
+        {
+            "name": "repeating_gear_-LjIBU6ZfFBMPhbSCwVb_gear_name",
+            "current": "VALUABLE Find",
+            "max": "",
+            "id": "-LjIBV3WSXba5wmaoGku"
+        },
+        {
+            "name": "repeating_gear_-LjIBU6ZfFBMPhbSCwVb_gear_qty",
+            "current": "1",
+            "max": "",
+            "id": "-LjIBV5d8jXJTab0wMHv"
+        },
+        {
+            "name": "repeating_gear_-LjIBVVNrNQD20pGYQOj_gear_name",
+            "current": "Grimoire",
+            "max": "",
+            "id": "-LjIBWUYOB5XmwdRIPQ-"
+        },
+        {
+            "name": "attribute",
+            "current": 0,
+            "max": "",
+            "id": "-Lz4eksrP7CqcmSwByYv"
+        },
+        {
+            "name": "skill",
+            "current": 0,
+            "max": "",
+            "id": "-Lz4eksuomdZeSGHYf2k"
+        },
+        {
+            "name": "gear",
+            "current": 0,
+            "max": "",
+            "id": "-Lz4ekswJE3QjV_3-4zt"
+        },
+        {
+            "name": "attribute_die_twelve",
+            "current": 0,
+            "max": "",
+            "id": "-Lz4eksxqWwhK7L2umMJ"
+        },
+        {
+            "name": "attribute_die_eleven",
+            "current": 0,
+            "max": "",
+            "id": "-Lz4eksyLqKv6ScxBQpT"
+        },
+        {
+            "name": "attribute_die_ten",
+            "current": 0,
+            "max": "",
+            "id": "-Lz4eksz830EBvK0iL0j"
+        },
+        {
+            "name": "attribute_die_nine",
+            "current": 0,
+            "max": "",
+            "id": "-Lz4ekt-o3ve560fAKy7"
+        },
+        {
+            "name": "attribute_die_eight",
+            "current": 0,
+            "max": "",
+            "id": "-Lz4ekt1PRFuCq5xKlCV"
+        },
+        {
+            "name": "attribute_die_seven",
+            "current": 0,
+            "max": "",
+            "id": "-Lz4ekt29tu4xWq-n4D-"
+        },
+        {
+            "name": "attribute_die_six",
+            "current": 0,
+            "max": "",
+            "id": "-Lz4ekt3PZF2W6zKmRp7"
+        },
+        {
+            "name": "attribute_die_five",
+            "current": 0,
+            "max": "",
+            "id": "-Lz4ekt4_C3M-UzKuLF6"
+        },
+        {
+            "name": "attribute_die_four",
+            "current": 0,
+            "max": "",
+            "id": "-Lz4ekt60XvDX38mO2fS"
+        },
+        {
+            "name": "attribute_die_three",
+            "current": 0,
+            "max": "",
+            "id": "-Lz4ekt7iJ7IrGCVOuF6"
+        },
+        {
+            "name": "attribute_die_two",
+            "current": 0,
+            "max": "",
+            "id": "-Lz4ekt98-ObV_exFOR-"
+        },
+        {
+            "name": "attribute_die_one",
+            "current": 0,
+            "max": "",
+            "id": "-Lz4ektA-mPW05g1pHiu"
+        },
+        {
+            "name": "negative_die_one",
+            "current": 0,
+            "max": "",
+            "id": "-Lz4ektCzWVgl1254Fgw"
+        },
+        {
+            "name": "negative_die_two",
+            "current": 0,
+            "max": "",
+            "id": "-Lz4ektDIVy0_ySweJLw"
+        },
+        {
+            "name": "negative_die_three",
+            "current": 0,
+            "max": "",
+            "id": "-Lz4ektEINYLYb4OrjV0"
+        },
+        {
+            "name": "skill_die_ten",
+            "current": 0,
+            "max": "",
+            "id": "-Lz4ektFWqlTN8zL1EvT"
+        },
+        {
+            "name": "skill_die_nine",
+            "current": 0,
+            "max": "",
+            "id": "-Lz4ektGFyQ4OcMW-8j6"
+        },
+        {
+            "name": "skill_die_eight",
+            "current": 0,
+            "max": "",
+            "id": "-Lz4ektI2Z7-OKcqVt50"
+        },
+        {
+            "name": "skill_die_seven",
+            "current": 0,
+            "max": "",
+            "id": "-Lz4ektJHasICoMTkXks"
+        },
+        {
+            "name": "skill_die_six",
+            "current": 0,
+            "max": "",
+            "id": "-Lz4ektKj2eT3qlbekC5"
+        },
+        {
+            "name": "skill_die_five",
+            "current": 0,
+            "max": "",
+            "id": "-Lz4ektLsChLYP3GBTek"
+        },
+        {
+            "name": "skill_die_four",
+            "current": 0,
+            "max": "",
+            "id": "-Lz4ektN0WeTyOAa5nCW"
+        },
+        {
+            "name": "skill_die_three",
+            "current": 0,
+            "max": "",
+            "id": "-Lz4ektPlDwVBgFIKVUc"
+        },
+        {
+            "name": "skill_die_two",
+            "current": 0,
+            "max": "",
+            "id": "-Lz4ektQZTQHGAFFl1V6"
+        },
+        {
+            "name": "skill_die_one",
+            "current": 0,
+            "max": "",
+            "id": "-Lz4ektRLzFJMlBCoJq1"
+        },
+        {
+            "name": "gear_die_twelve",
+            "current": 0,
+            "max": "",
+            "id": "-Lz4ektSntah5WHCnyFO"
+        },
+        {
+            "name": "gear_die_eleven",
+            "current": 0,
+            "max": "",
+            "id": "-Lz4ektTRi_SWjvQ_8Xy"
+        },
+        {
+            "name": "gear_die_ten",
+            "current": 0,
+            "max": "",
+            "id": "-Lz4ektVy-MlEK-l5wX2"
+        },
+        {
+            "name": "gear_die_nine",
+            "current": 0,
+            "max": "",
+            "id": "-Lz4ektW_FHISxzLYazl"
+        },
+        {
+            "name": "gear_die_eight",
+            "current": 0,
+            "max": "",
+            "id": "-Lz4ektXCFQD0CTFHRCV"
+        },
+        {
+            "name": "gear_die_seven",
+            "current": 0,
+            "max": "",
+            "id": "-Lz4ektZqZUUmWbmKxlD"
+        },
+        {
+            "name": "gear_die_six",
+            "current": 0,
+            "max": "",
+            "id": "-Lz4ekt_Y0nkHl0GKYB5"
+        },
+        {
+            "name": "gear_die_five",
+            "current": 0,
+            "max": "",
+            "id": "-Lz4ektad4HqggouGbO0"
+        },
+        {
+            "name": "gear_die_four",
+            "current": 0,
+            "max": "",
+            "id": "-Lz4ektbNn1LW6e8VN4H"
+        },
+        {
+            "name": "gear_die_three",
+            "current": 0,
+            "max": "",
+            "id": "-Lz4ektdAWEJ8_N9b2z9"
+        },
+        {
+            "name": "gear_die_two",
+            "current": 0,
+            "max": "",
+            "id": "-Lz4ektfvT1fRx8odOqS"
+        },
+        {
+            "name": "gear_die_one",
+            "current": 0,
+            "max": "",
+            "id": "-Lz4ektggrks692jjUmK"
+        },
+        {
+            "name": "artifact_die_eight",
+            "current": 0,
+            "max": "",
+            "id": "-Lz4ekthLHBgS594kOGD"
+        },
+        {
+            "name": "artifact_die_ocho",
+            "current": 0,
+            "max": "",
+            "id": "-Lz4ektj_0u3oTFWbvXt"
+        },
+        {
+            "name": "artifact_die_ten",
+            "current": 0,
+            "max": "",
+            "id": "-Lz4ektk5nSi5os5JnvF"
+        },
+        {
+            "name": "artifact_die_twelve",
+            "current": 0,
+            "max": "",
+            "id": "-Lz4ektl3JhqcRAIsdso"
+        },
+        {
+            "name": "current_preset",
+            "current": "Custom Roll",
+            "max": "",
+            "id": "-Lz4ektnKHIO_yxmrpOr"
+        },
+        {
+            "name": "include_with_roll",
+            "current": "",
+            "max": "",
+            "id": "-Lz4ekto093OI1ZYrlqG"
+        },
+        {
+            "name": "version",
+            "current": 1.67,
+            "max": "",
+            "id": "-Lz4ektqCBVPIXo2osQA"
+        },
+        {
+            "name": "armor_encumbrance",
+            "current": "0.0",
+            "max": "",
+            "id": "-Lz4eku2aCK4cz2ywbHd"
+        },
+        {
+            "name": "shield_encumbrance",
+            "current": "0.0",
+            "max": "",
+            "id": "-Lz4eku4gUBjwgHdeApm"
+        },
+        {
+            "name": "coins_carried",
+            "current": "0.0",
+            "max": "",
+            "id": "-Lz4eku5ZWCl9UjrAb9j"
+        },
+        {
+            "name": "coins_carried_mount",
+            "current": "0.0",
+            "max": "",
+            "id": "-Lz4eku7Qt3zh8aqwHXW"
+        },
+        {
+            "name": "armor_shield_encumbrance",
+            "current": 0,
+            "max": "",
+            "id": "-Lz4eku818zh7U6QiEYJ"
+        },
+        {
+            "name": "gold_total",
+            "current": 0,
+            "max": "",
+            "id": "-Lz4ekuGO3Infx3f3fIJ"
+        },
+        {
+            "name": "silver_total",
+            "current": 0,
+            "max": "",
+            "id": "-Lz4ekuHppn6EIpds449"
+        },
+        {
+            "name": "copper_total",
+            "current": 0,
+            "max": "",
+            "id": "-Lz4ekuJn_XHtgHZdQrz"
+        },
+        {
+            "name": "translation_push_query",
+            "current": "Is the Dice Pool correct...? (hint:remove successes and bane) |Yes - Submit to Roll.,Dice Pool is correct.|No - Cancel.,Dice Pool needs to be corrected.",
+            "max": "",
+            "id": "-Lz4ekuLCvFoj9VHXowR"
+        },
+        {
+            "name": "show_announcements",
+            "current": 1,
+            "max": "",
+            "id": "-Lz4ekuj0MeA6_d_ORen"
+        },
+        {
+            "name": "hirelings_cost",
+            "current": 0,
+            "max": "",
+            "id": "-Lz4ekul_Dl8cJ9jWBaX"
+        },
+        {
+            "name": "mount_gear_encumbrance",
+            "current": 0,
+            "max": "",
+            "id": "-Lz4ekumHrfvO9zbi26s"
+        },
+        {
+            "name": "weapons_encumbrance",
+            "current": 0,
+            "max": "",
+            "id": "-Lz4ekuohhs7P_RcJpTj"
+        },
+        {
+            "name": "translation_whisper_macro_query",
+            "current": "?{Whisper roll?|No,|Yes,/w gm |}",
+            "max": "",
+            "id": "-M5ghaWds_MBwGObcqyh"
+        },
+        {
+            "name": "translation_whisper_api_macro_query",
+            "current": "?{Whisper roll?|No,!forl |Yes,!wforl |}",
+            "max": "",
+            "id": "-M5ghaWfFmKehfJVOOgn"
+        },
+        {
+            "name": "strength_pc",
+            "current": 2,
+            "max": "",
+            "id": "-M5ghaXDQxsqujscIl8D"
+        },
+        {
+            "name": "strength_monster",
+            "current": 2,
+            "max": "",
+            "id": "-M5ghaXFCXfSFrtPILYB"
+        },
+        {
+            "name": "reputation_total",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghaXYVHa39PDcIVvD"
+        },
+        {
+            "name": "armor1_bonus",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghaX_owc17BNPSuxv"
+        },
+        {
+            "name": "armor2_bonus",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghaXa8O14ilsBag2A"
+        },
+        {
+            "name": "shield1_bonus",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghaXcuUptV1ZqxrzN"
+        },
+        {
+            "name": "shield1_bonus_total",
+            "current": 2,
+            "max": "",
+            "id": "-M5ghaXdW1YgIVlGzKgE"
+        }
+    ],
+    "abilities": []
+}

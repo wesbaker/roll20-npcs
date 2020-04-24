@@ -1,0 +1,927 @@
+{
+    "schema_version": 2,
+    "oldId": "-Ly5vZzwifmu_bPEm-yI",
+    "name": "Troll",
+    "avatar": "https://s3.amazonaws.com/files.d20.io/images/101163240/BWfD0_zcr64iHPyHH9JAeA/med.jpg?1578516779",
+    "bio": "",
+    "gmnotes": "",
+    "defaulttoken": "",
+    "tags": "[\"Monster\"]",
+    "controlledby": "-LbPNRTARk1yWfI-PoVU",
+    "inplayerjournals": "-LbPNRTARk1yWfI-PoVU",
+    "attribs": [
+        {
+            "name": "animal_handling_total",
+            "current": 0,
+            "max": "",
+            "id": "-Ly5v_0Zb1RfcUVxjNUy"
+        },
+        {
+            "name": "crafting_total",
+            "current": 14,
+            "max": "",
+            "id": "-Ly5v_0ahhWAMpGJZHNy"
+        },
+        {
+            "name": "endurance_total",
+            "current": 14,
+            "max": "",
+            "id": "-Ly5v_0ahhWAMpGJZHNz"
+        },
+        {
+            "name": "healing_total",
+            "current": 0,
+            "max": "",
+            "id": "-Ly5v_0beNGbS0tYCtZ9"
+        },
+        {
+            "name": "insight_total",
+            "current": 0,
+            "max": "",
+            "id": "-Ly5v_0c1ul0-K-6sTjd"
+        },
+        {
+            "name": "lore_total",
+            "current": 0,
+            "max": "",
+            "id": "-Ly5v_0djz3KmbojtQuv"
+        },
+        {
+            "name": "manipulation_total",
+            "current": 0,
+            "max": "",
+            "id": "-Ly5v_0djz3KmbojtQuw"
+        },
+        {
+            "name": "marksmanship_total",
+            "current": 2,
+            "max": "",
+            "id": "-Ly5v_0eo235DUAXX1Wm"
+        },
+        {
+            "name": "melee_total",
+            "current": 17,
+            "max": "",
+            "id": "-Ly5v_0fUoPjNYxCamc8"
+        },
+        {
+            "name": "might_total",
+            "current": 14,
+            "max": "",
+            "id": "-Ly5v_0gD6hHdQHkiTcH"
+        },
+        {
+            "name": "move_total",
+            "current": 2,
+            "max": "",
+            "id": "-Ly5v_0gD6hHdQHkiTcI"
+        },
+        {
+            "name": "performance_total",
+            "current": 0,
+            "max": "",
+            "id": "-Ly5v_0hlfIBCzI-U_pv"
+        },
+        {
+            "name": "scouting_total",
+            "current": 4,
+            "max": "",
+            "id": "-Ly5v_0igNX5E1DLaCOW"
+        },
+        {
+            "name": "sleight_of_hand_total",
+            "current": 2,
+            "max": "",
+            "id": "-Ly5v_0jSAF9iW-zXkJN"
+        },
+        {
+            "name": "stealth_total",
+            "current": 2,
+            "max": "",
+            "id": "-Ly5v_0jSAF9iW-zXkJO"
+        },
+        {
+            "name": "survival_total",
+            "current": 0,
+            "max": "",
+            "id": "-Ly5v_0k2Uz74uz9WDYD"
+        },
+        {
+            "name": "armor1_ar",
+            "current": 0,
+            "max": "",
+            "id": "-Ly5v_0lWxg_mpGCvUAQ"
+        },
+        {
+            "name": "armor2_ar",
+            "current": 0,
+            "max": "",
+            "id": "-Ly5v_0mJpIfWKLjeUwL"
+        },
+        {
+            "name": "ar",
+            "current": 0,
+            "max": "",
+            "id": "-Ly5v_0mJpIfWKLjeUwM"
+        },
+        {
+            "name": "strength",
+            "current": 14,
+            "max": "",
+            "id": "-Ly5v_0n6R3FxnW-E1cT"
+        },
+        {
+            "name": "strength_total",
+            "current": 14,
+            "max": 14,
+            "id": "-Ly5v_0ovboTffLFN1bk"
+        },
+        {
+            "name": "agility",
+            "current": 2,
+            "max": "",
+            "id": "-Ly5v_0ovboTffLFN1bl"
+        },
+        {
+            "name": "agility_total",
+            "current": 2,
+            "max": 2,
+            "id": "-Ly5v_0p8Z8wzY686PF2"
+        },
+        {
+            "name": "wits",
+            "current": 0,
+            "max": "",
+            "id": "-Ly5v_0qD7piuohnTo6D"
+        },
+        {
+            "name": "wits_total",
+            "current": 0,
+            "max": 0,
+            "id": "-Ly5v_0rDvdN8ZigWZYc"
+        },
+        {
+            "name": "empathy",
+            "current": 0,
+            "max": "",
+            "id": "-Ly5v_0rDvdN8ZigWZYd"
+        },
+        {
+            "name": "empathy_total",
+            "current": 0,
+            "max": 0,
+            "id": "-Ly5v_0s4zX-r_9VU3J7"
+        },
+        {
+            "name": "lore",
+            "current": "0",
+            "max": "",
+            "id": "-Ly5v_0tAwQUYbJX5CN-"
+        },
+        {
+            "name": "insight",
+            "current": "0",
+            "max": "",
+            "id": "-Ly5v_0u6D4t8RTABVM0"
+        },
+        {
+            "name": "manipulation",
+            "current": "0",
+            "max": "",
+            "id": "-Ly5v_0veOumno60ElOr"
+        },
+        {
+            "name": "character_gear_encumbrance",
+            "current": 0,
+            "max": "",
+            "id": "-Ly5v_0wfhc6vBqltdJa"
+        },
+        {
+            "name": "character_encumbrance",
+            "current": 0,
+            "max": "",
+            "id": "-Ly5v_0xile4RhpDO93l"
+        },
+        {
+            "name": "mount_encumbrance",
+            "current": 0,
+            "max": "",
+            "id": "-Ly5v_0xile4RhpDO93m"
+        },
+        {
+            "name": "melee",
+            "current": "3",
+            "max": "",
+            "id": "-Ly5v_0y2AVcpf-vik8r"
+        },
+        {
+            "name": "damage",
+            "current": "0",
+            "max": "",
+            "id": "-Ly5v_0zOVsUGDpxPbTr"
+        },
+        {
+            "name": "scouting",
+            "current": "4",
+            "max": "",
+            "id": "-Ly5v_0zOVsUGDpxPbTs"
+        },
+        {
+            "name": "attribute",
+            "current": 0,
+            "max": "",
+            "id": "-Ly5v_1-md_uxbxqrhZ7"
+        },
+        {
+            "name": "skill",
+            "current": 0,
+            "max": "",
+            "id": "-Ly5v_10SFI9PcG2cH8h"
+        },
+        {
+            "name": "current_preset",
+            "current": "Custom Roll",
+            "max": "",
+            "id": "-Ly5v_10SFI9PcG2cH8i"
+        },
+        {
+            "name": "include_with_roll",
+            "current": "",
+            "max": "",
+            "id": "-Ly5v_116UpMEZGUS6tG"
+        },
+        {
+            "name": "attribute_die_one",
+            "current": 0,
+            "max": "",
+            "id": "-Ly5v_124uPRhM_mcFpr"
+        },
+        {
+            "name": "attribute_die_two",
+            "current": 0,
+            "max": "",
+            "id": "-Ly5v_124uPRhM_mcFps"
+        },
+        {
+            "name": "attribute_die_three",
+            "current": 0,
+            "max": "",
+            "id": "-Ly5v_13Fh_wCRGKmCSq"
+        },
+        {
+            "name": "attribute_die_four",
+            "current": 0,
+            "max": "",
+            "id": "-Ly5v_14bfK0PVaxlslZ"
+        },
+        {
+            "name": "attribute_die_five",
+            "current": 0,
+            "max": "",
+            "id": "-Ly5v_14bfK0PVaxlsl_"
+        },
+        {
+            "name": "attribute_die_six",
+            "current": 0,
+            "max": "",
+            "id": "-Ly5v_15j9O5Kyngiydq"
+        },
+        {
+            "name": "negative_die_three",
+            "current": 0,
+            "max": "",
+            "id": "-Ly5v_15j9O5Kyngiydr"
+        },
+        {
+            "name": "negative_die_two",
+            "current": 0,
+            "max": "",
+            "id": "-Ly5v_16d4Lj1RC-EeMJ"
+        },
+        {
+            "name": "negative_die_one",
+            "current": 0,
+            "max": "",
+            "id": "-Ly5v_17oUbQJXQ-Q05M"
+        },
+        {
+            "name": "skill_die_one",
+            "current": 0,
+            "max": "",
+            "id": "-Ly5v_17oUbQJXQ-Q05N"
+        },
+        {
+            "name": "skill_die_two",
+            "current": 0,
+            "max": "",
+            "id": "-Ly5v_18o68omUWlXDET"
+        },
+        {
+            "name": "skill_die_three",
+            "current": 0,
+            "max": "",
+            "id": "-Ly5v_191v7UTl5hPp69"
+        },
+        {
+            "name": "skill_die_four",
+            "current": 0,
+            "max": "",
+            "id": "-Ly5v_191v7UTl5hPp6A"
+        },
+        {
+            "name": "skill_die_five",
+            "current": 0,
+            "max": "",
+            "id": "-Ly5v_1AGoPFZQgmzZf6"
+        },
+        {
+            "name": "skill_die_six",
+            "current": 0,
+            "max": "",
+            "id": "-Ly5v_1BrSkzcDxPYIdA"
+        },
+        {
+            "name": "skill_die_seven",
+            "current": 0,
+            "max": "",
+            "id": "-Ly5v_1BrSkzcDxPYIdB"
+        },
+        {
+            "name": "gear",
+            "current": 0,
+            "max": "",
+            "id": "-Ly5v_1CBu7FYSAP0Djj"
+        },
+        {
+            "name": "gear_die_one",
+            "current": 0,
+            "max": "",
+            "id": "-Ly5v_1DJdUuB2f6nbAe"
+        },
+        {
+            "name": "gear_die_two",
+            "current": 0,
+            "max": "",
+            "id": "-Ly5v_1DJdUuB2f6nbAf"
+        },
+        {
+            "name": "gear_die_three",
+            "current": 0,
+            "max": "",
+            "id": "-Ly5v_1E1tdff2JqBJ8n"
+        },
+        {
+            "name": "gear_die_four",
+            "current": 0,
+            "max": "",
+            "id": "-Ly5v_1FU1780GCOrEGJ"
+        },
+        {
+            "name": "gear_die_five",
+            "current": 0,
+            "max": "",
+            "id": "-Ly5v_1GzINlmHtRcd29"
+        },
+        {
+            "name": "gear_die_six",
+            "current": 0,
+            "max": "",
+            "id": "-Ly5v_1GzINlmHtRcd2A"
+        },
+        {
+            "name": "gear_die_seven",
+            "current": 0,
+            "max": "",
+            "id": "-Ly5v_1HITVd9VfY4tNs"
+        },
+        {
+            "name": "gear_die_eight",
+            "current": 0,
+            "max": "",
+            "id": "-Ly5v_1Iab-ZVv_nwcvw"
+        },
+        {
+            "name": "gear_die_nine",
+            "current": 0,
+            "max": "",
+            "id": "-Ly5v_1JqwwaOdC9-ymG"
+        },
+        {
+            "name": "gear_die_ten",
+            "current": 0,
+            "max": "",
+            "id": "-Ly5v_1JqwwaOdC9-ymH"
+        },
+        {
+            "name": "gear_die_eleven",
+            "current": 0,
+            "max": "",
+            "id": "-Ly5v_1K7zLlIGQk349R"
+        },
+        {
+            "name": "gear_die_twelve",
+            "current": 0,
+            "max": "",
+            "id": "-Ly5v_1LmGLlfluHisLx"
+        },
+        {
+            "name": "artifact_die_eight",
+            "current": 0,
+            "max": "",
+            "id": "-Ly5v_1MkX-DNAS6O8lp"
+        },
+        {
+            "name": "artifact_die_ocho",
+            "current": 0,
+            "max": "",
+            "id": "-Ly5v_1NcdQW68-mEi_d"
+        },
+        {
+            "name": "artifact_die_ten",
+            "current": 0,
+            "max": "",
+            "id": "-Ly5v_1NcdQW68-mEi_e"
+        },
+        {
+            "name": "artifact_die_twelve",
+            "current": 0,
+            "max": "",
+            "id": "-Ly5v_1PvnxG-Vd2xCdo"
+        },
+        {
+            "name": "fatigue",
+            "current": "0",
+            "max": "",
+            "id": "-Ly5v_1PvnxG-Vd2xCdp"
+        },
+        {
+            "name": "move",
+            "current": "",
+            "max": "",
+            "id": "-Ly5v_1QW3fAz3zxxhcM"
+        },
+        {
+            "name": "repeating_weapons_-LjI4ITlzKvFPQ4HeCBk_weapon_name",
+            "current": "Bite",
+            "max": "",
+            "id": "-Ly5v_1RpD_YdodOdOwz"
+        },
+        {
+            "name": "repeating_weapons_-LjI4ITlzKvFPQ4HeCBk_weapon_bonus",
+            "current": "",
+            "max": "1",
+            "id": "-Ly5v_1RpD_YdodOdOx-"
+        },
+        {
+            "name": "repeating_weapons_-LjI4ITlzKvFPQ4HeCBk_weapon_damage",
+            "current": "1",
+            "max": "",
+            "id": "-Ly5v_1SyIV0kh086SX7"
+        },
+        {
+            "name": "repeating_weapons_-LjI4ITlzKvFPQ4HeCBk_weapon_features",
+            "current": "Slashing",
+            "max": "",
+            "id": "-Ly5v_1TISPsFbPxQMY4"
+        },
+        {
+            "name": "attribute_die_twelve",
+            "current": 0,
+            "max": "",
+            "id": "-Ly5v_1TISPsFbPxQMY5"
+        },
+        {
+            "name": "attribute_die_eleven",
+            "current": 0,
+            "max": "",
+            "id": "-Ly5v_1U49Vnx6vV9XFE"
+        },
+        {
+            "name": "attribute_die_ten",
+            "current": 0,
+            "max": "",
+            "id": "-Ly5v_1U49Vnx6vV9XFF"
+        },
+        {
+            "name": "attribute_die_nine",
+            "current": 0,
+            "max": "",
+            "id": "-Ly5v_1VSqR2cp6eGBFF"
+        },
+        {
+            "name": "attribute_die_eight",
+            "current": 0,
+            "max": "",
+            "id": "-Ly5v_1WnU393bY57Lmi"
+        },
+        {
+            "name": "attribute_die_seven",
+            "current": 0,
+            "max": "",
+            "id": "-Ly5v_1WnU393bY57Lmj"
+        },
+        {
+            "name": "skill_die_ten",
+            "current": 0,
+            "max": "",
+            "id": "-Ly5v_1XJ5gcR_59HWUx"
+        },
+        {
+            "name": "skill_die_nine",
+            "current": 0,
+            "max": "",
+            "id": "-Ly5v_1YeqpCmxUsb5re"
+        },
+        {
+            "name": "skill_die_eight",
+            "current": 0,
+            "max": "",
+            "id": "-Ly5v_1YeqpCmxUsb5rf"
+        },
+        {
+            "name": "version",
+            "current": 1.67,
+            "max": "",
+            "id": "-Ly5v_1Z-3REZGgTrQT1"
+        },
+        {
+            "name": "armor_encumbrance",
+            "current": "0.0",
+            "max": "",
+            "id": "-Ly5v_1_FHhb1zD4wJv5"
+        },
+        {
+            "name": "shield_encumbrance",
+            "current": "0.0",
+            "max": "",
+            "id": "-Ly5v_1_FHhb1zD4wJv6"
+        },
+        {
+            "name": "coins_carried",
+            "current": "0.0",
+            "max": "",
+            "id": "-Ly5v_1auOfoVrPNvN8d"
+        },
+        {
+            "name": "coins_carried_mount",
+            "current": "0.0",
+            "max": "",
+            "id": "-Ly5v_1bhwmi4m2E8bip"
+        },
+        {
+            "name": "armor_shield_encumbrance",
+            "current": 0,
+            "max": "",
+            "id": "-Ly5v_1bhwmi4m2E8biq"
+        },
+        {
+            "name": "gold_total",
+            "current": 0,
+            "max": "",
+            "id": "-Ly5v_1cpCIhlFnJ226c"
+        },
+        {
+            "name": "silver_total",
+            "current": 0,
+            "max": "",
+            "id": "-Ly5v_1cpCIhlFnJ226d"
+        },
+        {
+            "name": "copper_total",
+            "current": 0,
+            "max": "",
+            "id": "-Ly5v_1dMBBY5eQJBrRk"
+        },
+        {
+            "name": "translation_push_query",
+            "current": "Is the Dice Pool correct...? (hint:remove successes and bane) |Yes - Submit to Roll.,Dice Pool is correct.|No - Cancel.,Dice Pool needs to be corrected.",
+            "max": "",
+            "id": "-Ly5v_1et8M1YvcPcGW4"
+        },
+        {
+            "name": "show_announcements",
+            "current": 1,
+            "max": "",
+            "id": "-Ly5v_1fu9OjT8T8SGJG"
+        },
+        {
+            "name": "hirelings_cost",
+            "current": 0,
+            "max": "",
+            "id": "-Ly5v_1fu9OjT8T8SGJH"
+        },
+        {
+            "name": "mount_gear_encumbrance",
+            "current": 0,
+            "max": "",
+            "id": "-Ly5v_1gtlHoeOviDImL"
+        },
+        {
+            "name": "weapons_encumbrance",
+            "current": 0,
+            "max": "",
+            "id": "-Ly5v_1gtlHoeOviDImM"
+        },
+        {
+            "name": "tab",
+            "current": "3",
+            "max": "",
+            "id": "-Ly5veqGK3cQQaAMQJOe"
+        },
+        {
+            "name": "armor1_bonus",
+            "current": 0,
+            "max": "",
+            "id": "-Ly5vkOGRMIpiY7abILo"
+        },
+        {
+            "name": "shield1_bonus_total",
+            "current": 17,
+            "max": "",
+            "id": "-Ly5vkQ1ZS9Mq0RQbBmY"
+        },
+        {
+            "name": "armor1_damage",
+            "current": "0",
+            "max": "",
+            "id": "-Ly5vks-6-8f55XBVxFN"
+        },
+        {
+            "name": "armor1_name",
+            "current": "Skin",
+            "max": "",
+            "id": "-Ly5vlJ75I-rtrq-M8Bn"
+        },
+        {
+            "name": "repeating_notes_-Ly5vvImII6rQ8tG3oBT_note_name",
+            "current": "Regenerate",
+            "max": "",
+            "id": "-Ly5vwFBFfkhzRLhuKRa"
+        },
+        {
+            "name": "repeating_notes_-Ly5vvImII6rQ8tG3oBT_note_description",
+            "current": "A Troll recovers one point of lost Strength each round.",
+            "max": "",
+            "id": "-Ly5vwa2orKWzBtNmPUD"
+        },
+        {
+            "name": "repeating_notes_-Ly5vxscnTgWMMP4ZJKY_note_name",
+            "current": "Stench",
+            "max": "",
+            "id": "-Ly5vzkUtKhVudseROdG"
+        },
+        {
+            "name": "repeating_notes_-Ly5vxscnTgWMMP4ZJKY_note_description",
+            "current": "All enemies within ARM’S LENGTH suffer one point of damage to Agility each round of combat because of the Troll’s horrible stench.",
+            "max": "",
+            "id": "-Ly5w-ufGWz0FXNVDQxo"
+        },
+        {
+            "name": "repeating_notes_-Ly5w0GYcJQMS-qXOprA_note_name",
+            "current": "Sunlight",
+            "max": "",
+            "id": "-Ly5w1EXXgGMxR9aeI63"
+        },
+        {
+            "name": "repeating_notes_-Ly5w0GYcJQMS-qXOprA_note_description",
+            "current": "A Troll suffers one point of damage per round in direct sunlight.",
+            "max": "",
+            "id": "-Ly5w2CiLUOIl0YrKUbq"
+        },
+        {
+            "name": "repeating_monster_-Ly5w3ZWbE0VdYzfTwGY_attack_name",
+            "current": "Rending Attack!",
+            "max": "",
+            "id": "-Ly5w4vboR_Uu3tFiRNz"
+        },
+        {
+            "name": "repeating_monster_-Ly5w5Iv45uu5XWhQLJD_attack_name",
+            "current": "Terrible Bite!",
+            "max": "",
+            "id": "-Ly5w6VMv0zqtgm7DLCp"
+        },
+        {
+            "name": "repeating_monster_-Ly5w6XCLOEGBSO7GDQ6_attack_name",
+            "current": "Troll Throw!",
+            "max": "",
+            "id": "-Ly5w7g47_yiQVCFcU32"
+        },
+        {
+            "name": "repeating_monster_-Ly5w7ppFZwVwcNPkEWm_attack_name",
+            "current": "Sweeping Strike!",
+            "max": "",
+            "id": "-Ly5wA9uWjE3FRtQuYvi"
+        },
+        {
+            "name": "repeating_monster_-Ly5wABowvRRxC5HUE-R_attack_name",
+            "current": "Good Beating!",
+            "max": "",
+            "id": "-Ly5wBP7ZTgw250B1d_x"
+        },
+        {
+            "name": "repeating_monster_-Ly5wBf3Q1LllIhGclSy_attack_name",
+            "current": "Stink Breath!",
+            "max": "",
+            "id": "-Ly5wEocNye2mqQJN3MC"
+        },
+        {
+            "name": "repeating_monster_-Ly5w3ZWbE0VdYzfTwGY_attack_dice",
+            "current": "9",
+            "max": "",
+            "id": "-Ly5wFSadexuWPUTMTSS"
+        },
+        {
+            "name": "repeating_monster_-Ly5w3ZWbE0VdYzfTwGY_attack_damage",
+            "current": "1",
+            "max": "",
+            "id": "-Ly5wGCGSk1hFGN0L7wA"
+        },
+        {
+            "name": "repeating_monster_-Ly5w3ZWbE0VdYzfTwGY_attack_features",
+            "current": "Slash",
+            "max": "",
+            "id": "-Ly5wGXhnw3cr0WTFV75"
+        },
+        {
+            "name": "repeating_monster_-Ly5w3ZWbE0VdYzfTwGY_attack_description",
+            "current": "The Troll tears at an adventurer with its claws. If the attack hits, the victim is also affected by a disease with a Virulence of 6.",
+            "max": "",
+            "id": "-Ly5wIPZc2Rl4oM8OtHm"
+        },
+        {
+            "name": "repeating_monster_-Ly5w5Iv45uu5XWhQLJD_attack_description",
+            "current": "The Troll opens its foul-smelling mouth and bites an adventurer. The adventurer is GRAPPLED and stuck in the jaws of the Troll.",
+            "max": "",
+            "id": "-Ly5wMRQRTWoy0yUnj3_"
+        },
+        {
+            "name": "repeating_monster_-Ly5w6XCLOEGBSO7GDQ6_attack_description",
+            "current": "The Troll lifts an adventurer high into the air and throws her as if she were a rag doll. If hit, the adventurer lands prone at SHORT distance from the Troll.",
+            "max": "",
+            "id": "-Ly5wNfjfXsfCKkaBbLC"
+        },
+        {
+            "name": "repeating_monster_-Ly5w7ppFZwVwcNPkEWm_attack_description",
+            "current": "Using its long and knobby arms, the Troll makes a sweeping attack, hitting all adventurers within ARM’S LENGTH.",
+            "max": "",
+            "id": "-Ly5wOkeuXNSNUdDTvLJ"
+        },
+        {
+            "name": "repeating_monster_-Ly5wABowvRRxC5HUE-R_attack_description",
+            "current": "The Troll grabs the nearest adventurer and throws the victim into another adventurer. If this attack hits, another adventurer within NEAR range is hit by an attack of equal force. All victims who are hit are thrown to the ground.",
+            "max": "",
+            "id": "-Ly5wQ2Ep9A9Wwj4dCef"
+        },
+        {
+            "name": "repeating_monster_-Ly5wBf3Q1LllIhGclSy_attack_description",
+            "current": "The Troll clears its throat with a thunderous sound, and then vomits a cloud of bile and stinking marsh gas in the faces of the adventurers. Each adventurer within NEAR range suffers an attack using seven Base Dice that causes damage to Empathy.",
+            "max": "",
+            "id": "-Ly5wTTUsFa9oovdztCI"
+        },
+        {
+            "name": "repeating_monster_-Ly5w5Iv45uu5XWhQLJD_attack_dice",
+            "current": "8",
+            "max": "",
+            "id": "-Ly5wUVwkVrxSAxvgUsn"
+        },
+        {
+            "name": "repeating_monster_-Ly5w5Iv45uu5XWhQLJD_attack_damage",
+            "current": "2",
+            "max": "",
+            "id": "-Ly5wUccoyTqkV5TLst1"
+        },
+        {
+            "name": "repeating_monster_-Ly5w5Iv45uu5XWhQLJD_attack_features",
+            "current": "Blunt",
+            "max": "",
+            "id": "-Ly5wVWEO46ChlfFBosA"
+        },
+        {
+            "name": "repeating_monster_-Ly5w6XCLOEGBSO7GDQ6_attack_dice",
+            "current": "12",
+            "max": "",
+            "id": "-Ly5wWxDt_vU7ePlXn2o"
+        },
+        {
+            "name": "repeating_monster_-Ly5w6XCLOEGBSO7GDQ6_attack_damage",
+            "current": "1",
+            "max": "",
+            "id": "-Ly5wX2fELDW9QUzUDXk"
+        },
+        {
+            "name": "repeating_monster_-Ly5w6XCLOEGBSO7GDQ6_attack_features",
+            "current": "Blunt",
+            "max": "",
+            "id": "-Ly5wXXHmEJVCPJeqU8j"
+        },
+        {
+            "name": "repeating_monster_-Ly5w7ppFZwVwcNPkEWm_attack_dice",
+            "current": "8",
+            "max": "",
+            "id": "-Ly5wZjz0JJ9Lz3HNj3n"
+        },
+        {
+            "name": "repeating_monster_-Ly5w7ppFZwVwcNPkEWm_attack_damage",
+            "current": "1",
+            "max": "",
+            "id": "-Ly5w_AM28ZExfpYbzdy"
+        },
+        {
+            "name": "repeating_monster_-Ly5wABowvRRxC5HUE-R_attack_dice",
+            "current": "10",
+            "max": "",
+            "id": "-Ly5wc13QvsTDSVut7jN"
+        },
+        {
+            "name": "repeating_monster_-Ly5wABowvRRxC5HUE-R_attack_damage",
+            "current": "1",
+            "max": "",
+            "id": "-Ly5wcAtC4nJFxTH5UXd"
+        },
+        {
+            "name": "repeating_monster_-Ly5wABowvRRxC5HUE-R_attack_features",
+            "current": "Blunt",
+            "max": "",
+            "id": "-Ly5wchGsGgzIhd-oJJG"
+        },
+        {
+            "name": "repeating_monster_-Ly5wBf3Q1LllIhGclSy_attack_range",
+            "current": "Near",
+            "max": "",
+            "id": "-Ly5wgQ7ztqbMUzi7G5r"
+        },
+        {
+            "name": "repeating_monster_-Ly5wBf3Q1LllIhGclSy_attack_dice",
+            "current": "7",
+            "max": "",
+            "id": "-Ly5wk-siLVATidkIuoG"
+        },
+        {
+            "name": "repeating_monster_-Ly5wBf3Q1LllIhGclSy_attack_damage",
+            "current": "1",
+            "max": "",
+            "id": "-Ly5wkc4VRIEIPBrMCsN"
+        },
+        {
+            "name": "repeating_monster_-Ly5wBf3Q1LllIhGclSy_attack_features",
+            "current": "Empathy",
+            "max": "",
+            "id": "-Ly5wlD4Ydt0e9EFRAVc"
+        },
+        {
+            "name": "whisper_option",
+            "current": "",
+            "max": "",
+            "id": "-Ly5woFKftLBlghV9rak"
+        },
+        {
+            "name": "roll_the_dice_flag",
+            "current": 0,
+            "max": "",
+            "id": "-Ly5wr7XqZJV4pUgTSfG"
+        },
+        {
+            "name": "translation_whisper_macro_query",
+            "current": "?{Whisper roll?|No,|Yes,/w gm |}",
+            "max": "",
+            "id": "-M5ghjLayMeyyHe8EChc"
+        },
+        {
+            "name": "translation_whisper_api_macro_query",
+            "current": "?{Whisper roll?|No,!forl |Yes,!wforl |}",
+            "max": "",
+            "id": "-M5ghjLbCtuc4aLPIG8B"
+        },
+        {
+            "name": "strength_pc",
+            "current": 14,
+            "max": "",
+            "id": "-M5ghjLnD1l2AEOKk4Pp"
+        },
+        {
+            "name": "strength_monster",
+            "current": 14,
+            "max": "",
+            "id": "-M5ghjLpbo0j3wK9DRtm"
+        },
+        {
+            "name": "reputation_total",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghjLzvGAy5TOfb5wZ"
+        },
+        {
+            "name": "armor2_bonus",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghjM2HL8kSeRyzQBc"
+        },
+        {
+            "name": "shield1_bonus",
+            "current": 0,
+            "max": "",
+            "id": "-M5ghjM3Fen-OIOwlt0o"
+        }
+    ],
+    "abilities": []
+}

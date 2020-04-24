@@ -1,0 +1,837 @@
+{
+    "schema_version": 2,
+    "oldId": "-M1cRzkLmqmuxz4U21Ey",
+    "name": "Death Knight",
+    "avatar": "",
+    "bio": "",
+    "gmnotes": "",
+    "defaulttoken": "",
+    "tags": "[\"Monster\"]",
+    "controlledby": "",
+    "inplayerjournals": "",
+    "attribs": [
+        {
+            "name": "attribute",
+            "current": 0,
+            "max": "",
+            "id": "-M1cS3EOuybHl9Ni8KTZ"
+        },
+        {
+            "name": "skill",
+            "current": 0,
+            "max": "",
+            "id": "-M1cS3EPgeEXf4QKdE8C"
+        },
+        {
+            "name": "gear",
+            "current": 0,
+            "max": "",
+            "id": "-M1cS3EQ7bU6adS-oz--"
+        },
+        {
+            "name": "attribute_die_twelve",
+            "current": 0,
+            "max": "",
+            "id": "-M1cS3ESiE2IyPd-QkZc"
+        },
+        {
+            "name": "attribute_die_eleven",
+            "current": 0,
+            "max": "",
+            "id": "-M1cS3EuTqs-Op13_8NH"
+        },
+        {
+            "name": "attribute_die_ten",
+            "current": 0,
+            "max": "",
+            "id": "-M1cS3Ew0Htryxv621Nf"
+        },
+        {
+            "name": "attribute_die_nine",
+            "current": 0,
+            "max": "",
+            "id": "-M1cS3Exh3kGbxoOz1kx"
+        },
+        {
+            "name": "attribute_die_eight",
+            "current": 0,
+            "max": "",
+            "id": "-M1cS3EyMDgJHiPjShtf"
+        },
+        {
+            "name": "attribute_die_seven",
+            "current": 0,
+            "max": "",
+            "id": "-M1cS3EzFBCSNEVn0XIt"
+        },
+        {
+            "name": "attribute_die_six",
+            "current": 0,
+            "max": "",
+            "id": "-M1cS3F-2vW9JBkaR9TZ"
+        },
+        {
+            "name": "attribute_die_five",
+            "current": 0,
+            "max": "",
+            "id": "-M1cS3F0XtrrFU3TBOk3"
+        },
+        {
+            "name": "attribute_die_four",
+            "current": 0,
+            "max": "",
+            "id": "-M1cS3F1dzVvUSvR9--9"
+        },
+        {
+            "name": "attribute_die_three",
+            "current": 0,
+            "max": "",
+            "id": "-M1cS3F2iKbhli3zbH7u"
+        },
+        {
+            "name": "attribute_die_two",
+            "current": 0,
+            "max": "",
+            "id": "-M1cS3F3f1uCXYzVVhwD"
+        },
+        {
+            "name": "attribute_die_one",
+            "current": 0,
+            "max": "",
+            "id": "-M1cS3F4zhaeJSzZpnlU"
+        },
+        {
+            "name": "negative_die_one",
+            "current": 0,
+            "max": "",
+            "id": "-M1cS3F5LF3k9Az27G98"
+        },
+        {
+            "name": "negative_die_two",
+            "current": 0,
+            "max": "",
+            "id": "-M1cS3F6_-yxcR9APX5_"
+        },
+        {
+            "name": "negative_die_three",
+            "current": 0,
+            "max": "",
+            "id": "-M1cS3F7Hg3aNlV7Qv8b"
+        },
+        {
+            "name": "skill_die_ten",
+            "current": 0,
+            "max": "",
+            "id": "-M1cS3F81eAr8gZHtc71"
+        },
+        {
+            "name": "skill_die_nine",
+            "current": 0,
+            "max": "",
+            "id": "-M1cS3FAFcFC_a1SXZCX"
+        },
+        {
+            "name": "skill_die_eight",
+            "current": 0,
+            "max": "",
+            "id": "-M1cS3FB_ERL-TLR6M0k"
+        },
+        {
+            "name": "skill_die_seven",
+            "current": 0,
+            "max": "",
+            "id": "-M1cS3FCNlTLPXEYvYgr"
+        },
+        {
+            "name": "skill_die_six",
+            "current": 0,
+            "max": "",
+            "id": "-M1cS3FDBSiYfN_YerF8"
+        },
+        {
+            "name": "skill_die_five",
+            "current": 0,
+            "max": "",
+            "id": "-M1cS3FEP9z0oYWec9fj"
+        },
+        {
+            "name": "skill_die_four",
+            "current": 0,
+            "max": "",
+            "id": "-M1cS3FF7CORWVdejwNz"
+        },
+        {
+            "name": "skill_die_three",
+            "current": 0,
+            "max": "",
+            "id": "-M1cS3FG3ax0yMs32hQH"
+        },
+        {
+            "name": "skill_die_two",
+            "current": 0,
+            "max": "",
+            "id": "-M1cS3FI4LJwsS2QBR6b"
+        },
+        {
+            "name": "skill_die_one",
+            "current": 0,
+            "max": "",
+            "id": "-M1cS3FJR7MI74LF03tm"
+        },
+        {
+            "name": "gear_die_twelve",
+            "current": 0,
+            "max": "",
+            "id": "-M1cS3FKYa-TpdS2hxmZ"
+        },
+        {
+            "name": "gear_die_eleven",
+            "current": 0,
+            "max": "",
+            "id": "-M1cS3FL8mYgz4xfJmx_"
+        },
+        {
+            "name": "gear_die_ten",
+            "current": 0,
+            "max": "",
+            "id": "-M1cS3FMF6BYIQ39x5Vv"
+        },
+        {
+            "name": "gear_die_nine",
+            "current": 0,
+            "max": "",
+            "id": "-M1cS3FNAsFnxmAFCOJA"
+        },
+        {
+            "name": "gear_die_eight",
+            "current": 0,
+            "max": "",
+            "id": "-M1cS3FOEep0vBmzqAJm"
+        },
+        {
+            "name": "gear_die_seven",
+            "current": 0,
+            "max": "",
+            "id": "-M1cS3FP11-bRVb6Nsme"
+        },
+        {
+            "name": "gear_die_six",
+            "current": 0,
+            "max": "",
+            "id": "-M1cS3FQWZKyB1vKwaj6"
+        },
+        {
+            "name": "gear_die_five",
+            "current": 0,
+            "max": "",
+            "id": "-M1cS3FQWZKyB1vKwaj7"
+        },
+        {
+            "name": "gear_die_four",
+            "current": 0,
+            "max": "",
+            "id": "-M1cS3FR6njf31Jj0ITr"
+        },
+        {
+            "name": "gear_die_three",
+            "current": 0,
+            "max": "",
+            "id": "-M1cS3FSR5GyjY0BG1Jw"
+        },
+        {
+            "name": "gear_die_two",
+            "current": 0,
+            "max": "",
+            "id": "-M1cS3FT9Ymp5EkDrruh"
+        },
+        {
+            "name": "gear_die_one",
+            "current": 0,
+            "max": "",
+            "id": "-M1cS3FUseJ8G-S10HKb"
+        },
+        {
+            "name": "artifact_die_eight",
+            "current": 0,
+            "max": "",
+            "id": "-M1cS3FVtzdnJTwlk6Ra"
+        },
+        {
+            "name": "artifact_die_ocho",
+            "current": 0,
+            "max": "",
+            "id": "-M1cS3FWXixZF159YFMa"
+        },
+        {
+            "name": "artifact_die_ten",
+            "current": 0,
+            "max": "",
+            "id": "-M1cS3FX2933-FE6YbNG"
+        },
+        {
+            "name": "artifact_die_twelve",
+            "current": 0,
+            "max": "",
+            "id": "-M1cS3FY_o0y9j-1uLV-"
+        },
+        {
+            "name": "current_preset",
+            "current": "Custom Roll",
+            "max": "",
+            "id": "-M1cS3FZv36ebZJMMe7-"
+        },
+        {
+            "name": "include_with_roll",
+            "current": "",
+            "max": "",
+            "id": "-M1cS3F_TxOUfZQJxsr-"
+        },
+        {
+            "name": "version",
+            "current": 1.67,
+            "max": "",
+            "id": "-M1cS3FaM0sEvFtoXp7j"
+        },
+        {
+            "name": "armor_encumbrance",
+            "current": "0.0",
+            "max": "",
+            "id": "-M1cS3FbJIxVwZXT7Z_N"
+        },
+        {
+            "name": "shield_encumbrance",
+            "current": "0.0",
+            "max": "",
+            "id": "-M1cS3Fc7BMsWZvKBT-V"
+        },
+        {
+            "name": "coins_carried",
+            "current": "0.0",
+            "max": "",
+            "id": "-M1cS3FdWbF4qkVfWVYk"
+        },
+        {
+            "name": "coins_carried_mount",
+            "current": "0.0",
+            "max": "",
+            "id": "-M1cS3Ffli9ytxFhCPQE"
+        },
+        {
+            "name": "armor_shield_encumbrance",
+            "current": 0,
+            "max": "",
+            "id": "-M1cS3FgCH4aA35DDx7E"
+        },
+        {
+            "name": "character_encumbrance",
+            "current": 0,
+            "max": "",
+            "id": "-M1cS3FhRKz6XX2VuY4C"
+        },
+        {
+            "name": "mount_encumbrance",
+            "current": 0,
+            "max": "",
+            "id": "-M1cS3FisShusTf_3DZP"
+        },
+        {
+            "name": "gold_total",
+            "current": 0,
+            "max": "",
+            "id": "-M1cS3FjVt7jYlJvCsSL"
+        },
+        {
+            "name": "silver_total",
+            "current": 0,
+            "max": "",
+            "id": "-M1cS3FjVt7jYlJvCsSM"
+        },
+        {
+            "name": "copper_total",
+            "current": 0,
+            "max": "",
+            "id": "-M1cS3FkWNljzPyFWikV"
+        },
+        {
+            "name": "strength",
+            "current": 12,
+            "max": "",
+            "id": "-M1cS3Fm2iTo8HCAwl2t"
+        },
+        {
+            "name": "reputation_total",
+            "current": 0,
+            "max": "",
+            "id": "-M1cS3G-zkyHMqRU2LEh"
+        },
+        {
+            "name": "armor1_ar",
+            "current": 3,
+            "max": "",
+            "id": "-M1cS3G1bKFYAMhwdhvj"
+        },
+        {
+            "name": "armor2_ar",
+            "current": 0,
+            "max": "",
+            "id": "-M1cS3G2PIRhFVDioISb"
+        },
+        {
+            "name": "ar",
+            "current": 3,
+            "max": "",
+            "id": "-M1cS3G3qqDo5sdaMcnF"
+        },
+        {
+            "name": "armor1_bonus",
+            "current": 3,
+            "max": "6",
+            "id": "-M1cS3G4pYUznbWhHvQb"
+        },
+        {
+            "name": "armor2_bonus",
+            "current": 0,
+            "max": "",
+            "id": "-M1cS3G4pYUznbWhHvQc"
+        },
+        {
+            "name": "shield1_bonus",
+            "current": 0,
+            "max": "",
+            "id": "-M1cS3G6yW8hVJKaK-nq"
+        },
+        {
+            "name": "shield1_bonus_total",
+            "current": 0,
+            "max": "",
+            "id": "-M1cS3G9lprGzC5-H6St"
+        },
+        {
+            "name": "translation_push_query",
+            "current": "Is the Dice Pool correct...? (hint:remove successes and bane) |Yes - Submit to Roll.,Dice Pool is correct.|No - Cancel.,Dice Pool needs to be corrected.",
+            "max": "",
+            "id": "-M1cS3GA5NxzApOtYRNY"
+        },
+        {
+            "name": "strength_total",
+            "current": 0,
+            "max": 12,
+            "id": "-M1cS3GBVK-D5SkUHnSa"
+        },
+        {
+            "name": "agility_total",
+            "current": 3,
+            "max": 3,
+            "id": "-M1cS3GCQA6ZSx17A42P"
+        },
+        {
+            "name": "wits_total",
+            "current": 3,
+            "max": 3,
+            "id": "-M1cS3GDUWgwsq1BHYM1"
+        },
+        {
+            "name": "empathy_total",
+            "current": 2,
+            "max": 2,
+            "id": "-M1cS3GE2oKlHy7IWR6C"
+        },
+        {
+            "name": "show_announcements",
+            "current": 1,
+            "max": "",
+            "id": "-M1cS3GGLssZqHlzp5P_"
+        },
+        {
+            "name": "hirelings_cost",
+            "current": 0,
+            "max": "",
+            "id": "-M1cS3GHU1jrFpkYp5Ks"
+        },
+        {
+            "name": "character_gear_encumbrance",
+            "current": 0,
+            "max": "",
+            "id": "-M1cS3GIrlooniroUduL"
+        },
+        {
+            "name": "mount_gear_encumbrance",
+            "current": 0,
+            "max": "",
+            "id": "-M1cS3GJBOX40iKFRx3Q"
+        },
+        {
+            "name": "weapons_encumbrance",
+            "current": 0,
+            "max": "",
+            "id": "-M1cS3GKBdOSgTrEOxo5"
+        },
+        {
+            "name": "tab",
+            "current": "3",
+            "max": "",
+            "id": "-M1cS8V_koS8Oh2lqOjZ"
+        },
+        {
+            "name": "strength_monster",
+            "current": "12",
+            "max": "",
+            "id": "-M1cSA4smeaBjXpbAGzI"
+        },
+        {
+            "name": "crafting_total",
+            "current": 0,
+            "max": "",
+            "id": "-M1cSA9qRhpgfeqb-esE"
+        },
+        {
+            "name": "endurance_total",
+            "current": 0,
+            "max": "",
+            "id": "-M1cSA9rSamx447M9hDf"
+        },
+        {
+            "name": "melee_total",
+            "current": 0,
+            "max": "",
+            "id": "-M1cSAA-Wlcj4o9kIqF8"
+        },
+        {
+            "name": "might_total",
+            "current": 0,
+            "max": "",
+            "id": "-M1cSAA1NImwD5tQNCpI"
+        },
+        {
+            "name": "agility",
+            "current": 3,
+            "max": "",
+            "id": "-M1cSAvFKSOmOf1nKeQn"
+        },
+        {
+            "name": "marksmanship_total",
+            "current": 3,
+            "max": "",
+            "id": "-M1cSAyfdhLOA2v2yr4R"
+        },
+        {
+            "name": "move_total",
+            "current": 3,
+            "max": "",
+            "id": "-M1cSAyrua3TkPKdLKJm"
+        },
+        {
+            "name": "sleight_of_hand_total",
+            "current": 3,
+            "max": "",
+            "id": "-M1cSAyskhG3lbgi5KaK"
+        },
+        {
+            "name": "stealth_total",
+            "current": 3,
+            "max": "",
+            "id": "-M1cSAytNsdk9xSyu38X"
+        },
+        {
+            "name": "wits",
+            "current": 3,
+            "max": "",
+            "id": "-M1cSBNHsbZl63QI6LL5"
+        },
+        {
+            "name": "insight_total",
+            "current": 3,
+            "max": "",
+            "id": "-M1cSBQaoD8lS_WiBh_g"
+        },
+        {
+            "name": "lore_total",
+            "current": 3,
+            "max": "",
+            "id": "-M1cSBQcORgMe1eOJ13L"
+        },
+        {
+            "name": "scouting_total",
+            "current": 3,
+            "max": "",
+            "id": "-M1cSBQdmkkEZeE_DiHa"
+        },
+        {
+            "name": "survival_total",
+            "current": 3,
+            "max": "",
+            "id": "-M1cSBQfrVHnhcztz72c"
+        },
+        {
+            "name": "empathy",
+            "current": 2,
+            "max": "",
+            "id": "-M1cSFDRpfqG6lYjoqg3"
+        },
+        {
+            "name": "animal_handling_total",
+            "current": 2,
+            "max": "",
+            "id": "-M1cSFH6l3pALgrrg5US"
+        },
+        {
+            "name": "healing_total",
+            "current": 2,
+            "max": "",
+            "id": "-M1cSFH8Lry8w16ZSpNl"
+        },
+        {
+            "name": "manipulation_total",
+            "current": 2,
+            "max": "",
+            "id": "-M1cSFH9L8fV8A-whY7E"
+        },
+        {
+            "name": "performance_total",
+            "current": 2,
+            "max": "",
+            "id": "-M1cSFHAsCLGY2dDoX0Y"
+        },
+        {
+            "name": "armor1_name",
+            "current": "Chainmail",
+            "max": "",
+            "id": "-M1cSFcSTeS3mYpRyVsR"
+        },
+        {
+            "name": "repeating_monster_-M1cSH3p7mUD7GNZIOKt_attack_name",
+            "current": "Power Attack!",
+            "max": "",
+            "id": "-M1cSHqK-pgk9m5bLydj"
+        },
+        {
+            "name": "repeating_monster_-M1cSH3p7mUD7GNZIOKt_attack_dice",
+            "current": "12",
+            "max": "",
+            "id": "-M1cSKNs6eb-FnNRLYjD"
+        },
+        {
+            "name": "roll_the_dice_flag",
+            "current": 0,
+            "max": "",
+            "id": "-M1cSdVRWTbsIugbfWuG"
+        },
+        {
+            "name": "damage",
+            "current": "12",
+            "max": "",
+            "id": "-M1cSgROtL3k6y8Uf0gX"
+        },
+        {
+            "name": "repeating_monster_-M1cSqhyykVXxIga81RG_attack_name",
+            "current": "Unholy Roar!",
+            "max": "",
+            "id": "-M1cSrh6-BiUF82MmgTi"
+        },
+        {
+            "name": "repeating_monster_-M1cSsA6lba421PBb44p_attack_name",
+            "current": "Dead Man's Hand",
+            "max": "",
+            "id": "-M1cStYcM-HYXUUUTgNb"
+        },
+        {
+            "name": "repeating_monster_-M1cT0VnyAQKEEsV-bz-_attack_name",
+            "current": "Sweeping Attack!",
+            "max": "",
+            "id": "-M1cT2BHyifBj1_afi2S"
+        },
+        {
+            "name": "repeating_monster_-M1cT2ULEq3ExuURsRw5_attack_name",
+            "current": "Crippling Cold!",
+            "max": "",
+            "id": "-M1cT5fLGkATmzCV0gFB"
+        },
+        {
+            "name": "repeating_monster_-M1cT5uXBTgfNkEfFDoY_attack_name",
+            "current": "Deathly Visions!",
+            "max": "",
+            "id": "-M1cT7496a7HUSnMtYHK"
+        },
+        {
+            "name": "repeating_monster_-M1cSH3p7mUD7GNZIOKt_attack_description",
+            "current": "In deathly silence, the Death Knight swings its weapon in a powerful attack against an adventurer. If the attack does damage, the adventurer is thrown to NEAR range and is tossed to the ground. The attack can be parried.",
+            "max": "",
+            "id": "-M1cTHC0DK5jQ4kyemfg"
+        },
+        {
+            "name": "repeating_monster_-M1cSH3p7mUD7GNZIOKt_attack_range",
+            "current": "Near",
+            "max": "",
+            "id": "-M1cTHWXj90WnUa7b4IC"
+        },
+        {
+            "name": "repeating_monster_-M1cSqhyykVXxIga81RG_attack_description",
+            "current": "The Death Knight’s decomposed skull contorts and an unnatural scream sounds from the dead throat. Everyone within NEAR range is affected by a fear attack with eight Base Dice.",
+            "max": "",
+            "id": "-M1cTN5nSxkUFpfoC6Rh"
+        },
+        {
+            "name": "repeating_monster_-M1cSsA6lba421PBb44p_attack_description",
+            "current": "The Death Knight lifts his hand and makes a gesture after which an adventurer within NEAR range is lifted from the ground and thrown to SHORT range. Perform an attack with eight Base Dice and Weapon Damage 2 (blunt force).\n ",
+            "max": "",
+            "id": "-M1cTPCtM9e-WrYIVOYG"
+        },
+        {
+            "name": "repeating_monster_-M1cT0VnyAQKEEsV-bz-_attack_description",
+            "current": "The beast sweeps with its weapon and attacks all the adventurers within ARM’S LENGTH range with eight Base Dice and damage according to the weapon. The attack can be parried.",
+            "max": "",
+            "id": "-M1cTRLil12F_6a8xM4N"
+        },
+        {
+            "name": "repeating_monster_-M1cT2ULEq3ExuURsRw5_attack_description",
+            "current": "An unlucky adventurer stares directly into the horrible gaze of the Death Knight as a wheezing sound is heard from the creature’s throat. The attack works as paralyzing poison with Potency 8 (see page 113 in the Player’s Handbook).",
+            "max": "",
+            "id": "-M1cTXTfopVWr-0UgIQo"
+        },
+        {
+            "name": "repeating_monster_-M1cT5uXBTgfNkEfFDoY_attack_description",
+            "current": "The Death Knight falls to its knees and makes a gesture towards the ground. In the next moment, a temporary gate to the kingdom of death is opened and a chosen adventurer within NEAR range is attacked by a score of screaming phantoms, who tear at the unlucky soul and calls its name in anguish. The victim is affected by a fear attack with twelve Base Dice.",
+            "max": "",
+            "id": "-M1cTYpkswlPaSkWloUM"
+        },
+        {
+            "name": "repeating_monster_-M1cSH3p7mUD7GNZIOKt_attack_damage",
+            "current": "2",
+            "max": "",
+            "id": "-M1cTpUXK9zkvc9Gt-Jt"
+        },
+        {
+            "name": "repeating_monster_-M1cSH3p7mUD7GNZIOKt_attack_features",
+            "current": "Slashing",
+            "max": "",
+            "id": "-M1cTrJzqH6Hlhzq278f"
+        },
+        {
+            "name": "repeating_monster_-M1cSqhyykVXxIga81RG_attack_dice",
+            "current": "8",
+            "max": "",
+            "id": "-M1cTsyGLa31K-MOZF1m"
+        },
+        {
+            "name": "repeating_monster_-M1cSqhyykVXxIga81RG_attack_damage",
+            "current": "1",
+            "max": "",
+            "id": "-M1cTtsla58Xj5pskJFa"
+        },
+        {
+            "name": "repeating_monster_-M1cSqhyykVXxIga81RG_attack_range",
+            "current": "Near",
+            "max": "",
+            "id": "-M1cTvCjvBwYfyJEfxwR"
+        },
+        {
+            "name": "repeating_monster_-M1cSsA6lba421PBb44p_attack_range",
+            "current": "Near",
+            "max": "",
+            "id": "-M1cTwwf0XY7MZ__TOch"
+        },
+        {
+            "name": "repeating_monster_-M1cSqhyykVXxIga81RG_attack_features",
+            "current": "Fear",
+            "max": "",
+            "id": "-M1cUuWWQnIdPubkRNoJ"
+        },
+        {
+            "name": "repeating_monster_-M1cSsA6lba421PBb44p_attack_dice",
+            "current": "8",
+            "max": "",
+            "id": "-M1cUx17KcKtCdEIYaXJ"
+        },
+        {
+            "name": "repeating_monster_-M1cSsA6lba421PBb44p_attack_damage",
+            "current": "2",
+            "max": "",
+            "id": "-M1cUx7oXidZb3ejmbYv"
+        },
+        {
+            "name": "repeating_monster_-M1cSsA6lba421PBb44p_attack_features",
+            "current": "Blunt",
+            "max": "",
+            "id": "-M1cUxqcOydsQBmXvcnj"
+        },
+        {
+            "name": "repeating_monster_-M1cT0VnyAQKEEsV-bz-_attack_dice",
+            "current": "8",
+            "max": "",
+            "id": "-M1cUz3aMzGBTKtXbxVl"
+        },
+        {
+            "name": "repeating_monster_-M1cT0VnyAQKEEsV-bz-_attack_damage",
+            "current": "2",
+            "max": "",
+            "id": "-M1cV-ittIb1Z2m03PEu"
+        },
+        {
+            "name": "repeating_monster_-M1cT0VnyAQKEEsV-bz-_attack_features",
+            "current": "Slashing",
+            "max": "",
+            "id": "-M1cVTlSrCECXpwKwjtA"
+        },
+        {
+            "name": "repeating_monster_-M1cT2ULEq3ExuURsRw5_attack_features",
+            "current": "Paralyzing Poison",
+            "max": "",
+            "id": "-M1cVVIXQJ4IBm9SwuUG"
+        },
+        {
+            "name": "repeating_monster_-M1cT2ULEq3ExuURsRw5_attack_dice",
+            "current": "8",
+            "max": "",
+            "id": "-M1cVeZP_HUJKIiEAyXr"
+        },
+        {
+            "name": "repeating_monster_-M1cT2ULEq3ExuURsRw5_attack_damage",
+            "current": "1",
+            "max": "",
+            "id": "-M1cVfOsYrBJvC2_4W7M"
+        },
+        {
+            "name": "repeating_monster_-M1cT5uXBTgfNkEfFDoY_attack_range",
+            "current": "Near",
+            "max": "",
+            "id": "-M1cVuafpM3RTDN9iFi5"
+        },
+        {
+            "name": "repeating_monster_-M1cT5uXBTgfNkEfFDoY_attack_dice",
+            "current": "12",
+            "max": "",
+            "id": "-M1cVy7ffIkjVlp_Z0OT"
+        },
+        {
+            "name": "repeating_monster_-M1cT5uXBTgfNkEfFDoY_attack_damage",
+            "current": "1",
+            "max": "",
+            "id": "-M1cVyDgMTCpNzRIdmfr"
+        },
+        {
+            "name": "repeating_monster_-M1cT5uXBTgfNkEfFDoY_attack_features",
+            "current": "Fear",
+            "max": "",
+            "id": "-M1cVyeRP8w3hJDv02Po"
+        },
+        {
+            "name": "strength_pc",
+            "current": 12,
+            "max": "",
+            "id": "-M1cWoMPAkZqJVnfGetY"
+        },
+        {
+            "name": "translation_whisper_macro_query",
+            "current": "?{Whisper roll?|No,|Yes,/w gm |}",
+            "max": "",
+            "id": "-M5ggoslFRpPY4xFZh95"
+        },
+        {
+            "name": "translation_whisper_api_macro_query",
+            "current": "?{Whisper roll?|No,!forl |Yes,!wforl |}",
+            "max": "",
+            "id": "-M5ggosrYjrP_NZVaXwe"
+        }
+    ],
+    "abilities": []
+}
